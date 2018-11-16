@@ -54,11 +54,11 @@
 >>- [x] 点击波纹    
 
 ### 文件目录描述    
->`R_SpTEST` 测试版完整皮肤文件（未压缩）    
->`R_Sp[osu!]` 正式版完整皮肤文件（未压缩）    
+>`R_Sp[osu!]_Chinese` 完整皮肤文件（中文，未压缩）    
+>`R_Sp[osu!]_English` 完整皮肤文件（英文，未压缩）    
 >`Resource` 项目素材文件    
 >`R_Sp.aep` 项目工程文件    
->`docs` [皮肤公示站]网页源码(https://sendevia.github.io/R_Sp-osu-/)    
+>`docs` [皮肤公示站](https://sendevia.github.io/R_Sp-osu-/)网页源码    
 
 ### 如何打开`R_Sp.aep`    
 >首先，这个工程是用Adobe After Effects创建的，别的软件是打不开的，    
