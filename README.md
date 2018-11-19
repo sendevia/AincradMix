@@ -4,9 +4,8 @@
 |**一个开源的osu!全模式皮肤项目**|    
 
 ### [下载地址](https://github.com/Sendevia/R_Sp-osu-/releases)    
-|  β8.1  |  β8.2  |
-|:------:|:------:|
-|[⭕](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.1/R_Sp.B8.1.osk)|[❌]()|
+| β8.1 | [![β8.1下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/download_s.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.1/R_Sp.B8.1.osk) |
+|:-:|:-:|
 
 ### 简单的介绍    
 >#### 全称    
@@ -62,8 +61,8 @@
 
 ### 如何打开`R_Sp.aep`    
 >首先，这个工程是用Adobe After Effects创建的，别的软件是打不开的，    
->**推荐用Win10系统来打开和编辑**    
->还有，你**必须**拥有以下的插件、脚本、字体，不然打开后会乱成一团的233333    
+>**推荐Win10系统下来打开和编辑这个文件**    
+>另外，你**必须**拥有以下的插件、脚本和字体，不然打开后会乱成一团的233    
 >>##### 插件    
 >>[Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/)    
 >>##### 脚本    
