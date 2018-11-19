@@ -1,11 +1,10 @@
-
-| ![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/ED9F4CB52EFE4649.png)|  
-|:-:|
+| ![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/ED9F4CB52EFE4649.png)|    
+|:-:|    
 |**一个开源的osu!全模式皮肤项目**|    
 
 ### [下载地址](https://github.com/Sendevia/R_Sp-osu-/releases)    
-| β8.1 | [![β8.1下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/download_s.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.1/R_Sp.B8.1.osk) |
-|:-:|:-:|
+| β8.1 | [![β8.1下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.1/R_Sp.B8.1.osk) |    
+|:-:|:-:|    
 
 ### 简单的介绍    
 >#### 全称    
@@ -82,3 +81,6 @@
 ### 元素导出说明    
 > 1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`    
 > 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **（注意，是`_[#]`而不是`-[#]`或`[#]`）**    
+
+| ![SENDEVIA](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/371864A9D4EBE60D.png)|  
+|:-:|    
