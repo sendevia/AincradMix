@@ -5,6 +5,8 @@
 ### [下载地址](https://github.com/Sendevia/R_Sp-osu-/releases)    
 | β8.1 | [![β8.1下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.1/R_Sp.B8.1.osk) |    
 |:-:|:-:|    
+| β8.2 | [![β8.2下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.2/R_Sp.B8.2.zip) |    
+|:-:|:-:|    
 
 ### 简单的介绍    
 >#### 全称    
@@ -24,7 +26,7 @@
 ![taiko](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/D379A71FDB13EDAA.png)
 
 ### 如何使用 · β版（纯萌新教学）    
->1. 点击 [这](https://github.com/Sendevia/R_SpTEST/releases) 跳转到下载页    
+>1. 点击 [这](https://github.com/Sendevia/R_Sp-osu-/releases/) 跳转到下载页    
 >2. 下载最新的`.osk`文件    
 >3. 双击下载完成的`.osk`文件（[osu!](https://osu.ppy.sh/)本体一定要被正确安装）    
 >4. 开始玩吧~    
