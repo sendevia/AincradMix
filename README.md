@@ -3,10 +3,9 @@
 |**一个开源的osu!全模式皮肤项目**|    
 
 ### [下载地址](https://github.com/Sendevia/R_Sp-osu-/releases)    
-| β8.1 | [![β8.1下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.1/R_Sp.B8.1.osk) |    
+| β8.1 | [![β8.1下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载（这不是最新版哦~）")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.1/R_Sp.B8.1.osk) |    
 |:-:|:-:|    
 | β8.2 | [![β8.2下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.2/R_Sp.B8.2.zip) |    
-|:-:|:-:|    
 
 ### 简单的介绍    
 >#### 全称    
@@ -57,12 +56,13 @@
 >`R_Sp[osu!]_Chinese` 完整皮肤文件（中文，未压缩）    
 >`R_Sp[osu!]_English` 完整皮肤文件（英文，未压缩）    
 >`Resource` 项目素材文件    
->`R_Sp.aep` 项目工程文件    
+>`R_Sp[osu!].aep` 皮肤项目工程文件    
+>`R_Sp[brochures]` 宣传项目工程文件    
 >`docs` [皮肤公示站](https://sendevia.github.io/R_Sp-osu-/)网页源码    
 
-### 如何打开`R_Sp.aep`    
->首先，这个工程是用Adobe After Effects创建的，别的软件是打不开的，    
->**推荐Win10系统下来打开和编辑这个文件**    
+### 如何打开这些`.aep`文件    
+>**推荐用Win10系统打开和编辑这些文件**    
+>首先，这个些文件是用Adobe After Effects创建的，别的软件是打不开的，    
 >另外，你**必须**拥有以下的插件、脚本和字体，不然打开后会乱成一团的233    
 >>##### 插件    
 >>[Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/)    
@@ -83,6 +83,3 @@
 ### 元素导出说明    
 > 1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`    
 > 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **（注意，是`_[#]`而不是`-[#]`或`[#]`）**    
-
-| ![SENDEVIA](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/371864A9D4EBE60D.png)|  
-|:-:|    
