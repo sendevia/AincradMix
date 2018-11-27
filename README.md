@@ -1,11 +1,11 @@
-|![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/ED9F4CB52EFE4649.png)<iframe src="//player.bilibili.com/player.html?aid=36524537&cid=64133766&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>|    
+|![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/ED9F4CB52EFE4649.png)|    
 |:-:|    
 |**一个开源的osu!全模式皮肤项目**|    
 
 ### [下载地址](https://github.com/Sendevia/R_Sp-osu-/releases)    
-| β8.1 | [![β8.1下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载（这不是最新版哦~）")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.1/R_Sp.B8.1.osk) |    
-|:-:|:-:|    
 | β8.2 | [![β8.2下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.2/R_Sp.B8.2.zip) |    
+|:-:|:-:|    
+| β8.1 | [![β8.1下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载（在上面~）")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.1/R_Sp.B8.1.osk) |    
 
 ### 简单的介绍    
 >#### 全称    
@@ -46,24 +46,24 @@
 >>- [x] 进度条位置：右上角（饼状）    
 >#### 皮肤    
 >>- [x] 忽略所有谱面自带的皮肤    
->>- [x] 光标大小 ***0.55x***    
+>>- [x] 光标大小 ***0.65x***    
 >>- [x] 自动缩放光标    
 >>- [x] 拖球的颜色随滑条改变    
 >#### 鼠标    
 >>- [x] 点击波纹    
 
 ### 文件目录描述    
->`R_Sp[osu!]_Chinese` 完整皮肤文件（中文，未压缩）    
->`R_Sp[osu!]_English` 完整皮肤文件（英文，未压缩）    
->`Resource` 项目素材文件    
+>`/R_Sp[osu!]_Chinese` 完整皮肤文件（中文，未压缩）    
+>`/R_Sp[osu!]_English` 完整皮肤文件（英文，未压缩）    
+>`/Resource` 项目素材文件    
 >`R_Sp[osu!].aep` 皮肤项目工程文件    
 >`R_Sp[brochures]` 宣传项目工程文件    
->`docs` [皮肤公示站](https://sendevia.github.io/R_Sp-osu-/)网页源码    
+>`/docs` [皮肤公示站](https://sendevia.github.io/R_Sp-osu-/)网页源码    
 
 ### 如何打开这些`.aep`文件    
->**推荐用Win10系统打开和编辑这些文件**    
->首先，这个些文件是用Adobe After Effects创建的，别的软件是打不开的，    
->另外，你**必须**拥有以下的插件、脚本和字体，不然打开后会乱成一团的233    
+>**推荐用Win10系统打开和编辑**    
+>首先，这些文件是用Adobe After Effects创建的，别的软件是打不开的，    
+>还有，你**必须**拥有以下的插件、脚本和字体，不然打开后会乱成一团的233    
 >>##### 插件    
 >>[Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/)    
 >>##### 脚本    
@@ -76,7 +76,7 @@
 >>DS-Digital    
 >>Aller    
 
-### 工程文件内部说明    
+### 工程文件内部说明（待更新）    
 > 1. 每个元素都是按名称进行排序归类的，放在与它同名的文件夹里    
 > 2. 每个文件夹后的注释都有对该文件夹内所有元素数量及属性的说明    
 
