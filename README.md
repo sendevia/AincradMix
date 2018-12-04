@@ -1,30 +1,46 @@
-|![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/ED9F4CB52EFE4649.png)|    
+|![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/60BCDCF6AE637C19.png)|    
 |:-:|    
 |**一个开源的osu!全模式皮肤项目**|    
 
 ### [下载地址](https://github.com/Sendevia/R_Sp-osu-/releases)    
 | β8.2 | [![β8.2下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.2/R_Sp.B8.2.zip) |    
 |:-:|:-:|    
-| β8.1 | [![β8.1下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载（在上面~）")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.1/R_Sp.B8.1.osk) |    
+
+|![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/ED9F4CB52EFE4649.png)|    
+|:-:|    
 
 ### 简单的介绍    
 >#### 全称    
 >- ***R_Sp[osu!]*** 的全称是Remixes Sword art online Project for osu!game    
 >#### 设计理念    
 >- 基于在整个《刀剑神域》系列番剧中出现的所有UI的基础上，将更为现代的设计理念与osu!游戏风格相混合    
+>#### R_Sp[osu!]的优势    
+>- 极高的可定制化    
+>- 良好的打图手感    
+>- 简洁的界面    
+>- 基于刀剑神域系列番剧    
+>- 兼容多种类osu!游戏    
+>- ...
+>#### 这个皮肤较为完整的支持了    
+>- McOsu,FPoSu,Opsu    
+>#### 这个皮肤目前不支持    
+>- osu!droid
 
 ### 截图    
-![主界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/F9AD2F5A5530B069.png)
-![选歌界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/B6F41AFE710F8358.png)
-![成绩结算界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/A2CE3B00463D2975.png)
-![mod选择界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/AE070904E8B50FC7.png)
-![模式选择界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/2A9B5FA7C40EE22A.png)
-![std](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/3661747C85BF3BC6.png)
-![mania](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/07C08C66777E10D1.png)
-![ctb](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/8DEB974770E6170A.png)
-![taiko](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/D379A71FDB13EDAA.png)
+![主界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/menu_1.png)    
+![选歌界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/menu_2.png)    
+![成绩结算界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/score.png)    
+![mod选择界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mods.png)    
+![模式选择界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mode.png)    
+![std](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/std_1.png)    
+![std](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/std_2.png)    
+![mania](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mania_1.png)    
+![mania](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mania_2.png)    
+![taiko](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/taiko_1.png)    
+![taiko](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/taiko_2.png)    
+![ctb](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/ctb_1.png)    
 
-### 如何使用 · β版（纯萌新教学）    
+### 如何使用·β版（纯萌新教学）    
 >1. 点击 [这](https://github.com/Sendevia/R_Sp-osu-/releases/) 跳转到下载页    
 >2. 下载最新的`.osk`文件    
 >3. 双击下载完成的`.osk`文件（[osu!](https://osu.ppy.sh/)本体一定要被正确安装）    
@@ -58,10 +74,10 @@
 >`/Resource` 项目素材文件    
 >`R_Sp[osu!].aep` 皮肤项目工程文件    
 >`R_Sp[brochures]` 宣传项目工程文件    
->`/docs` [皮肤公示站](https://sendevia.github.io/R_Sp-osu-/)网页源码    
+>`/docs` [皮肤发布站](https://sendevia.github.io/R_Sp-osu-/)网页源码    
 
 ### 如何打开这些`.aep`文件    
->**推荐用Win10系统打开和编辑**    
+>**推荐使用Win10系统**    
 >首先，这些文件是用Adobe After Effects创建的，别的软件是打不开的，    
 >还有，你**必须**拥有以下的插件、脚本和字体，不然打开后会乱成一团的233    
 >>##### 插件    
@@ -76,9 +92,11 @@
 >>DS-Digital    
 >>Aller    
 
-### 工程文件内部说明（待更新）    
-> 1. 每个元素都是按名称进行排序归类的，放在与它同名的文件夹里    
-> 2. 每个文件夹后的注释都有对该文件夹内所有元素数量及属性的说明    
+### 工程文件内注释的说明    
+> `S1,D2,MULTI`    
+> `S1` 代表这个文件夹内共有1个静态元素    
+> `D2` 代表这个文件夹内共有2个动态元素    
+> `MULTI` 代表这个文件夹内有多语言分支    
 
 ### 元素导出说明    
 > 1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`    
