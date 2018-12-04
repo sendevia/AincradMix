@@ -1,4 +1,4 @@
-|![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/60BCDCF6AE637C19.png)|    
+|![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/BE8EC05A1511BD87.png)|    
 |:-:|    
 |**一个开源的osu!全模式皮肤项目**|    
 
