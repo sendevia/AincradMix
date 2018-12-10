@@ -1,6 +1,9 @@
-|![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/EABBD282BABCC5D4.png)|    
+|![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/ED9F4CB52EFE4649.png)|    
 |:-:|    
 |**一个开源的osu!全模式皮肤项目**|    
+
+## 中文    
+## [English](#English)    
 
 ### [下载地址](https://github.com/Sendevia/R_Sp-osu-/releases)    
 | β8.2 | [![β8.2下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.2/R_Sp.B8.2.zip) |    
@@ -10,21 +13,21 @@
 |:-:|    
 
 ### 简单的介绍    
->#### 全称    
->- ***R_Sp[osu!]*** 的全称是Remixes Sword art online Project for osu!game    
->#### 设计理念    
->- 基于在整个《刀剑神域》系列番剧中出现的所有UI的基础上，将更为现代的设计理念与osu!游戏风格相混合    
->#### R_Sp[osu!]的优势    
->- 可定制化程度极高    
->- 良好的打图手感    
->- 简洁的界面    
->- 延续了刀剑神域系列番剧中UI的风格    
->- 兼容多种类osu!游戏    
->- ...    
->#### 较为完整的支持    
->- McOsu,FPoSu,Opsu    
->#### 目前不支持    
->- osu!droid
+>- 全称    
+>>R_Sp[osu!]的全称是Remixes Sword art online Project for osu!game    
+>- 设计理念    
+>>基于在整个《刀剑神域》系列番剧中出现的所有UI的基础上，将更为现代的设计理念与osu!游戏风格相混合    
+>- R_Sp[osu!]的好处都有啥？    
+>>可定制化程度极高    
+>>良好的打图手感    
+>>简洁而不失美观的视觉体验    
+>>延续了刀剑神域系列番剧中UI的风格    
+>>兼容多种类osu!项目    
+>>...    
+>- 较为完整的支持    
+>>McOsu,FPoSu,Opsu    
+>- 目前不支持    
+>>osu!droid
 
 ### 截图    
 ![主界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/menu_1.png)    
@@ -72,13 +75,13 @@
 >`/R_Sp[osu!]` 完整皮肤文件（未压缩）    
 >`/Resource` 项目素材文件    
 >`R_Sp[osu!].aep` 皮肤项目工程文件    
->`R_Sp[brochures]` 宣传项目工程文件    
+>`R_Sp[brochures]` 宣传相关的工程文件    
 >`/docs` [皮肤发布站](https://sendevia.github.io/R_Sp-osu-/)网页源码    
 
 ### 如何打开这些`.aep`文件    
 >**推荐使用Win10系统**    
-> 1. 首先，这些文件是用Adobe After Effects创建的，别的软件是打不开的。    
-> 2. 你**必须**拥有以下的插件、脚本和字体，不然打开后会乱成一团的233    
+> 1. 首先，这些文件是用Adobe After Effects（CC2018及以上）创建的，别的软件是打不开的。    
+> 2. 你**必须**拥有以下的插件、脚本和字体，不然打开后不知道会发生什么呢233    
 >>##### 插件    
 >>[Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/)    
 >>##### 脚本    
@@ -91,8 +94,8 @@
 >>DS-Digital    
 >>Aller    
 
-### 工程文件内注释的说明    
-    
 ### 元素导出说明    
 > 1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`    
 > 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **（注意，是`_[#]`而不是`-[#]`或`[#]`）**    
+
+## English    
