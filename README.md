@@ -3,14 +3,11 @@
 |**一个开源的osu!全模式皮肤项目**|    
 
 ## 中文    
-## [English](#English)    
+## [English](#english-1)    
 
 ### [下载地址](https://github.com/Sendevia/R_Sp-osu-/releases)    
 | β8.2 | [![β8.2下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.2/R_Sp.B8.2.zip) |    
 |:-:|:-:|    
-
-|![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/ED9F4CB52EFE4649.png)|    
-|:-:|    
 
 ### 简单的介绍    
 >- 全称    
