@@ -24,7 +24,9 @@
 >- 较为完整的支持    
 >>McOsu,FPoSu,Opsu    
 >- 目前不支持    
->>osu!droid
+>>osu!droid    
+>- 不支持    
+>>osu!lazer    
 
 ### 截图    
 ![主界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/menu_1.png)    
@@ -40,11 +42,7 @@
 ![taiko](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/taiko_2.png)    
 ![ctb](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/ctb_1.png)    
 
-### 如何使用·β版（纯萌新教学）    
-> 1. 点击 [这](https://github.com/Sendevia/R_Sp-osu-/releases/) 跳转到下载页    
-> 2. 下载最新的`.osk`文件    
-> 3. 双击下载完成的`.osk`文件（[osu!](https://osu.ppy.sh/)本体一定要被正确安装）    
-> 4. 开始玩吧~    
+### 如何使用    
 
 ### 推荐设置    
 >#### 详细设置    
@@ -71,7 +69,7 @@
 ### 文件目录描述    
 >`/R_Sp[osu!]` 完整皮肤文件（未压缩）    
 >`/Resource` 项目素材文件    
->`R_Sp[osu!].aep` 皮肤项目工程文件    
+>`R_Sp[osu!].aep` 皮肤工程文件    
 >`R_Sp[brochures]` 宣传相关的工程文件    
 >`/docs` [皮肤发布站](https://sendevia.github.io/R_Sp-osu-/)网页源码    
 
@@ -96,3 +94,98 @@
 > 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **（注意，是`_[#]`而不是`-[#]`或`[#]`）**    
 
 ## English    
+(Google Translate)    
+|![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/ED9F4CB52EFE4649.png)|    
+|:-:|    
+|**An open source osu! full mode skin project**|    
+
+## [中文](#中文)    
+## English    
+
+### [Downloads](https://github.com/Sendevia/R_Sp-osu-/releases)    
+| β8.2 | [![β8.2DL](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.2/R_Sp.B8.2.zip) |    
+|:-:|:-:|    
+
+### Brief introduction    
+>- Full name    
+>>The full name of R_Sp[osu!] is Remixes Sword art online Project for osu!game    
+>- Design concept    
+>>Based on all the UIs that appear in the entire "Sword Art Online" series, mix more modern design concepts with osu!    
+>- What are the benefits of R_Sp[osu!]?    
+>>Highly customizable    
+>>Nice feel    
+>>Simple yet beautiful visual experience    
+>>Continued the style of the UI in the Sword Art Online series    
+>>Compatible with a variety of osu! projects    
+>>...    
+>- More complete support    
+>>McOsu,FPoSu,Opsu    
+>- Currently not supported    
+>>osu!droid    
+>- Not support    
+>>osu!lazer    
+
+### Screenshot    
+![menu](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/menu_1.png)    
+![selection](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/menu_2.png)    
+![score](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/score.png)    
+![selection](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mods.png)    
+![selection](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mode.png)    
+![std](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/std_1.png)    
+![std](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/std_2.png)    
+![mania](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mania_1.png)    
+![mania](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mania_2.png)    
+![taiko](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/taiko_1.png)    
+![taiko](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/taiko_2.png)    
+![ctb](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/ctb_1.png)    
+
+### How to use    
+
+### Recommended setting    
+>#### DETAIL SETTINGS    
+>>- [x] Snaking slider    
+>>- [ ] Combo busrts    
+>>- [ ] Hit lighting    
+>>- [x] Shaders    
+>>- [x] Softening filter    
+>#### MAIN MENU    
+>>- [x] Snow    
+>#### SONG SELECT    
+>>- [x] Show thumbnails    
+>#### GENERAL    
+>>- [x] Background dim ***95%***    
+>>- [x] Progress display:Top-Right(Pie)    
+>#### SKIN    
+>>- [x] Ignore all beatmap skins    
+>>- [x] Cursor size ***0.7x***    
+>>- [x] Automatic cursor size    
+>>- [ ] Use combo color as tint for slider ball    
+>#### MOUSE    
+>>- [x] Click ripples    
+
+### File directory description    
+>`/R_Sp[osu!]` Full skin files (uncompressed)    
+>`/Resource` Project resource files    
+>`R_Sp[osu!].aep` Skin project file    
+>`R_Sp[brochures]` Promote related project file   
+>`/docs` [Official website](https://sendevia.github.io/R_Sp-osu-/) web sources    
+
+### How to open these `.aep` files    
+>**Recommended to use Win10**    
+> 1. These files were created with Adobe After Effects (CC2018 and above), and other software is not open.    
+> 2. You **must** have the following plugin, scripts and fonts    
+>>##### Plugin    
+>>[Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/)    
+>>##### Scripts    
+>>[Duik Bassel](https://rainboxprod.coop/en/tools/duik/duik-download/)    
+>>[GridGuide](https://aescripts.com/gridguide-for-after-effects/)    
+>>##### Fonts    
+>>SAO UI    
+>>SAO Welcome    
+>>Material Icons    
+>>DS-Digital    
+>>Aller    
+
+### Export instructions    
+> 1. Image export format `.PNG`, channel `RGB+Alpha`, name set to `synthetic name`    
+> 2. The animation export format `.PNG (sequence)`, channel `RGB+Alpha`, use the composite frame number, the name is set to `composite name`, remove the file name **`_[#]`** suffix ** (note , is `_[#]` instead of `-[#]` or `[#]`)**    
