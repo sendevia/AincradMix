@@ -95,15 +95,16 @@
 
 ## English    
 (Google Translate)    
+
 |![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/ED9F4CB52EFE4649.png)|    
 |:-:|    
-|**An open source osu! full mode skin project**|    
+| **An open source osu! full mode skin project** |    
 
 ## [中文](#中文)    
 ## English    
 
-### [Downloads](https://github.com/Sendevia/R_Sp-osu-/releases)    
-| β8.2 | [![β8.2DL](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.2/R_Sp.B8.2.zip) |    
+### [Download](https://github.com/Sendevia/R_Sp-osu-/releases)    
+| β8.2 | [![β8.2DL](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "Click Me!!!")](https://github.com/Sendevia/R_Sp-osu-/releases/download/%CE%B28.2/R_Sp.B8.2.zip) |    
 |:-:|:-:|    
 
 ### Brief introduction    
@@ -188,4 +189,4 @@
 
 ### Export instructions    
 > 1. Image export format `.PNG`, channel `RGB+Alpha`, name set to `synthetic name`    
-> 2. The animation export format `.PNG (sequence)`, channel `RGB+Alpha`, use the composite frame number, the name is set to `composite name`, remove the file name **`_[#]`** suffix ** (note , is `_[#]` instead of `-[#]` or `[#]`)**    
+> 2. The animation export format `.PNG (sequence)`, channel `RGB+Alpha`, use the composite frame number, the name is set to `composite name`, remove the file name **`_[#]`** suffix **(note , is `_[#]` instead of `-[#]` or `[#]`)**    
