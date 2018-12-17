@@ -57,25 +57,31 @@
 >>- [x] 显示略缩图    
 >#### 常规    
 >>- [x] 背景暗化 ***95%***    
->>- [x] 进度条位置：右上角（饼状）    
 >#### 皮肤    
 >>- [x] 忽略所有谱面自带的皮肤    
->>- [x] 光标大小 ***0.7x***    
+>>- [x] 光标大小 ***0.75x***    
 >>- [x] 自动缩放光标    
 >>- [ ] 拖球的颜色随滑条改变    
 >#### 鼠标    
 >>- [x] 点击波纹    
 
 ### 文件目录描述    
->`/R_Sp[osu!]` 完整皮肤文件（未压缩）    
+>`/R_Sp[osu!]` 完整皮肤文件（高清）    
+>`/R_Sp[osu!]_lp` 完整皮肤文件（低清）    
+>`/R_Sp[osu!]_sc` 完整皮肤文件（高清，特殊分辨率）    
+>`/R_Sp[osu!]_lp_sc` 完整皮肤文件（低清，特殊分辨率）    
+>`//Pack_[base]` 皮肤基础文件    
+>`//Pack_[animation]` 皮肤扩展文件（动画）    
+>`//Pack_[colors]` 皮肤扩展文件（颜色）    
 >`/Resource` 项目素材文件    
 >`R_Sp[osu!].aep` 皮肤工程文件    
->`R_Sp[brochures]` 宣传相关的工程文件    
+>`R_Sp[osu!].aep` 皮肤工程文件（特殊分辨率）    
+>`R_Sp[brochures]` 宣传相关    
 >`/docs` [皮肤发布站](https://sendevia.github.io/R_Sp-osu-/)网页源码    
 
 ### 如何打开这些`.aep`文件    
 >**推荐使用Win10系统**    
-> 1. 首先，这些文件是用Adobe After Effects（CC2018及以上）创建的，别的软件是打不开的。    
+> 1. 这些文件是用Adobe After Effects（CC2018及以上）创建的，别的软件是打不开的。    
 > 2. 你**必须**拥有以下的插件、脚本和字体，不然打开后不知道会发生什么呢233    
 >>##### 插件    
 >>[Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/)    
@@ -155,16 +161,15 @@
 >>- [x] Show thumbnails    
 >#### GENERAL    
 >>- [x] Background dim ***95%***    
->>- [x] Progress display:Top-Right(Pie)    
 >#### SKIN    
 >>- [x] Ignore all beatmap skins    
->>- [x] Cursor size ***0.7x***    
+>>- [x] Cursor size ***0.75x***    
 >>- [x] Automatic cursor size    
 >>- [ ] Use combo color as tint for slider ball    
 >#### MOUSE    
 >>- [x] Click ripples    
 
-### File directory description    
+### File directory description (OUT DATE)    
 >`/R_Sp[osu!]` Full skin files (uncompressed)    
 >`/Resource` Project resource files    
 >`R_Sp[osu!].aep` Skin project file    
@@ -173,7 +178,7 @@
 
 ### How to open these `.aep` files    
 >**Recommended to use Win10**    
-> 1. These files were created with Adobe After Effects (CC2018 and above), and other software is not open.    
+> 1. These files were created with Adobe After Effects (CC2018 and above), and other software is cannot to open.    
 > 2. You **must** have the following plugin, scripts and fonts    
 >>##### Plugin    
 >>[Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/)    
