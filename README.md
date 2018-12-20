@@ -19,12 +19,12 @@
 >>良好的打图手感    
 >>简洁而不失美观的视觉体验    
 >>延续了刀剑神域系列番剧中UI的风格    
->>兼容多种类osu!项目    
+>>支持多种`类osu!`项目    
 >>...    
 >- 较为完整的支持    
 >>McOsu,FPoSu,Opsu    
 >- 目前不支持    
->>osu!droid    
+>>osu!droid,iosu!    
 >- 不支持    
 >>osu!lazer    
 
@@ -123,12 +123,12 @@
 >>Nice feel    
 >>Simple yet beautiful visual experience    
 >>Continued the style of the UI in the Sword Art Online series    
->>Compatible with a variety of osu! projects    
+>>Compatible with a `variety of osu! projects`    
 >>...    
 >- More complete support    
 >>McOsu,FPoSu,Opsu    
 >- Currently not supported    
->>osu!droid    
+>>osu!droid,iosu!    
 >- Not support    
 >>osu!lazer    
 
