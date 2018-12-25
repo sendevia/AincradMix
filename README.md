@@ -106,7 +106,7 @@
 |:-:|    
 | **An open source osu! full mode skin project** |    
 
-## [中文](#中文)    
+## [中文](#中文-1)    
 ## English    
 
 ### [Download](https://github.com/Sendevia/R_Sp-osu-/releases)    
