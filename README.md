@@ -34,6 +34,7 @@
 ![成绩结算界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/score.png)    
 ![mod选择界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mods.png)    
 ![模式选择界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mode.png)    
+![编辑模式](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/edit.png)    
 ![std](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/std_1.png)    
 ![std](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/std_2.png)    
 ![mania](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mania_1.png)    
@@ -41,6 +42,7 @@
 ![taiko](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/taiko_1.png)    
 ![taiko](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/taiko_2.png)    
 ![ctb](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/ctb_1.png)    
+![ctb](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/ctb_2.png)    
 
 ### 如何使用    
 
@@ -67,15 +69,16 @@
 
 ### 文件目录描述    
 >`/R_Sp[osu!]` 完整皮肤文件（高清）    
->`/R_Sp[osu!]_lp` 完整皮肤文件（低清）    
->`/R_Sp[osu!]_sc` 完整皮肤文件（高清，特殊分辨率）    
->`/R_Sp[osu!]_lp_sc` 完整皮肤文件（低清，特殊分辨率）    
+>`/R_Sp[osu!]_lower` 完整皮肤文件（低清）    
+>`/R_Sp[osu!]_special` 完整皮肤文件（高清，特殊分辨率）    
+>`/R_Sp[osu!]_lower & special` 完整皮肤文件（低清，特殊分辨率）    
 >`//Pack_[base]` 皮肤基础文件    
 >`//Pack_[animation]` 皮肤扩展文件（动画）    
 >`//Pack_[colors]` 皮肤扩展文件（颜色）    
+>`//Pack_[cursor]` 皮肤扩展文件（光标）    
+>`//Pack_[sounds]` 皮肤扩展文件（音效，一部分来自osu!lazer）    
 >`/Resource` 项目素材文件    
 >`R_Sp[osu!].aep` 皮肤工程文件    
->`R_Sp[osu!].aep` 皮肤工程文件（特殊分辨率）    
 >`R_Sp[brochures]` 宣传相关    
 >`/docs` [皮肤发布站](https://sendevia.github.io/R_Sp-osu-/)网页源码    
 
