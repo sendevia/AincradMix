@@ -26,6 +26,7 @@
 >>8. ...
 
 ### 截图    
+![主视觉图](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/8408CF65CB1C4F19.png)
 ![主界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/menu_1.png)
 ![选歌界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/menu_2.png)
 ![成绩结算界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/score.png)
