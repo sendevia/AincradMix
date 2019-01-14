@@ -6,7 +6,7 @@
 ## [English](#english-1)    
 
 ### [下载地址](https://github.com/Sendevia/R_Sp-osu-/releases)    
-| Pre1 | [![β8.2下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/tag/pre1) |
+| Pre1 | [![pre1下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/tag/pre1) |
 |:----------------:|:----------------:|
 | - | - |
 
@@ -43,6 +43,8 @@
 ![ctb](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/ctb_2.png)
 
 ### 如何使用    
+>1. 把压缩包解压到你的osu!皮肤文件夹里    
+>2. 运行皮肤根目录里的`install.bat`    
 
 ### 推荐设置    
 >#### 详细设置
@@ -67,9 +69,7 @@
 
 ### 文件目录描述    
 >`/R_Sp[osu!]` 完整皮肤文件（高清）     
->`/R_Sp[osu!]_lower` 完整皮肤文件（标清）     
->`/R_Sp[osu!]_special` 完整皮肤文件（高清，特殊分辨率）     
->`/R_Sp[osu!]_lower & special` 完整皮肤文件（低清，特殊分辨率）     
+>`/R_Sp[osu!]_SD` 完整皮肤文件（标清）     
 >`//Pack_[base]` 皮肤基础文件     
 >`//Pack_[animation]` 皮肤扩展文件（动画）     
 >`//Pack_[cursor]` 皮肤扩展文件（光标）     
