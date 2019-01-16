@@ -137,7 +137,7 @@ echo.
 echo                                                         正在删除                                                        
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
-cd %workdir% & erase %workdir%*.png + *.jpg + *.rsp + *.ini + *.wav + *.mp3
+cd %workdir% & erase %workdir%*.png + *.jpg + *.rsp + *.ini + *.wav + *.mp3 + sed*
 ) & goto createrspfiles
 
 :createrspfiles
@@ -180,11 +180,8 @@ echo.
 echo                                      /               请选择基础语言               /                                     
 echo.
 echo                                         (c) - 汉语                    英语 - (e)                                        
-echo                                         (j) - 日语                    俄语 - (r)                                        
 echo.
-choice /c cejr /m "------------------------------------------------------------------------------------------------------------"
-if errorlevel 4 mode 120,2 & echo 正在复制文件 & xcopy /y /q %workdir%Pack_[base]\Pack_[base_ru]\* %workdir%
-if errorlevel 3	mode 120,2 & echo 正在复制文件 & xcopy /y /q %workdir%Pack_[base]\Pack_[base_jp]\* %workdir%
+choice /c cejr /m "----------------------------------------------------------------------------------------------------------------"
 if errorlevel 2 mode 120,2 & echo 正在复制文件 & xcopy /y /q %workdir%Pack_[base]\Pack_[base_en]\* %workdir%
 if errorlevel 1 mode 120,2 & echo 正在复制文件 & xcopy /y /q %workdir%Pack_[base]\Pack_[base_cn]\* %workdir%
 echo.
@@ -205,10 +202,10 @@ echo                                         (1) - 1 FPS                 15 FPS 
 echo                                         (3) - 30 FPS                60 FPS - (4)                                        
 echo.
 choice /c 1234 /m "------------------------------------------------------------------------------------------------------------"
-if errorlevel 4	cd %workdir%Pack_[animation]\Frame_[60]
-if errorlevel 3	cd %workdir%Pack_[animation]\Frame_[30]
-if errorlevel 2 cd %workdir%Pack_[animation]\Frame_[15]
-if errorlevel 1 cd %workdir%Pack_[animation]\Frame_[15]
+if errorlevel 4	cd %workdir%Pack_[animation]\Frame_[60] && set framerate=60
+if errorlevel 3	cd %workdir%Pack_[animation]\Frame_[30] && set framerate=30
+if errorlevel 2 cd %workdir%Pack_[animation]\Frame_[15] && set framerate=15
+if errorlevel 1 set framerate=1 && goto successfulinstallation
 echo.
 echo.
 goto animationlanguageselection
@@ -224,11 +221,8 @@ echo.
 echo                                      /               请选择动画语言               /                                     
 echo.
 echo                                         (c) - 汉语                    英语 - (e)                                        
-echo                                         (j) - 日语                    俄语 - (r)                                        
 echo.
-choice /c cejr /m "------------------------------------------------------------------------------------------------------------"
-if errorlevel 4 cd Pack_[animation_*_ru] & mode 120,2 & echo 正在复制文件 & xcopy /y /q .\* %workdir%
-if errorlevel 3	cd Pack_[animation_*_jp] & mode 120,2 & echo 正在复制文件 & xcopy /y /q .\* %workdir%
+choice /c ce /m "----------------------------------------------------------------------------------------------------------------"
 if errorlevel 2 cd Pack_[animation_*_en] & mode 120,2 & echo 正在复制文件 & xcopy /y /q .\* %workdir%
 if errorlevel 1 cd Pack_[animation_*_cn] & mode 120,2 & echo 正在复制文件 & xcopy /y /q .\* %workdir%
 echo.
@@ -250,6 +244,11 @@ echo.
 echo ------------------------------------------------------------------------------------------------------------------------
 echo.
 pause
+
+:settoyourself
+mode 120,10
+title R_Sp[osu!] - 安装完成
+color 0B
 cls
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
@@ -259,8 +258,18 @@ echo.
 echo                                          是否将 R_Sp[osu!] 设置为你的osu!皮肤                                           
 echo.
 choice /c yn /m "----------------------------------------------------------------------------------------------------------------"
-if errorlevel 2 exit
-if errorlevel 1 cd %workdir% && cd .. && cd .. && %workdir%sed -i "112c Skin = R_Sp[osu!]" osu!.*.cfg
+if errorlevel 2 goto skinconfiguration
+if errorlevel 1 cd %workdir% && cd .. && cd .. && ( %workdir%sed -i "112c Skin = R_Sp[osu!]" osu!.*.cfg ) && (
+cls
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo                                /               你已经成功安装了R_Sp[osu!]               /                               
+echo.
+echo                                                        设置完成                                                         
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo. )
 pause & exit
 
 :choice1
@@ -316,3 +325,50 @@ echo.
 echo ------------------------------------------------------------------------------------------------------------------------
 echo.
 pause & exit
+
+:skinconfiguration
+echo [General]
+echo Name: R_Sp[osu!]
+echo Author: Sendevia
+echo Version: latest
+echo AnimationFramerate: %framerate%
+echo AllowSliderBallTint: 0
+echo ComboBurstRandom: 0
+echo CursorExpand: 1
+echo CursorCentre: 1
+echo CursorRotate: 0
+echo CursorTrailRotate: 0
+echo CustomComboBurstSounds: 100,200,300,400,500,600,700,800,900,1000,1500,2000,2500,3000
+echo HitCircleOverlayAboveNumber: 0
+echo LayeredHitSounds: 1
+echo SliderBallFlip: 1
+echo SliderBallFrames: %framerate%
+echo SliderStyle: 2
+echo SpinnerFadePlayfield: 0
+echo SpinnerFrequencyModulate: 1
+echo SpinnerNoBlink: 1
+echo.
+echo [Colours]
+echo Combo1: 5,150,192
+echo InputOverlayText: 238,238,238
+echo MenuGlow: 89,195,226
+echo SliderBall: 238,238,238
+echo SliderBorder: 3,80,102
+echo SliderTrackOverride: 0,0,0
+echo SongSelectActiveText: 238,238,238
+echo SongSelectInactiveText: 238,238,238
+echo SpinnerBackground: 113,113,113
+echo StarBreakAdditive: 19,19,19
+echo.
+echo [Fonts]
+echo HitCirclePrefix: circlenums
+echo HitCircleOverlap: 0
+echo ScorePrefix: defaultItalic
+echo ScoreOverlap: 2
+echo ComboPrefix: combo
+echo ComboOverlap: 2
+echo.
+echo [CatchTheBeat]
+echo HyperDashFruit: 255,198,0
+echo.
+pause

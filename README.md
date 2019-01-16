@@ -23,7 +23,8 @@
 >>5. 细腻平滑的动画效果
 >>6. 延续了刀剑神域系列番剧中UI的风格
 >>7. 支持多种`类osu!`项目
->>8. ...
+>>8. 支持中、英两种语言
+>>9. ...
 
 ### 截图    
 ![主视觉图](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/8408CF65CB1C4F19.png)
