@@ -349,7 +349,7 @@ echo SpinnerFrequencyModulate: 1
 echo SpinnerNoBlink: 1
 echo.
 echo [Colours]
-echo Combo1: 5,150,192
+echo Combo1: 9,173,220
 echo InputOverlayText: 238,238,238
 echo MenuGlow: 89,195,226
 echo SliderBall: 238,238,238
