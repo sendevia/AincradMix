@@ -27,7 +27,7 @@
 >>9. ...
 
 ### 截图    
-![主视觉图](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/8408CF65CB1C4F19.png)
+![主视觉图](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/C0708246A1F88946.png)
 ![主界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/menu_1.png)
 ![选歌界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/menu_2.png)
 ![成绩结算界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/score.png)
@@ -75,6 +75,7 @@
 >`//Pack_[animation]` 皮肤扩展文件（动画）     
 >`//Pack_[cursor]` 皮肤扩展文件（光标）     
 >`//Pack_[sfx]` 皮肤扩展文件（音效，部分来自osu!lazer）     
+>`//Pack_[optimized]` 皮肤扩展文件（单模式优化）     
 >`/Resource` 项目素材文件     
 >`R_Sp[osu!].aep` 皮肤工程文件     
 >`R_Sp[brochures]` 宣传相关     
@@ -82,13 +83,13 @@
 
 ### 如何打开这些`.aep`文件    
 >**推荐使用Win10系统**
-> 1. 这些文件是用Adobe After Effects（CC2018及以上）创建的，别的软件是打不开的
+> 1. 这些文件是用Adobe After Effects创建的，别的软件是打不开的（推荐使用CC2018或者更高的版本）
 > 2. 你**必须**拥有以下的插件、脚本和字体，不然打开后不知道会发生什么呢233
 >>##### 插件
->>[Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/)
+>>[Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/)     
 >>##### 脚本
->>[Duik Bassel](https://rainboxprod.coop/en/tools/duik/duik-download/)
->>[GridGuide](https://aescripts.com/gridguide-for-after-effects/)
+>>[Duik Bassel](https://rainboxprod.coop/en/tools/duik/duik-download/)     
+>>[GridGuide](https://aescripts.com/gridguide-for-after-effects/)     
 >>##### 字体
 >>[SAO UI](https://fontmeme.com/fonts/sao-ui-font/)     
 >>[Material Icons Font](https://github.com/google/material-design-icons/releases/download/3.0.1/material-design-icons-3.0.1.zip)     
@@ -101,3 +102,4 @@
 
 ## English    
 (Google Translate)
+LOOOOOOOOOOOOL
