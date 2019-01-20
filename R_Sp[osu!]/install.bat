@@ -146,7 +146,7 @@ echo ---------------------------------------------------------------------------
 (
 echo PackName: base
 echo PackLanguage: unknown
-echo Version: 20190119
+echo Version: 20190120
 echo Status: testing
 ) >> information.rsp
 (
