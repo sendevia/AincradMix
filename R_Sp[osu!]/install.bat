@@ -1,5 +1,4 @@
 @echo off
-mode 120,35
 set workdir=%~dp0
 
 :installedcheck
@@ -90,27 +89,9 @@ if errorlevel 2 goto installation
 if errorlevel 1 goto animation
 pause
 
-:workdir
-mode 120,12
-title R_Sp[osu!] - 工作目录
-color 0F
-cls
-echo.
-echo ------------------------------------------------------------------------------------------------------------------------
-echo.
-echo.
-echo                                      /               当前的工作目录               /                                     
-echo.
-echo.
-echo ------------------------------------------------------------------------------------------------------------------------
-echo %workdir%
-echo.
-echo.
-pause & goto installation
-
 :installation
 mode 120,9
-title R_Sp[osu!] - 正在初始化
+title R_Sp[osu!] - 初始化
 color 0F
 cls
 echo.
@@ -118,9 +99,10 @@ echo ---------------------------------------------------------------------------
 echo.
 echo                        /               是否删除已安装的皮肤（推荐删除，注意备份）               /                       
 echo.
-echo                                                   是(Y)    --    否(N)                                                  
+echo                                           [Y] - 是                    否 - [N]                                          
 echo.
-choice /c yn /m "----------------------------------------------------------------------------------------------------------------"
+choice /c ynb /m "------------------------------------------------------------------------------------------------------ 返回(B)"
+if errorlevel 3 goto installedcheck
 if errorlevel 2 goto basiclanguageselection
 if errorlevel 1 (
 echo.
@@ -144,63 +126,74 @@ echo                                                       创建描述文件
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
 (
-echo PackName: base
-echo PackLanguage: unknown
-echo Version: 20190120
+echo PackName: none
+echo PackLanguage: none
+echo Version: 20190124
 echo Status: testing
 ) >> information.rsp
 (
-echo AnimantionLanguage: unknown
-echo AnimantionFrame: 0
+echo AnimantionLanguage: none
+echo AnimantionFrame: -
 ) >> animation.rsp
 (
-echo SFXStyle: unknown
-echo SFX: unknown
+echo SFXStyle: none
+echo SFX: none
 ) >> sfx.rsp
 (
-echo CursorStyle: unknown
-echo CursorColor: unknown
+echo CursorStyle: none
+echo CursorColor: none
 ) >> cursor.rsp
 goto basiclanguageselection
 
 :basiclanguageselection
 mode 120,9
-title R_Sp[osu!] - 基础语言选择
+title R_Sp[osu!] - 语言选择
 color 0F
 cls
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
 echo.
-echo                                      /               请选择基础语言               /                                     
+echo                                        /               请选择语言               /                                       
 echo.
-echo                                         (C) - 汉语                    英语 - (E)                                        
+echo                                         [C] - 汉语                    英语 - [E]                                        
 echo.
-choice /c ce /m "----------------------------------------------------------------------------------------------------------------"
+choice /c ceb /m "------------------------------------------------------------------------------------------------------ 返回(B)"
+if errorlevel 3 goto installation
 if errorlevel 2 (
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
 echo.
-echo                                      /               请选择基础语言               /                                     
+echo                                         /               正在复制               /                                        
 echo.
-echo                                                         正在复制                                                        
+echo                                                     已完成   - 0/1 -                                                    
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
-) & xcopy /y /q %workdir%Pack_[base]\Pack_[base_en]\* %workdir%
+) & title R_Sp[osu!] - 正在复制 & xcopy /y /q %workdir%Pack_[base]\Pack_[base_en]\* %workdir% && set language=en && color 0B & mode 120,11 & (
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo                                         /               正在复制               /                                        
+echo                                                     已完成   - 1/1 -                                                    
+echo ------------------------------------------------------------------------------------------------------------------------ ) & title R_Sp[osu!] - 复制完成 & timeout /t 5
 if errorlevel 1 (
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
 echo.
-echo                                      /               请选择基础语言               /                                     
+echo                                         /               正在复制               /                                        
 echo.
-echo                                                         正在复制                                                        
+echo                                                     已完成   - 0/1 -                                                    
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
-) & xcopy /y /q %workdir%Pack_[base]\Pack_[base_cn]\* %workdir%
+) & title R_Sp[osu!] - 正在复制 & xcopy /y /q %workdir%Pack_[base]\Pack_[base_cn]\* %workdir% && set language=cn && color 0B & mode 120,11 & (
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo                                         /               正在复制               /                                        
+echo                                                     已完成   - 1/1 -                                                    
+echo ------------------------------------------------------------------------------------------------------------------------ ) & title R_Sp[osu!] - 复制完成 & timeout /t 5
 goto sfxselection
 
 :sfxselection
 mode 120,9
-title R_Sp[osu!] - 音效主题选择
+title R_Sp[osu!] - 音效主题选择%language%
 color 0F
 cls
 echo.
@@ -210,30 +203,41 @@ echo                                      /               请选择音效主题        
 echo.
 echo                                       (L) - lazer                   r_sp_osu - (R)                                      
 echo.
-choice /c lrs /m "------------------------------------------------------------------------------------------------------ 跳过(S)"
+choice /c lrsb /m "-------------------------------------------------------------------------------------------- 返回(B) 跳过(S)"
+if errorlevel 4 goto basiclanguageselection
 if errorlevel 3 goto animationframeselection
 if errorlevel 2 (
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
 echo.
-echo                                      /               请选择音效主题               /                                     
+echo                                         /               正在复制               /                                        
 echo.
-echo                                                         正在复制                                                        
+echo                                                        已完成 0/1                                                       
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
-) & xcopy /y /q %workdir%Pack_[sfx]\Style_[rsposu]\* %workdir%
+) & xcopy /y /q %workdir%Pack_[sfx]\Style_[rsposu]\* %workdir% && color 0B & mode 120,11 & (
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo                                         /               正在复制               /                                        
+echo                                                     已完成   - 1/1 -                                                    
+echo ------------------------------------------------------------------------------------------------------------------------ ) & title R_Sp[osu!] - 复制完成 & timeout /t 5
 if errorlevel 1 (
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
 echo.
-echo                                      /               请选择音效主题               /                                     
+echo                                         /               正在复制               /                                        
 echo.
-echo                                                         正在复制                                                        
+echo                                                        已完成 0/1                                                       
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
-) & xcopy /y /q %workdir%Pack_[sfx]\Style_[lazer]\* %workdir%
+) & xcopy /y /q %workdir%Pack_[sfx]\Style_[lazer]\* %workdir% && color 0B & mode 120,11 & (
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo                                         /               正在复制               /                                        
+echo                                                     已完成   - 1/1 -                                                    
+echo ------------------------------------------------------------------------------------------------------------------------ ) & title R_Sp[osu!] - 复制完成 & timeout /t 5
 goto animationframeselection
-
+xcopy /y /q %workdir%Pack_[animation]\Frame_[%framerate%] %workdir% && xcopy /y /q %workdir%Pack_[animation]\Frame_[%framerate%]\Pack_[animation_%framerate%_%language%]
 :animationframeselection
 mode 120,10
 title R_Sp[osu!] - 动画帧率选择
@@ -244,49 +248,131 @@ echo ---------------------------------------------------------------------------
 echo.
 echo                                      /               请选择动画帧率               /                                     
 echo.
-echo                                         (1) - 1 FPS                 15 FPS - (2)                                        
-echo                                         (3) - 30 FPS                60 FPS - (4)                                        
+echo                                         [1] - 1 FPS                 15 FPS - [2]                                        
+echo                                         [3] - 30 FPS                60 FPS - [4]                                        
 echo.
 choice /c 1234 /m "------------------------------------------------------------------------------------------------------------"
-if errorlevel 4	cd %workdir%Pack_[animation]\Frame_[60] && set framerate=60
-if errorlevel 3	cd %workdir%Pack_[animation]\Frame_[30] && set framerate=30
-if errorlevel 2 cd %workdir%Pack_[animation]\Frame_[15] && set framerate=15
-if errorlevel 1 set framerate=1 && goto optimizedchoice
-goto animationlanguageselection
-
-:animationlanguageselection
-mode 120,9
-title R_Sp[osu!] - 动画语言选择
-color 0F
+if errorlevel 4	cls & title R_Sp[osu!] - 正在操作 & mode 120,9 & set framerate=60 && (
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo                                         /               正在操作               /                                        
+echo.
+echo                                                        已完成 1/4                                                       
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------ ) & (
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo                                         /               正在操作               /                                        
+echo.
+echo                                                        已完成 2/4                                                       
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+%workdir%sed -i "5c AnimationFramerate: 60" %workdir%skin.ini ) &&
+(
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo                                         /               正在操作               /                                        
+echo.
+echo                                                        已完成 3/4                                                       
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+%workdir%sed -i "16c SliderBallFrames: 60" %workdir%skin.ini
+) &&
+(
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo                                         /               正在操作               /                                        
+echo.
+echo                                                        已完成 4/4                                                       
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+%workdir%sed -i "2c AnimantionFrame: 60" %workdir%animation.rsp
+)
+if errorlevel 3	cd %workdir%Pack_[animation]\Frame_[30] && (
 cls
+title R_Sp[osu!] - 正在操作
+mode 120,9
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
 echo.
-echo                                      /               请选择动画语言               /                                     
+echo                                         /               正在操作               /                                        
 echo.
-echo                                         (C) - 汉语                    英语 - (E)                                        
+echo                                                        已完成 1/4                                                       
 echo.
-choice /c ce /m "----------------------------------------------------------------------------------------------------------------"
-if errorlevel 2 (
+echo ------------------------------------------------------------------------------------------------------------------------
+set framerate=30 ) && (
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
 echo.
-echo                                      /               请选择动画语言               /                                     
+echo                                         /               正在操作               /                                        
 echo.
-echo                                                         正在复制                                                        
-echo.
-echo ------------------------------------------------------------------------------------------------------------------------
-) & cd Pack_[animation_*_en] & xcopy /y /q .\* %workdir%
-if errorlevel 1 (
+echo                                                        已完成 2/4                                                       
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
-echo.
-echo                                      /               请选择动画语言               /                                     
-echo.
-echo                                                         正在复制                                                        
+%workdir%sed -i "5c AnimationFramerate: 30" %workdir%skin.ini ) && (
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
-) & cd Pack_[animation_*_en] & xcopy /y /q .\* %workdir%
+echo.
+echo                                         /               正在操作               /                                        
+echo.
+echo                                                        已完成 3/4                                                       
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+%workdir%sed -i "16c SliderBallFrames: 30" %workdir%skin.ini ) && (
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo                                         /               正在操作               /                                        
+echo.
+echo                                                        已完成 4/4                                                       
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+%workdir%sed -i "2c AnimantionFrame: 30" %workdir%animation.rsp )
+if errorlevel 2 cd %workdir%Pack_[animation]\Frame_[15] && (
+cls
+title R_Sp[osu!] - 正在操作
+mode 120,9
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo                                         /               正在操作               /                                        
+echo.
+echo                                                        已完成 1/4                                                       
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+set framerate=15 ) && (
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo                                         /               正在操作               /                                        
+echo.
+echo                                                        已完成 2/4                                                       
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+%workdir%sed -i "5c AnimationFramerate: 15" %workdir%skin.ini ) && (
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo                                         /               正在操作               /                                        
+echo.
+echo                                                        已完成 3/4                                                       
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+%workdir%sed -i "16c SliderBallFrames: 15" %workdir%skin.ini ) && (
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo                                         /               正在操作               /                                        
+echo.
+echo                                                        已完成 4/4                                                       
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+%workdir%sed -i "2c AnimantionFrame: 15" %workdir%animation.rsp )
+if errorlevel 1 set framerate=1 && goto optimizedchoice
 goto optimizedchoice
 
 :successfulinstallation
@@ -317,7 +403,7 @@ echo.
 echo                                          是否将 R_Sp[osu!] 设置为你的osu!皮肤                                           
 echo.
 choice /c yn /m "----------------------------------------------------------------------------------------------------------------"
-if errorlevel 2 goto skinconfiguration
+if errorlevel 2 goto exit
 if errorlevel 1 cd %workdir% && cd .. && cd .. && ( %workdir%sed -i "112c Skin = R_Sp[osu!]" osu!.*.cfg ) && (
 cls
 echo.
@@ -332,15 +418,31 @@ echo. )
 pause & exit
 
 :optimizedchoice
-mode 120,10
+mode 120,9
 title R_Sp[osu!] - 单模式优化
 color 0F
 cls
 echo.
 echo ------------------------------------------------------------------------------------------------------------------------
 echo.
-echo.
 echo                                    /               是否进行单模式优化               /                                   
+echo.
+echo                                                   是(Y)    --    否(N)                                                  
+echo.
+choice /c yn /m "----------------------------------------------------------------------------------------------------------------"
+if errorlevel 2 goto successfulinstallation
+if errorlevel 1 echo yes
+pause
+
+:customsettingschoice
+mode 120,9
+title R_Sp[osu!] - 单模式优化
+color 0F
+cls
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo                                    /               是否进行自定义设置               /                                   
 echo.
 echo                                                   是(Y)    --    否(N)                                                  
 echo.
@@ -387,21 +489,33 @@ echo Name: R_Sp[osu!]
 echo Author: Sendevia
 echo Version: latest
 echo AnimationFramerate: %framerate%
-echo AllowSliderBallTint: 0
-echo ComboBurstRandom: 0
-echo CursorExpand: 1
-echo CursorCentre: 1
-echo CursorRotate: 0
-echo CursorTrailRotate: 0
+echo AllowSliderBallTint: %allowsliderballtint%
+::↑default=0
+echo ComboBurstRandom: %comboburstrandom%
+::↑default=0
+echo CursorExpand: %cursorexpand%
+::↑default=1
+echo CursorCentre: %cursorcentre%
+::↑default=1
+echo CursorRotate: %cursorrotate%
+::↑default=0
+echo CursorTrailRotate: %cursortrailrotate%
+::↑default=0
 echo CustomComboBurstSounds: 100,200,300,400,500,600,700,800,900,1000,1500,2000,2500,3000
-echo HitCircleOverlayAboveNumber: 0
+echo HitCircleOverlayAboveNumber: %hitcircleoverlayabovenumber%
+::↑default=0
 echo LayeredHitSounds: 1
-echo SliderBallFlip: 1
+echo SliderBallFlip: %sliderballflip%
+::↑default=1
 echo SliderBallFrames: %framerate%
-echo SliderStyle: 2
-echo SpinnerFadePlayfield: 0
-echo SpinnerFrequencyModulate: 1
-echo SpinnerNoBlink: 1
+echo SliderStyle: %sliderstyle%
+::↑default=2
+echo SpinnerFadePlayfield: %spinnerfadeplayfield%
+::↑default=0
+echo SpinnerFrequencyModulate: %spinnerfrequencymodulate%
+::↑default=1
+echo SpinnerNoBlink: %spinnernoblink%
+::↑default=1
 echo.
 echo [Colours]
 echo Combo1: 9,173,220
