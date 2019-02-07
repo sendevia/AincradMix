@@ -1,4 +1,4 @@
-![AincradMix](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/images/AincradMIX_logo_big.png)    
+![AincradMix](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/images/AincradMix_logo_big.png)    
 
 ### [下载地址](https://github.com/Sendevia/AincradMix/releases)    
 
@@ -17,7 +17,7 @@
 >>9. ...
 
 ### 截图    
-![主界面](https://raw.githubusercontent.com/Sendevia/AincradMixAincradMix/master/docs/screenshots/menu_1.png)    
+![主界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/menu_1.png)    
 ![选歌界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/menu_2.png)    
 ![成绩结算界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/score.png)    
 ![mod选择界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/mods.png)    

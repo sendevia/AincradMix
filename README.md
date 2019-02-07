@@ -22,7 +22,7 @@
 >>9. ...
 
 ### 截图    
-![主视觉图](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/images/AincradMIX.png)
+![主视觉图](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/images/AincradMix.png)
 ![主界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/menu_1.png)
 ![选歌界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/menu_2.png)
 ![成绩结算界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/score.png)
