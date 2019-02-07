@@ -1,21 +1,16 @@
-|![R_Sp[osu!]](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/ED9F4CB52EFE4649.png)|
+|![AincradMix](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/images/title_big.png)|
 |:---------------------------------------------------------------------------------------------------------:|
 | **一个拥有刀剑神域风格的osu!全模式皮肤项目** |
 
-## 中文    
-## [English](#english-1)    
-
-### [下载地址](https://github.com/Sendevia/R_Sp-osu-/releases)    
-| Pre1 | [![pre1下载](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/5C4C5E6A1CC84FA4.png "点我下载")](https://github.com/Sendevia/R_Sp-osu-/releases/tag/pre1) |
+### [下载地址](https://github.com/Sendevia/AincradMix/releases)    
+| Pre1 | [![pre1下载](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/images/icon_download.png "点我下载")](https://github.com/Sendevia/AincradMix/releases/tag/pre1) |
 |:----------------:|:----------------:|
 | - | - |
 
 ### 简单的介绍    
->- 全称
->>R_Sp[osu!]的全称是Remixes Sword art online Project for osu!game
 >- 设计理念    
 >>基于在整个《刀剑神域》系列番剧中出现的所有UI的基础上，将更为现代的设计风格与osu!游戏风格相混合
->- R_Sp[osu!]的好处都有啥？
+>- AincradMix的好处都有啥？
 >>1. 可定制化程度极高
 >>2. 拥有可视化的安装脚本
 >>3. 良好的打图手感
@@ -27,21 +22,21 @@
 >>9. ...
 
 ### 截图    
-![主视觉图](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/images/C0708246A1F88946.png)
-![主界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/menu_1.png)
-![选歌界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/menu_2.png)
-![成绩结算界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/score.png)
-![mod选择界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mods.png)
-![模式选择界面](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mode.png)
-![编辑模式](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/edit.png)
-![std](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/std_1.png)
-![std](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/std_2.png)
-![mania](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mania_1.png)
-![mania](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/mania_2.png)
-![taiko](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/taiko_1.png)
-![taiko](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/taiko_2.png)
-![ctb](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/ctb_1.png)
-![ctb](https://raw.githubusercontent.com/Sendevia/R_Sp-osu-/master/docs/screenshots/ctb_2.png)
+![主视觉图](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/images/AincradMIX.png)
+![主界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/menu_1.png)
+![选歌界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/menu_2.png)
+![成绩结算界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/score.png)
+![mod选择界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/mods.png)
+![模式选择界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/mode.png)
+![编辑模式](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/edit.png)
+![std](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/std_1.png)
+![std](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/std_2.png)
+![mania](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/mania_1.png)
+![mania](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/mania_2.png)
+![taiko](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/taiko_1.png)
+![taiko](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/taiko_2.png)
+![ctb](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/ctb_1.png)
+![ctb](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/ctb_2.png)
 
 ### 如何使用    
 >1. 把压缩包解压到你的osu!皮肤文件夹里    
@@ -69,17 +64,16 @@
 >>- [x] 点击波纹
 
 ### 文件目录描述    
->`/R_Sp[osu!]` 完整皮肤文件（高清）     
->`/R_Sp[osu!]_SD` 完整皮肤文件（标清）     
+>`/AincradMix` 完整皮肤文件（高清）     
+>`/AincradMix_SD` 完整皮肤文件（标清）     
 >`//Pack_[base]` 皮肤基础文件     
 >`//Pack_[animation]` 皮肤扩展文件（动画）     
 >`//Pack_[cursor]` 皮肤扩展文件（光标）     
 >`//Pack_[sfx]` 皮肤扩展文件（音效，部分来自osu!lazer）     
 >`//Pack_[optimized]` 皮肤扩展文件（单模式优化）     
 >`/Resource` 项目素材文件     
->`R_Sp[osu!].aep` 皮肤工程文件     
->`R_Sp[brochures]` 宣传相关     
->`/docs` [皮肤发布站](https://sendevia.github.io/R_Sp-osu-/)网页源码     
+>`AincradMix.aep` 皮肤工程文件     
+>`/docs` [皮肤发布站](https://sendevia.github.io/AincradMix)网页源码     
 
 ### 如何打开这些`.aep`文件    
 >**推荐使用Win10系统**
@@ -99,7 +93,3 @@
 ### 元素导出说明    
 > 1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`    
 > 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **（注意，是`_[#]`而不是`-[#]`或`[#]`）**    
-
-## English    
-(Google Translate)
-LOOOOOOOOOOOOL
