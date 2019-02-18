@@ -73,7 +73,6 @@
 >`//Pack_[optimized]` 皮肤扩展文件（单模式优化）     
 >`/Resource` 项目素材文件     
 >`AincradMix.aep` 皮肤工程文件     
->`/docs` [皮肤发布站](https://sendevia.github.io/AincradMix)网页源码     
 
 ### 如何打开这些`.aep`文件    
 > 1. 这些文件是用Adobe After Effects（CC2018）创建的，别的软件是打不开的（推荐使用Windows10系统）
