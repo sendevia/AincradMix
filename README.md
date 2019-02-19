@@ -1,9 +1,9 @@
-|![AincradMix](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/images/title_big.png)|
+|![AincradMix](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/title_big.png)|
 |:---------------------------------------------------------------------------------------------------------:|
 | **一个拥有刀剑神域风格的osu!全模式皮肤项目** |
 
 ### [下载地址](https://github.com/Sendevia/AincradMix/releases)    
-| Pre1 | [![pre1下载](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/images/icon_download.png "点我下载")](https://github.com/Sendevia/AincradMix/releases/tag/pre1) |
+| Pre1 | [![pre1下载](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/icon_download.png "点我下载")](https://github.com/Sendevia/AincradMix/releases/tag/pre1) |
 |:----------------:|:----------------:|
 | - | - |
 
@@ -22,21 +22,21 @@
 >>9. ...    
 
 ### 截图    
-![主视觉图](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/images/AincradMix.png)
-![主界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/menu_1.png)
-![选歌界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/menu_2.png)
-![成绩结算界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/score.png)
-![mod选择界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/mods.png)
-![模式选择界面](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/mode.png)
-![编辑模式](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/edit.png)
-![std](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/std_1.png)
-![std](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/std_2.png)
-![mania](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/mania_1.png)
-![mania](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/mania_2.png)
-![taiko](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/taiko_1.png)
-![taiko](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/taiko_2.png)
-![ctb](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/ctb_1.png)
-![ctb](https://raw.githubusercontent.com/Sendevia/AincradMix/master/docs/screenshots/ctb_2.png)
+![主视觉图](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/AincradMix.png)
+![主界面](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/menu_1.png)
+![选歌界面](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/menu_2.png)
+![成绩结算界面](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/score.png)
+![mod选择界面](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/mods.png)
+![模式选择界面](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/mode.png)
+![编辑模式](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/edit.png)
+![std](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/std_1.png)
+![std](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/std_2.png)
+![mania](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/mania_1.png)
+![mania](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/mania_2.png)
+![taiko](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/taiko_1.png)
+![taiko](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/taiko_2.png)
+![ctb](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/ctb_1.png)
+![ctb](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/ctb_2.png)
 
 ### 如何使用    
 >1. 把压缩包解压到你的osu!皮肤文件夹里    
