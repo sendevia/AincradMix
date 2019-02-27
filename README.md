@@ -1,12 +1,14 @@
-# AincradMix
+# AincradMix 中文版
 
 |![AincradMix](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/title_big.png)|
 |:---------------------------------------------------------------------------------------------------:|
 | **一个拥有刀剑神域风格的osu!全模式皮肤项目** |
 
+[Switch to English](https://github.com/Sendevia/AincradMix/blob/master/README_EN.md)
+
 ## [下载地址](https://github.com/Sendevia/AincradMix/releases)
 
-## 简单的介绍
+## 介绍
 
 >- 设计理念  
 >
@@ -15,14 +17,12 @@
 >- AincradMix的好处都有啥？  
 >
 >>1. 可定制化程度极高  
->>2. 拥有可视化的安装脚本  
+>>2. 拥有可视化的安装程序  
 >>3. 良好的打图手感  
 >>4. 简洁而不失美观的视觉体验  
 >>5. 细腻平滑的动画效果  
 >>6. 延续了刀剑神域系列番剧中UI的风格  
->>7. 支持多种`类osu!`项目  
->>8. 支持中、英两种语言  
->>9. ...  
+>>7. 支持中、英两种语言  
 
 ## 截图
 
@@ -94,7 +94,7 @@
 
 ## 如何打开这些`.aep`文件
 
-> 1. 这些文件是用Adobe After Effects（CC2018）创建的，别的软件是打不开的（推荐使用Windows10系统）
+> 1. 这些文件是用Adobe After Effects（CC2018）创建的，别的软件是打不开的。
 > 2. 你**必须**拥有以下的插件、脚本和字体，不然打开后不知道会发生什么呢233
 >
 >>### 插件
@@ -109,7 +109,6 @@
 >>### 字体
 >>
 >>[SAO UI](https://fontmeme.com/fonts/sao-ui-font/)  
->>[Material Icons Font](https://github.com/google/material-design-icons/releases/download/3.0.1/material-design-icons-3.0.1.zip)  
 >>[DS-Digital](https://fontmeme.com/fonts/ds-digital-font/)  
 >>[Aller](https://fontmeme.com/fonts/aller-font/)  
 
@@ -118,7 +117,4 @@
 > 1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`  
 > 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **（注意，是`_[#]`而不是`-[#]`或`[#]`）**  
 
-## 使用的第三方程序（安装脚本）
-
-> 1. sed  
-> 2. dnSpy
+----
