@@ -1,10 +1,14 @@
-# AincradMix 中文版
+# AincradMix 中文版 - 暂停更新
 
 |![AincradMix](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/title_big.png)|
-|:---------------------------------------------------------------------------------------------------:|
+|:------------------------------------------:|
 | **一个拥有刀剑神域风格的osu!全模式皮肤项目** |
 
+----
+
 [Switch to English](https://github.com/Sendevia/AincradMix/blob/master/README_EN.md)
+
+----
 
 ## [下载地址](https://github.com/Sendevia/AincradMix/releases)
 
@@ -16,13 +20,14 @@
 >
 >- AincradMix的好处都有啥？  
 >
->>1. 可定制化程度极高  
->>2. 拥有可视化的安装程序  
->>3. 良好的打图手感  
->>4. 简洁而不失美观的视觉体验  
+>>1. 可定制化程度极高
+>>2. 拥有实时可视化预览的安装程序（正在做）
+>>3. 良好的打图手感
+>>4. 简洁而不失美观的视觉体验
 >>5. 细腻平滑的动画效果  
->>6. 延续了刀剑神域系列番剧中UI的风格  
->>7. 支持中、英两种语言  
+>>6. 延续了刀剑神域系列番剧中UI的风格（这是重点！！）
+>>7. 支持中、英两种语言
+>>8. 真正的全局化
 
 ## 截图
 
@@ -45,7 +50,7 @@
 ## 如何使用
 
 >1. 把压缩包解压到你的osu!皮肤文件夹里  
->2. 运行皮肤根目录里的`install.bat`  
+>2. 运行皮肤根目录里的`AincradMixInstaller.exe`  
 
 ## 推荐设置
 
@@ -92,10 +97,10 @@
 >`/Resource` 项目素材文件  
 >`AincradMix.aep` 皮肤工程文件  
 
-## 如何打开这些`.aep`文件
+## 如何打开`.aep`文件
 
-> 1. 这些文件是用Adobe After Effects（CC2018）创建的，别的软件是打不开的。
-> 2. 你**必须**拥有以下的插件、脚本和字体，不然打开后不知道会发生什么呢233
+> 1. 须使用`Adobe After Effects（CC2018）`打开。
+> 2. 同时，你**必须**拥有以下的插件、脚本和字体：
 >
 >>### 插件
 >>
@@ -112,9 +117,7 @@
 >>[DS-Digital](https://fontmeme.com/fonts/ds-digital-font/)  
 >>[Aller](https://fontmeme.com/fonts/aller-font/)  
 
-## 元素导出说明
+## 图像导出说明
 
 > 1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`  
 > 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **（注意，是`_[#]`而不是`-[#]`或`[#]`）**  
-
-----
