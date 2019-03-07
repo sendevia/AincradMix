@@ -1,8 +1,6 @@
-# AincradMix 中文版 - 暂停更新
+# 项目状态：`暂停`
 
-|![AincradMix](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/title_big.png)|
-|:------------------------------------------:|
-| **一个拥有刀剑神域风格的osu!全模式皮肤项目** |
+![AincradMix](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/title_big.png)
 
 ----
 

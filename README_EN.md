@@ -1,8 +1,6 @@
-# AincradMix English Ver - Suspended update
+# STATUS: `Suspended`
 
-|![AincradMix](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/title_big.png)|
-|:-------------------------------------------------:|
-| **An osu! full mode skin project with SAO style** |
+![AincradMix](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/title_big.png)
 
 ----
 
