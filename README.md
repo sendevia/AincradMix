@@ -1,4 +1,4 @@
-# 项目状态：`暂停`
+# 项目状态：`更新中（慢速）`
 
 ![AincradMix](https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/title_big.png)
 
