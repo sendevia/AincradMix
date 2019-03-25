@@ -1,4 +1,4 @@
-# STATUS: `Updating(slowed)`
+# STATUS: `Updating(weekly)`
 
 ![img_18]
 
@@ -19,11 +19,11 @@
 >- AincradMix的好处都有啥？  
 >
 >>1. 可定制化程度极高
->>2. 拥有可视化的安装程序(Working...)
+>>2. 拥有可视化的安装程序 **(Working...)**
 >>3. 良好的打图手感
 >>4. 简洁而不失美观的视觉体验
 >>5. 细腻平滑的动画效果
->>6. 延续了刀剑神域系列番剧中UI的风格(Important!!)
+>>6. 延续了刀剑神域系列番剧中UI的风格 **(Important!!)**
 >>7. 支持中、英两种语言
 >>8. 真正的全局化
 
@@ -46,12 +46,20 @@
 ![img_16]
 ![img_17]
 
-## How To Use
+## How to use (stable ver)
 
 >1. 把压缩包解压到你的osu!皮肤文件夹里  
->2. 运行皮肤根目录里的`AincradMixInstaller.exe`  
+>2. 运行皮肤根目录里的`AincradMixInstaller.exe` **（Not Finished）**
 
-## Settings Recommend
+## Make the skin to be completely covered（alpha ver）
+
+ 1. 请将`AincradMix.osk`和`AincradMix.game.patch.zip`一并下载下来；
+ 2. 解压`AincradMix.game.patch.zip`把里面的两个`.dll`文件覆盖到游戏根目录；
+ 3. 双击安装`AincradMix.osk`；
+ 4. 在游戏内的Skins选项内选择`<AincradMix>`。
+ 5. 如果不想要应用全局皮肤，只需下载`AincradMix.osk`并安装即可。
+
+## Recommended settings
 
 >### 详细设置
 >
@@ -150,12 +158,12 @@
 >>[DS-Digital]  
 >>[Aller]  
 
-## Image export instructions
+## Image export
 
 > 1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`  
 > 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **（注意，是`_[#]`而不是`-[#]`或`[#]`）**  
 
-<!-- 链接索引 -->
+<!-- links -->
 [img_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/AincradMix.png
 [img_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/menu_1.jpg
 [img_3]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/menu_2.jpg
