@@ -1,4 +1,4 @@
-# STATUS: `Updating(weekly)`
+# STATUS: `Updating`
 
 ![img_18]
 
@@ -26,6 +26,11 @@
 >>6. 延续了刀剑神域系列番剧中UI的风格 **(Important!!)**
 >>7. 支持中、英两种语言
 >>8. 真正的全局化
+
+## 你需要注意的
+
+ 1. 这个皮肤现在还处于早期设计阶段，细节和手感都还没有完全的添加和优化；
+ 2. 目前这个皮肤对16:9的屏幕比例支持最佳，并且只支持高清分辨率（@2x）。
 
 ## Screenshots
 
@@ -56,7 +61,7 @@
  1. 请将`AincradMix.osk`和`AincradMix.game.patch.zip`一并下载下来；
  2. 解压`AincradMix.game.patch.zip`把里面的两个`.dll`文件覆盖到游戏根目录；
  3. 双击安装`AincradMix.osk`；
- 4. 在游戏内的Skins选项内选择`<AincradMix>`。
+ 4. 在游戏内的Skins选项内选择`AincradMix`。
  5. 如果不想要应用全局皮肤，只需下载`AincradMix.osk`并安装即可。
 
 ## Recommended settings

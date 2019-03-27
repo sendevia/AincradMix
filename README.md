@@ -1,4 +1,4 @@
-# 项目状态：`更新中（每周）`
+# 项目状态：`更新中`
 
 ![img_18]
 
@@ -61,7 +61,7 @@
  1. 请将`AincradMix.osk`和`AincradMix.game.patch.zip`一并下载下来；
  2. 解压`AincradMix.game.patch.zip`把里面的两个`.dll`文件覆盖到游戏根目录；
  3. 双击安装`AincradMix.osk`；
- 4. 在游戏内的Skins选项内选择`<AincradMix>`。
+ 4. 在游戏内的Skins选项内选择`AincradMix`。
  5. 如果不想要应用全局皮肤，只需下载`AincradMix.osk`并安装即可。
 
 ## 推荐设置
