@@ -12,20 +12,20 @@
 
 ## Introduction
 
->- 设计理念  
->
->>基于在整个《刀剑神域》系列番剧中出现的所有UI的基础上，将更为现代的设计风格与osu!游戏风格相混合。  
->
->- AincradMix的好处都有啥？  
->
->>1. 可定制化程度极高
->>2. 拥有可视化的安装程序 **(Working...)**
->>3. 良好的打图手感
->>4. 简洁而不失美观的视觉体验
->>5. 细腻平滑的动画效果
->>6. 延续了刀剑神域系列番剧中UI的风格 **(Important!!)**
->>7. 支持中、英两种语言
->>8. 真正的全局化
+- 设计理念  
+
+>基于在整个《刀剑神域》系列番剧中出现的所有UI的基础上，将更为现代的设计风格与osu!游戏风格相混合。  
+
+- AincradMix的好处都有啥？  
+
+>1. 可定制化程度极高
+>2. 拥有可视化的安装程序 **(Working...)**
+>3. 良好的打图手感
+>4. 简洁而不失美观的视觉体验
+>5. 细腻平滑的动画效果
+>6. 延续了刀剑神域系列番剧中UI的风格 **(Important!!)**
+>7. 支持中、英两种语言
+>8. 真正的全局化
 
 ## 你需要注意的
 
@@ -53,13 +53,13 @@
 
 ## How to use (stable ver)
 
->1. 把压缩包解压到你的osu!皮肤文件夹里  
->2. 运行皮肤根目录里的`AincradMixInstaller.exe` **（Not Finished）**
+ 1. 把压缩包解压到你的osu!皮肤文件夹里；
+ 2. 运行皮肤根目录里的`AincradMixInstaller.exe`。 **（Not Finished）**
 
 ## Make the skin to be completely covered（alpha ver）
 
- 1. 请将`AincradMix.osk`和`AincradMix.game.patch.zip`一并下载下来；
- 2. 解压`AincradMix.game.patch.zip`把里面的两个`.dll`文件覆盖到游戏根目录；
+ 1. 请将`AincradMix.osk`和`AincradMixGamePatch.zip`一并下载下来；
+ 2. 解压`AincradMixGamePatch.zip`把里面的两个`.dll`文件覆盖到游戏根目录；
  3. 双击安装`AincradMix.osk`；
  4. 在游戏内的Skins选项内选择`AincradMix`。
  5. 如果不想要应用全局皮肤，只需下载`AincradMix.osk`并安装即可。
@@ -145,28 +145,28 @@
 
 ## Open `AincradMix.aep`
 
-> 1. 推荐使用`Adobe After Effects CC2019 (16.0)`打开。
-> 2. 同时，你**必须**拥有以下的插件、脚本和字体：
+ 1. 推荐使用`Adobe After Effects CC2019 (16.0)`打开。
+ 2. 同时，你**必须**拥有以下的插件、脚本和字体：
+
+>- 插件
 >
->>- 插件
->>
 >>[Saber]  
->>
->>- 脚本
->>
+>
+>- 脚本
+>
 >>[Duik]  
 >>[GridGuide]  
->>
->>- 字体
->>
+>
+>- 字体
+>
 >>[SAO-UI]  
 >>[DS-Digital]  
 >>[Aller]  
 
 ## Image export
 
-> 1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`  
-> 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **（注意，是`_[#]`而不是`-[#]`或`[#]`）**  
+ 1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`  
+ 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **（注意，是`_[#]`而不是`-[#]`或`[#]`）**  
 
 <!-- links -->
 [AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/AincradMix.png
