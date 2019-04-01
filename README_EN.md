@@ -1,6 +1,6 @@
 # STATUS: `Updating`
 
-![img_18]
+![title_big]
 
 ----
 
@@ -34,22 +34,22 @@
 
 ## Screenshots
 
-![img_1]
-![img_2]
-![img_3]
-![img_4]
-![img_5]
-![img_6]
-![img_7]
-![img_8]
-![img_9]
-![img_11]
-![img_12]
-![img_13]
-![img_14]
-![img_15]
-![img_16]
-![img_17]
+![AincradMix]
+![menu_1]
+![menu_2]
+![menu_3]
+![menu_4]
+![score]
+![editor_1]
+![editor_2]
+![std_1]
+![std_2]
+![mania_1]
+![mania_2]
+![taiko_1]
+![taiko_2]
+![ctb_2]
+![ctb_1]
 
 ## How to use (stable ver)
 
@@ -169,24 +169,23 @@
 > 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **（注意，是`_[#]`而不是`-[#]`或`[#]`）**  
 
 <!-- links -->
-[img_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/AincradMix.png
-[img_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/menu_1.jpg
-[img_3]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/menu_2.jpg
-[img_4]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/menu_3.jpg
-[img_5]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/menu_4.jpg
-[img_6]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/score.jpg
-[img_7]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/editor_1.jpg
-[img_8]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/editor_2.jpg
-[img_9]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/std_1.jpg
-[img_10]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/std_2.jpg
-[img_11]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/std_3.jpg
-[img_12]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/mania_1.png
-[img_13]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/mania_2.png
-[img_14]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/taiko_1.png
-[img_15]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/taiko_2.png
-[img_16]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/ctb_1.png
-[img_17]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/screenshots/ctb_2.png
-[img_18]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/img/title_big.png
+[AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/AincradMix.png
+[menu_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_1.jpg
+[menu_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_2.jpg
+[menu_3]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_3.jpg
+[menu_4]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_4.jpg
+[score]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/score.jpg
+[editor_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/editor_1.jpg
+[editor_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/editor_2.jpg
+[std_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/std_1.jpg
+[std_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/std_2.jpg
+[mania_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/mania_1.jpg
+[mania_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/mania_2.jpg
+[taiko_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/taiko_1.jpg
+[taiko_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/taiko_2.jpg
+[ctb_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_1.jpg
+[ctb_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_2.jpg
+[title_big]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/title_big.png
 [切换到中文]:https://github.com/Sendevia/AincradMix/blob/master/README.md
 [Downloads]:https://github.com/Sendevia/AincradMix/releases
 [Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
