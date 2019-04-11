@@ -169,7 +169,7 @@
  2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **（注意，是`_[#]`而不是`-[#]`或`[#]`）**  
 
 <!-- links -->
-[AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/AincradMix.png
+[AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/AincradMix.png
 [menu_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_1.jpg
 [menu_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_2.jpg
 [menu_3]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_3.jpg
@@ -185,7 +185,7 @@
 [taiko_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/taiko_2.jpg
 [ctb_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_1.jpg
 [ctb_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_2.jpg
-[title_big]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/title_big.png
+[title_big]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/title_big.png
 [切换到中文]:https://github.com/Sendevia/AincradMix/blob/master/README.md
 [Downloads]:https://github.com/Sendevia/AincradMix/releases
 [Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
