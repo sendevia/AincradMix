@@ -39,6 +39,7 @@
 ![menu_2]
 ![menu_3]
 ![menu_4]
+![menu_5]
 ![score]
 ![editor_1]
 ![editor_2]
@@ -174,6 +175,7 @@
 [menu_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_2.jpg
 [menu_3]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_3.jpg
 [menu_4]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_4.jpg
+[menu_5]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_5.jpg
 [score]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/score.jpg
 [editor_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/editor_1.jpg
 [editor_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/editor_2.jpg
