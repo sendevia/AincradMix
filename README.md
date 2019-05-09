@@ -4,11 +4,7 @@
 
 ----
 
-[Switch-to-English]
-
-----
-
-## [下载地址]
+![GitHub release](https://img.shields.io/github/release-pre/Sendevia/AincradMix.svg?color=%23FF721E&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=popout-square)  ![GitHub](https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square)
 
 ## 介绍
 
@@ -18,8 +14,8 @@
 
 - AincradMix的好处都有啥？  
 
-> 1. 可定制化程度极高
-> 2. 拥有可视化的安装程序 **（正在做＞﹏＜）**
+> 1. ~~可定制化程度极高~~
+> 2. ~~拥有可视化的安装程序 **（正在做＞﹏＜...）**~~
 > 3. 良好的打图手感
 > 4. 简洁而不失美观的视觉体验
 > 5. 细腻平滑的动画效果
