@@ -4,7 +4,17 @@
 
 ----
 
-![GitHub release](https://img.shields.io/github/release-pre/Sendevia/AincradMix.svg?color=%23FF721E&style=popout-square)  ![GitHub](https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square)
+<div align="right">
+  <a href="https://github.com/Sendevia/AincradMix/releases/tag/alpha1.2_amix">
+    <img src="https://img.shields.io/github/release-pre/Sendevia/AincradMix.svg?color=%23FF721E&labelLatest&style=popout-square" alt="download now">
+  </a>
+  <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
+  </a>
+  <a href="https://github.com/Sendevia/AincradMix/blob/master/README.md">
+    <img src="https://img.shields.io/badge/Switch to-Chinese-%23131313.svg?style=flat-square" alt="language switch">
+  </a>
+</div>
 
 ## Introduction
 
