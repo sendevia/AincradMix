@@ -14,14 +14,14 @@
 
 - AincradMix的好处都有啥？  
 
-> 1. ~~可定制化程度极高~~
-> 2. ~~拥有可视化的安装程序 **(Working now＞﹏＜...)**~~
-> 3. 良好的打图手感
+> 1. 延续了刀剑神域系列番剧中UI的风格
+> 2. 良好的打图手感
+> 3. 细腻平滑的动画效果
 > 4. 简洁而不失美观的视觉体验
-> 5. 细腻平滑的动画效果
-> 6. 延续了刀剑神域系列番剧中UI的风格 **(Important!!)**
-> 7. 支持中、英两种语言
-> 8. 真正的全局化
+> 5. ~~拥有可视化的安装程序~~
+> 6. 做到了全局覆盖
+> 7. ~~有一定的定制化选项~~
+> 8. 多语言支持
 
 ## 你需要注意的
 
@@ -208,8 +208,6 @@
 [ctb_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_1.jpg
 [ctb_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_2.jpg
 [title_big]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/title_big.png
-[切换到中文]:https://github.com/Sendevia/AincradMix/blob/master/README.md
-[Downloads]:https://github.com/Sendevia/AincradMix/releases
 [Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
 [Duik]:https://rainboxprod.coop/en/tools/duik/duik-download/
 [GridGuide]:https://aescripts.com/gridguide-for-after-effects/
