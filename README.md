@@ -38,7 +38,7 @@
  1. 这个皮肤现在还处于早期设计阶段，细节和手感都还没有完全的添加和优化；
  2. 目前这个皮肤对16:9的屏幕比例支持最佳，并且只支持高清分辨率（`@2x`）；
  3. 在应用全局皮肤时，要注意备份`osu!ui.dll`和`osu!gameplay.dll`；
- 4. 在从别的皮肤与AincradMix之间切换时，你需要重启一下osu!，这样可以使游戏运行得更稳定。
+ 4. 在与别的皮肤和AincradMix之间切换时，你需要重启一下osu!，这样可以使游戏运行得更稳定。
 
 ## 截图
 
@@ -48,6 +48,7 @@
 ![menu_3]
 ![menu_4]
 ![menu_5]
+![menu_6]
 ![score]
 ![editor_1]
 ![editor_2]
@@ -206,6 +207,7 @@
 [menu_3]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_3.jpg
 [menu_4]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_4.jpg
 [menu_5]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_5.jpg
+[menu_5]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_6.jpg
 [score]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/score.jpg
 [editor_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/editor_1.jpg
 [editor_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/editor_2.jpg
