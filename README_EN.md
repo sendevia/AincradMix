@@ -61,7 +61,7 @@
 ![ctb_2]
 ![ctb_1]
 
-## Make the skin to be completely covered（alpha ver）
+## Make the skin to be completely covered
 
  1. 将`AincradMix.osk`和`AincradMixGamePatch.zip`一并下载下来；
  2. 解压`AincradMixGamePatch.zip`把里面的两个`.dll`文件覆盖到游戏根目录；
@@ -69,7 +69,7 @@
  4. 在游戏内的Skins选项内选择`AincradMix`。
  5. 如果不想要应用全局皮肤，只需下载`AincradMix.osk`并安装即可。
 
-## Recommended settings
+## Settings Recommended
 
 - 详细设置
 
@@ -149,7 +149,7 @@
 
 - AincradMix.aep `---- 皮肤工程文件`
 
-## Open `AincradMix.aep`
+## Open The `AincradMix.aep`
 
 - **说明：**
 
@@ -171,7 +171,7 @@
 > [DS-Digital]  
 > [Aller]  
 
-## Color Themes
+## Colors Theme
 
 - **说明：** 轻微地调整颜色的纯度和亮度是可以的。比如白色 `#EEEEEE` 可以变为 `#FFFFFF`，黑色 `#131313` 可以变为 `#000000`。
 
@@ -207,7 +207,7 @@
 [menu_3]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_3.jpg
 [menu_4]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_4.jpg
 [menu_5]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_5.jpg
-[menu_5]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_6.jpg
+[menu_6]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_6.jpg
 [score]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/score.jpg
 [editor_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/editor_1.jpg
 [editor_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/editor_2.jpg
