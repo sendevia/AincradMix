@@ -102,53 +102,6 @@
 
 > - [x] 点击波纹
 
-## File & directories
-
-- /AincradMix/ `---- 完整皮肤文件（高清）`
-
-> /-/Pack_[base]/ `---- 皮肤基础部分`  
->> /-/-/Pack_[base_cn] `---- 中文基础资源文件`  
->> /-/-/Pack_[base_en] `---- 英文基础资源文件`  
->
-> /-/Pack_[animation]/ `---- 皮肤扩展部分（动画）`  
->> /-/-/Frame_[15]/  `---- 15帧动画`  
->>> /-/-/-/Pack_[animation_15_cn] `---- 中文15帧动画文件`  
->>> /-/-/-/Pack_[animation_15_cn] `---- 英文15帧动画文件`  
->>
->> /-/-/Frame_[30]/  `---- 30帧动画`  
->>> /-/-/-/Pack_[animation_30_cn] `---- 中文30帧动画文件`  
->>> /-/-/-/Pack_[animation_30_cn] `---- 英文30帧动画文件`  
->>
->> /-/-/Frame_[60]/  `---- 60帧动画`  
->>> /-/-/-/Pack_[animation_60_cn] `---- 中文60帧动画文件`  
->>> /-/-/-/Pack_[animation_60_cn] `---- 英文60帧动画文件`  
->
-> /-/Pack_[cursor]/ `---- 皮肤扩展部分（光标）`  
->> /-/-/Style_[round]/ `---- 圆形光标风格`  
->>> /-/-/-/Color_[blue] `---- 蓝色`  
->>> /-/-/-/Color_[green] `---- 绿色`  
->>> /-/-/-/Color_[orange] `---- 橙色`  
->>> /-/-/-/Color_[pink] `---- 粉色`  
->>> /-/-/-/Color_[purple] `---- 紫色`  
->>> /-/-/-/Color_[red] `---- 红色`  
->
-> /-/Pack_[sfx]/ `---- 皮肤扩展部分（音效，部分来自osu!lazer）`  
->> /-/-/Style_[lazer] `---- osu!lazer主题音效`  
->
-> /-/Pack_[optimized]/ `---- 皮肤扩展部分（单模式优化）`  
->> /-/-/Optimized_[ctb] `---- catch模式优化文件`  
->> /-/-/Optimized_[mania] `---- mania模式优化文件`  
->> /-/-/Optimized_[taiko] `---- taiko模式优化文件`  
->> /-/-/Optimized_[std] `---- osu!模式优化文件`  
-
-- /osu!ui_patch `---- ui资源补丁`  
-
-- /osu!gameplay_patch `---- gameplay资源补丁`  
-
-- /Resource `---- 项目素材文件`  
-
-- AincradMix.aep `---- 皮肤工程文件`
-
 ## Open The `AincradMix.aep`
 
 - **说明：**
