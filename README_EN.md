@@ -1,4 +1,4 @@
-# Overall project completion：`7%`
+# Overall project progress：`7%`
 
 ![title_big]
 
