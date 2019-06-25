@@ -128,24 +128,24 @@
 
 - **说明：** 轻微地调整颜色的纯度和亮度是可以的。比如白色 `#EEEEEE` 可以变为 `#FFFFFF`，黑色 `#131313` 可以变为 `#000000`。
 
-> 标题文本 #777777  
-> 通用文本 #D4D4D4  
-> 提示文本 #E5E5E5  
-> 通用背景 #969696  
-> 红 #EC3434  
-> 桃红 #FF005A  
-> 黄 #FFC600  
-> 蓝 #0054FF  
-> 橙 #FF721E  
-> 紫 #9000FF  
-> 绿 #07B703  
-> 绿幕 #009129  
-> 紫 #7200FF  
-> 粉 #FF25E8  
-> 灰 #717171 #4D4D4D #C4C4C4  
-> 黑 #131313 #2F2F2F  
-> 白 #EEEEEE  
-> 阴影填充 #323232 #1C1C1C
+> Title text #777777  
+> General text #D4D4D4  
+> Prompt text #E5E5E5  
+> Universal background #969696  
+> Red #EC3434  
+> Peach red #FF005A  
+> Yellow #FFC600  
+> Blue #0054FF  
+> Orange #FF721E  
+> Purple #9000FF  
+> Green #07B703  
+> Green Screen #009129  
+> Purple #7200FF  
+> Powder #FF25E8  
+> Ash #717171 #4D4D4D #C4C4C4  
+> Black #131313 #2F2F2F  
+> White #EEEEEE  
+> Shadow Fill #323232 #1C1C1C
 
 ## Image export
 
