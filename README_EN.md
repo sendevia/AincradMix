@@ -79,54 +79,54 @@
 > - [x] Shaders
 > - [x] Softening filter
 
-- 主菜单
+- General
 
-> - [x] 飘雪效果
+> - [x] Snow
 
-- 选歌页面
+- Song Select
 
-> - [x] 显示略缩图
+> - [x] Display background
 
-- 常规
+- Pause
 
-> - [x] 背景暗化 _95%_
+> - [x] Background Dim _95%_
 
-- 皮肤
+- Skin
 
-> - [x] 忽略所有谱面自带的皮肤
-> - [x] 光标大小 _0.75x_
-> - [x] 自动缩放光标
-> - [ ] 拖球的颜色随滑条改变
+> - [x] Ignore all beatmap skins
+> - [x] Cursor size _0.75x_
+> - [x] Automatic cursor size
+> - [ ] Use combo color as tint for slider ball
 
-- 鼠标
+- Input
 
-> - [x] 点击波纹
+> - [x] Cursor ripples
 
-## Open The `AincradMix.aep`
+## How to open `AincradMix.aep`
 
-- **说明：**
+- **Description：**
 
-> 1. 推荐使用`Adobe After Effects CC2019 (16.0)`打开。
-> 2. 你**必须**拥有以下的插件、脚本和字体：
+> 1. Recommended using `Adobe After Effects CC2019 (16.0)`.
+> 2. You **must** have the following plugins, scripts and fonts:
 
-- 插件
+- Plugins
 
 > [Saber]  
 
-- 脚本
+- Scripts
 
 > [Duik]  
 > [GridGuide]  
 
-- 字体
+- Fonts
 
 > [SAO-UI]  
 > [DS-Digital]  
 > [Aller]  
 
-## Colors Theme
+## Color Theme
 
-- **说明：** 轻微地调整颜色的纯度和亮度是可以的。比如白色 `#EEEEEE` 可以变为 `#FFFFFF`，黑色 `#131313` 可以变为 `#000000`。
+- **Note：** It is ok to adjust the purity and brightness of the color slightly. For example, white `#EEEEEE` can be changed to `#FFFFFF`, and black `#131313` can be changed to `#000000`.
 
 > Title text #777777  
 > General text #D4D4D4  
@@ -149,9 +149,9 @@
 
 ## Image export
 
- 1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`。
- 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **。（注意一下哦，是`_[#]`而不是`-[#]`或`[#]`）**
- 3. 具体该使用何种导出方式，请注意特殊合成后面的注释。
+ 1. Image export format is .PNG, channel is RGB+Alpha, name set to composite name.
+ 2. Animation export format - `.PNG（sequence）`, aisle`RGB+Alpha`, use the composite frame number, the name is set to `Synthetic name`, remove the file name **`_[#]`** suffix **。（Be careful, `_[#]`instead of`-[#]`or`[#]`）**
+ 3. Specifically, what kind of export method should be used, please pay attention to the comments after the special synthesis.
 
 <!-- links -->
 [AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/AincradMix.png
