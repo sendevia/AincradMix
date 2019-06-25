@@ -150,7 +150,7 @@
 ## Image export
 
  1. Image export format is .PNG, channel is RGB+Alpha, name set to composite name.
- 2. Animation export format - `.PNG（sequence）`, aisle`RGB+Alpha`, use the composite frame number, the name is set to `Synthetic name`, remove the file name **`_[#]`** suffix **.（Be careful, `_[#]`instead of`-[#]`or`[#]`）**
+ 2. Animation export format - `.PNG（sequence`, aisle `RGB+Alpha`, use the composite frame number, the name is set to `Synthetic name`, remove the file name **`_[#]`** suffix **.（Be careful, `_[#]`instead of`-[#]`or`[#]`）**
  3. Specifically, what kind of export method should be used, please pay attention to the comments after the special synthesis.
 
 <!-- links -->
