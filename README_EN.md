@@ -1,4 +1,4 @@
-# 项目整体完成度：`7%`
+# Overall project completion：`7%`
 
 ![title_big]
 
@@ -18,27 +18,27 @@
 
 ## Introduction
 
-- 设计理念  
+- Design Concept
 
-> 基于在整个《刀剑神域》系列番剧中出现的所有UI的基础上，将更为现代的设计风格与osu!游戏风格相混合。  
+> Based on all the UIs that appear in the entire "Sword Art Online" series, the more modern design style is mixed with the osu! game style.
 
-- AincradMix的好处都有啥？  
+- What are the benefits of AincradMix?
 
-> 1. 延续了刀剑神域系列番剧中UI的风格
-> 2. 良好的打图手感
-> 3. 细腻平滑的动画效果
-> 4. 简洁而不失美观的视觉体验
-> 5. ~~拥有可视化的安装程序~~
-> 6. 做到了全局覆盖
-> 7. ~~有一定的定制化选项~~
-> 8. 多语言支持
+> 1. Continued the style of the UI in the Sword Art Online series
+> 2. Good drawing feel
+> 3. Delicate and smooth animation
+> 4. Simple yet beautiful visual experience
+> 5. ~~Has a visual installer~~
+> 6. Global replacement
+> 7. ~~Certain customization options~~
+> 8. Multi-language support
 
-## 你需要注意的
+## Please read
 
- 1. 这个皮肤现在还处于早期设计阶段，细节和手感都还没有完全的添加和优化；
- 2. 目前这个皮肤对16:9的屏幕比例支持最佳，并且只支持高清分辨率（`@2x`）；
- 3. 在应用全局皮肤时，要注意备份`osu!ui.dll`和`osu!gameplay.dll`；
- 4. 在与别的皮肤和AincradMix之间切换时，你需要重启一下osu!，这样可以使游戏运行得更稳定。
+ 1. This skin is still in the early stages of design, and the details and feels have not been fully added and optimized;
+ 2. Currently this skin supports the 16:9 aspect ratio best and only supports HD resolution (`@2x`);
+ 3. When applying the global skin, please backup `osu!ui.dll` and `osu!gameplay.dll`;
+ 4. When switching between other skins and AincradMix, you need to restart osu!, which will make the game run more stable.
 
 ## Screenshots
 
@@ -61,23 +61,23 @@
 ![ctb_2]
 ![ctb_1]
 
-## Make the skin to be completely covered
+## How to install
 
- 1. 将`AincradMix.osk`和`AincradMixGamePatch.zip`一并下载下来；
- 2. 解压`AincradMixGamePatch.zip`把里面的两个`.dll`文件覆盖到游戏根目录；
- 3. 双击安装`AincradMix.osk`；
- 4. 在游戏内的Skins选项内选择`AincradMix`。
- 5. 如果不想要应用全局皮肤，只需下载`AincradMix.osk`并安装即可。
+ 1. Download both `AincradMix.osk` and `AincradMixGamePatch.zip`;
+ 2. Unzip `AincradMixGamePatch.zip` to overwrite the two `.dll` files inside the game root directory;
+ 3. Double click `AincradMix.osk` to install;
+ 4. Select `AincradMix` in the section Skins in the in-game options.
+ 5. If you don't want to apply the global skin, just download `AincradMix.osk` and install it.
 
 ## Settings Recommended
 
-- 详细设置
+- Detail settings
 
-> - [x] 渐出滑条
-> - [ ] 连击提示图
-> - [ ] 击打闪光
-> - [x] 着色器效果
-> - [x] 柔化滤镜
+> - [x] Fade out slider
+> - [ ] Combo bursts
+> - [ ] Hit lightning
+> - [x] Shaders
+> - [x] Softening filter
 
 - 主菜单
 
