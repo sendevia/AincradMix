@@ -71,34 +71,43 @@
 
 ## Settings Recommended
 
-- Detail settings
+- DETAIL SETTINGS
 
-> - [x] Fade out slider
+> - [x] Snaking sliders
 > - [ ] Combo bursts
 > - [ ] Hit lightning
 > - [x] Shaders
 > - [x] Softening filter
 
-- General
+- MAIN MENU
 
 > - [x] Snow
 
-- Song Select
+- SONG SELECT
 
-> - [x] Display background
+> - [x] Show thumbnails
 
-- Pause
+- GENERAL
 
-> - [x] Background Dim _95%_
+> - [x] Background dim: _95%_
+> - [x] Progress display: Top-Right (Bar)
+> - Score meter type: Hit error
+> - [x] Score meter size: _0.75x_
 
-- Skin
+- VOLUME
+
+> - [x] Ignore beatmap hitsounds
+
+- SKIN
 
 > - [x] Ignore all beatmap skins
-> - [x] Cursor size _0.75x_
+> - [x] Use skin's sound samples
+> - [x] Always use skin cursor
+> - [x] Cursor size _0.7x_
 > - [x] Automatic cursor size
 > - [ ] Use combo color as tint for slider ball
 
-- Input
+- MOUSE
 
 > - [x] Cursor ripples
 
