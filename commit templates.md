@@ -10,8 +10,8 @@ Changed:
 Fixed:
 🛠 files Problem
 
+AMix version:
+🆙 Tyymdv
+
 dll version:
 Pyymdv
-
-project version:
-Tyymdv
