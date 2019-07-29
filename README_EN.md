@@ -11,7 +11,7 @@
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
-  <a href="https://github.com/Sendevia/AincradMix/blob/master/README_EN.md">
+  <a href="https://github.com/Sendevia/AincradMix/blob/master/README.md">
     <img src="https://img.shields.io/badge/Switch to-Chinese-%23131313.svg?style=flat-square" alt="language switch">
   </a>
 </div>
