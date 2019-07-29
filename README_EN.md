@@ -11,7 +11,7 @@
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
-  <a href="https://github.com/Sendevia/AincradMix/blob/master/README.md">
+  <a href="https://github.com/Sendevia/AincradMix/blob/master/README_EN.md">
     <img src="https://img.shields.io/badge/Switch to-Chinese-%23131313.svg?style=flat-square" alt="language switch">
   </a>
 </div>
@@ -103,7 +103,7 @@
 > - [x] Ignore all beatmap skins
 > - [x] Use skin's sound samples
 > - [x] Always use skin cursor
-> - [x] Cursor size _0.7x_
+> - [x] Cursor size: _0.7x_
 > - [x] Automatic cursor size
 > - [ ] Use combo color as tint for slider ball
 
@@ -132,9 +132,9 @@
 > [SAO-UI]  
 > [DS-Digital]  
 > [Aller]  
-> [Century Gothic]  
+> Century Gothic  
 
-## Color Theme
+## Duik notes
 
 - **Note：** It is ok to adjust the purity and brightness of the color slightly. For example, white `#EEEEEE` can be changed to `#FFFFFF`, and black `#131313` can be changed to `#000000`.
 
@@ -156,6 +156,19 @@
 > Black #131313 #2F2F2F  
 > White #EEEEEE  
 > Shadow Fill #323232 #1C1C1C
+
+> 合成 - 黄色  
+> 视频 - 深绿色  
+> 音频 - 绿色  
+> 静止图像 - 浅绿色  
+> 文件夹 - 橙色  
+> 空对象 - 无  
+> 纯色 - 砂岩  
+> 摄像机 - 红色  
+> 灯光 - 红色  
+> 形状 - 粉色  
+> 调整 - 紫色  
+> 文本 - 蓝色
 
 ## Image export
 

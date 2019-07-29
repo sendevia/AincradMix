@@ -11,8 +11,8 @@
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
-  <a href="https://github.com/Sendevia/AincradMix/blob/master/README_EN.md">
-    <img src="https://img.shields.io/badge/%E5%88%87%E6%8D%A2%E5%88%B0-%E8%8B%B1%E6%96%87-%23131313.svg?style=flat-square" alt="language switch">
+  <a href="https://github.com/Sendevia/AincradMix/blob/master/README.md">
+    <img src="https://img.shields.io/badge/Switch to-English-%23131313.svg?style=flat-square" alt="language switch">
   </a>
 </div>
 
@@ -103,7 +103,7 @@
 > - [x] 忽略所有谱面自带的皮肤
 > - [x] 使用皮肤的音效
 > - [x] 总是使用皮肤中的光标
-> - [x] 光标大小 _0.7x_
+> - [x] 光标大小： _0.7x_
 > - [x] 自动缩放光标
 > - [ ] 拖球的颜色随滑条改变
 
@@ -132,9 +132,9 @@
 > [SAO-UI]  
 > [DS-Digital]  
 > [Aller]  
-> [Century Gothic]  
+> Century Gothic  
 
-## 主题颜色
+## Duik笔记
 
 - **说明：** 轻微地调整颜色的纯度和亮度是可以的。比如白色 `#EEEEEE` 可以变为 `#FFFFFF`，黑色 `#131313` 可以变为 `#000000`。
 
@@ -155,7 +155,20 @@
 > 灰 #717171 #4D4D4D #C4C4C4  
 > 黑 #131313 #2F2F2F  
 > 白 #EEEEEE  
-> 阴影填充 #323232 #1C1C1C
+> 阴影填充 #323232 #1C1C1C  
+
+> 合成 - 黄色  
+> 视频 - 深绿色  
+> 音频 - 绿色  
+> 静止图像 - 浅绿色  
+> 文件夹 - 橙色  
+> 空对象 - 无  
+> 纯色 - 砂岩  
+> 摄像机 - 红色  
+> 灯光 - 红色  
+> 形状 - 粉色  
+> 调整 - 紫色  
+> 文本 - 蓝色
 
 ## 图像导出说明
 
