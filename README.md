@@ -5,7 +5,7 @@
 ----
 
 <div align="right">
-  <a href="https://github.com/Sendevia/AincradMix/releases/tag/alpha1.4_amix">
+  <a href="https://github.com/Sendevia/AincradMix/releases/tag/alpha1.5_amix">
     <img src="https://img.shields.io/github/release-pre/Sendevia/AincradMix.svg?color=%23FF721E&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=popout-square" alt="download now">
   </a>
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
