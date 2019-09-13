@@ -1,0 +1,18 @@
+﻿<Window x:Name="Main" x:Class="AincradMix.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AincradMix"
+        mc:Ignorable="d"
+        Title="AincradMix" Height="450" Width="800" Topmost="True" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image Margin="11,97,11,0" VerticalAlignment="Top" Source="Resources/title_big.png"/>
+        <Label Content="A fully covered skin project for osu!" Margin="143,269,145,112" HorizontalContentAlignment="Center" FontFamily="SAO UI" FontSize="20" VerticalContentAlignment="Center" TextOptions.TextFormattingMode="Display"/>
+        <Button Content="Github" HorizontalAlignment="Left" Height="46" Margin="660,355,0,0" VerticalAlignment="Top" Width="112" Click="Button_Click" TextOptions.TextFormattingMode="Display"/>
+
+    </Grid>
+</Window>

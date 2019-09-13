@@ -1,0 +1,16 @@
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\bin\Debug\AincradMix.exe.config
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\bin\Debug\AincradMix.exe
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\bin\Debug\AincradMix.pdb
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\AincradMix.csprojAssemblyReference.cache
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\MainWindow.g.cs
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\App.g.cs
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\AincradMix_MarkupCompile.cache
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\AincradMix_MarkupCompile.lref
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\MainWindow.baml
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\AincradMix.g.resources
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\AincradMix.Properties.Resources.resources
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\AincradMix.Resources.resources
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\AincradMix.csproj.GenerateResource.cache
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\AincradMix.csproj.CoreCompileInputs.cache
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\AincradMix.exe
+E:\Documents\Projects\AincradMix\osuSkinImporter\AincradMix\obj\Debug\AincradMix.pdb
