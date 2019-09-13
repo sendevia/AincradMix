@@ -10,8 +10,13 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
+
         <Image Margin="11,97,11,0" VerticalAlignment="Top" Source="Resources/title_big.png"/>
-        <Label Content="A fully covered skin project for osu!" Margin="143,269,145,112" HorizontalContentAlignment="Center" FontFamily="SAO UI" FontSize="20" VerticalContentAlignment="Center" TextOptions.TextFormattingMode="Display"/>
+        <Label Content="A fully covered skin project for osu!" Margin="144.475,272,146.475,77" HorizontalContentAlignment="Center" FontFamily="SAO UI" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center" ScrollViewer.VerticalScrollBarVisibility="Disabled" Height="72" TextOptions.TextHintingMode="Fixed" Width="503.05">
+            <Label.Effect>
+                <DropShadowEffect ShadowDepth="1" Opacity="0.6" BlurRadius="2"/>
+            </Label.Effect>
+        </Label>
         <Button Content="Github" HorizontalAlignment="Left" Height="46" Margin="660,355,0,0" VerticalAlignment="Top" Width="112" Click="Button_Click" TextOptions.TextFormattingMode="Display"/>
 
     </Grid>
