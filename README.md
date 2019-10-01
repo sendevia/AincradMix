@@ -180,7 +180,7 @@
 > style_lazer 来自 osu!lazer  
 > color theme 来自 SAO official website
 >   
-> _在此非常感谢你们的付出和努力！_
+> _在此，我非常感谢你们的努力和付出！_
 
 <!-- 链接索引 -->
 [AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/AincradMix.png
