@@ -30,8 +30,7 @@
 > 4. Simple yet beautiful visual experience
 > 5. ~~Has a visual installer~~
 > 6. Global replacement
-> 7. ~~Certain customization options~~
-> 8. Multi-language support
+> 7. ~~Certain customization options~~  
 
 ## Please read
 
