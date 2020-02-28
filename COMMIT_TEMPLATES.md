@@ -4,14 +4,16 @@ Added:
 Removed:
 ➖ files
 
-Changed:
+Modified:
 🔘 files What_has_changed
 
 Fixed:
 🛠 files Problem
 
-AMix version:
+AMix updated:
 🆙 Tyymdv
 
-dll version:
-Pyymdv
+Patch updated:
+🆙 Pyymdv
+
+T/P-year-month-day-ReleaseNumber(min:1)
