@@ -28,16 +28,17 @@
 > 2. Good drawing feel
 > 3. Delicate and smooth animation
 > 4. Simple yet beautiful visual experience
-> 5. ~~Has a visual installer~~
+> 5. Has a visual installer(Still working)
 > 6. Global replacement
-> 7. ~~Certain customization options~~  
+> 7. Certain customization options
 
 ## Please read
 
- 1. This skin is still in the early stages of design, and the details and feels have not been fully added and optimized;
- 2. Currently this skin supports the 16:9 aspect ratio best and only supports HD resolution (`@2x`);
- 3. When applying the global skin, please backup `osu!ui.dll` and `osu!gameplay.dll`;
- 4. When switching between other skins and AincradMix, you need to restart osu!, which will make the game run more stable.
+ - ### **Current game patch is outdated, please wait for newer updates. You can also use dnSpy for manual modification.**
+ - This skin is still in the early stages of design, and the details and feels have not been fully added and optimized;
+ - Currently this skin supports the 16:9 aspect ratio best and only supports HD resolution (`@2x`);
+ - When applying the global skin, please backup `osu!ui.dll` and `osu!gameplay.dll`;
+ - When switching between other skins and AincradMix, you need to restart osu!, which will make the game run more stable.
 
 ## Screenshots
 
@@ -110,11 +111,11 @@
 
 > - [x] Cursor ripples
 
-## How to open `AincradMix.aep`
+## How to open `.aep`
 
 - **Description：**
 
-> 1. Recommended using `Adobe After Effects CC2019 (16.0)`.
+> 1. Recommended using `Adobe After Effects CC2019 (16.0)` or above.
 > 2. You **must** have the following plugins, scripts and fonts:
 
 - Plugins
@@ -133,9 +134,11 @@
 > [Aller]  
 > Century Gothic  
 
-## Duik notes
+## Notes
 
-- **Note：** It is ok to adjust the purity and brightness of the color slightly. For example, white `#EEEEEE` can be changed to `#FFFFFF`, and black `#131313` can be changed to `#000000`.
+- It is ok to adjust the purity and brightness of the color slightly. For example, white `#EEEEEE` can be changed to `#FFFFFF`, and black `#131313` can be changed to `#000000`.
+
+## Color themes
 
 > Title text #777777  
 > General text #D4D4D4  
@@ -156,24 +159,15 @@
 > White #EEEEEE  
 > Shadow Fill #323232 #1C1C1C
 
-> 合成 - 黄色  
-> 视频 - 深绿色  
-> 音频 - 绿色  
-> 静止图像 - 浅绿色  
-> 文件夹 - 橙色  
-> 空对象 - 无  
-> 纯色 - 砂岩  
-> 摄像机 - 红色  
-> 灯光 - 红色  
-> 形状 - 粉色  
-> 调整 - 紫色  
-> 文本 - 蓝色
-
 ## Image export
 
  1. Image export format is .PNG, channel is RGB+Alpha, name set to composite name.
  2. Animation export format - `.PNG（sequence`, aisle `RGB+Alpha`, use the composite frame number, the name is set to `Synthetic name`, remove the file name **`_[#]`** suffix **.（Be careful, `_[#]`instead of`-[#]`or`[#]`）**
  3. Specifically, what kind of export method should be used, please pay attention to the comments after the special synthesis.
+
+## Some resources from
+> style_lazer FROM osu!lazer  
+> color theme FROM The website of SAO official
 
 <!-- links -->
 [AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/AincradMix.png
