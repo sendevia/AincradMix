@@ -3,11 +3,15 @@ Adobe *
 AE *
 tmp*
 * 日志
-* logs
+* log*
 
 #AincradIgnore
 S A O A N I M E
 *.clip
+res
+*.bat
+*.cmd
+
 
 #Duik notes
 Duik*
