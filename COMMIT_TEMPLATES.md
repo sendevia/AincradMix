@@ -1,19 +1,21 @@
-Added:
-➕ files
+# Commit Templates
 
-Removed:
-➖ files
+- Added:  
+    `➕ files`
 
-Modified:
-🔘 files What_has_changed
+- Removed:  
+    `➖ files`
 
-Fixed:
-🛠 files Problem
+- Modified:  
+    `🔘 files What_has_changed`
 
-AMix updated:
-🆙 Tyymdv
+- Fixed:  
+    `🛠 files Problem`
 
-Patch updated:
-🆙 Pyymdv
+- AMix updated:  
+    `🆙 Tyymdv`
 
-T/P-year-month-day-ReleaseNumber(min:1)
+- Patch updated:  
+    `🆙 Pyymdv`
+
+`T/P-year-month-day-ReleaseNumber(min:1)`
