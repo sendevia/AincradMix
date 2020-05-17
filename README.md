@@ -1,11 +1,11 @@
-# 项目整体完成度：`9%`
+# 项目整体完成度：`10%`
 
 ![title_big]
 
 ----
 
 <div align="right">
-  <a href="https://github.com/Sendevia/AincradMix/releases/tag/alpha1.5_amix">
+  <a href="https://github.com/Sendevia/AincradMix/releases/tag/alpha1.6_amix">
     <img src="https://img.shields.io/github/release-pre/Sendevia/AincradMix.svg?color=%23FF721E&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=popout-square" alt="download now">
   </a>
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
@@ -20,7 +20,7 @@
 
 - 设计理念  
 
-> 基于在整个《刀剑神域》系列番剧中出现的所有UI的基础上，将更为现代的设计风格与osu!游戏风格相混合。  
+> 基于整个《刀剑神域》系列番剧中出现的所有UI的基础，与osu!游戏风格相混合。  
 
 - AincradMix的好处都有啥？  
 
@@ -34,11 +34,11 @@
 
 ## 你需要注意的
 
- - ### **当前的游戏补丁已经过时，请等待后续更新。你也可以下载dnSpy进行手动修改。**
- - 这个皮肤现在还处于早期设计阶段，细节和手感都还没有完全的添加和优化。
- - 目前这个皮肤对16:9的屏幕比例支持最佳，并且只支持高清分辨率（`@2x`）。
- - 在应用全局皮肤时，要注意备份`osu!ui.dll`和`osu!gameplay.dll`。
- - 在与别的皮肤和AincradMix之间切换时，你需要重启一下osu!，这样可以使游戏运行得更稳定。
+<!-- - **当前的游戏补丁已经过时，请等待后续更新。你也可以下载dnSpy进行手动修改。** -->
+- 这个皮肤现在还处于早期设计阶段，细节和手感都还没有完全的添加和优化。
+- 目前这个皮肤对16:9的屏幕比例支持最佳，并且只支持高清分辨率（`@2x`）。
+- 在应用全局皮肤时，要注意备份`osu!ui.dll`和`osu!gameplay.dll`。
+- 在别的皮肤和AincradMix之间切换时，你需要重启一下osu!，这样可以使游戏运行得更稳定。
 
 ## 截图
 
@@ -96,7 +96,7 @@
 
 - 音量
 
-> - [x] 禁用谱面自带音效  
+> - [ ] 禁用谱面自带音效  
 
 - 皮肤
 
@@ -104,7 +104,7 @@
 > - [x] 使用皮肤的音效  
 > - [x] 总是使用皮肤中的光标  
 > - [x] 光标大小： _0.7x_  
-> - [x] 自动缩放光标  
+> - [ ] 自动缩放光标  
 > - [ ] 拖球的颜色随滑条改变  
 
 - 鼠标
@@ -115,7 +115,7 @@
 
 - **说明：**
 
-> 1. 推荐使用`Adobe After Effects CC2019 (16.0)`或者更高版本打开。
+> 1. 推荐使用`Adobe After Effects CC2019 (16.0)`或者更高版本。
 > 2. 你**必须**拥有以下的插件、脚本和字体：
 
 - 插件
@@ -130,7 +130,7 @@
 - 字体
 
 > [SAO-UI]  
-> [DS-Digital]  
+> [KD-Tramcar]  
 > [Aller]  
 > Century Gothic  
 
@@ -166,9 +166,10 @@
  3. 具体该使用何种导出方式，请注意特殊合成后面的注释。
 
 ## 部分素材来源
+
 > style_lazer 来自 osu!lazer  
 > color theme 来自 SAO official website
->   
+>
 > _在此，我非常感谢你们的努力和付出！_
 
 <!-- 链接索引 -->
@@ -195,5 +196,5 @@
 [Duik]:https://rainboxprod.coop/en/tools/duik/duik-download/
 [GridGuide]:https://aescripts.com/gridguide-for-after-effects/
 [SAO-UI]:https://fontmeme.com/fonts/sao-ui-font/
-[DS-Digital]:https://fontmeme.com/fonts/ds-digital-font/
+[KD-Tramcar]:https://fontmeme.com/fonts/kd-tramcar-font/
 [Aller]:https://fontmeme.com/fonts/aller-font/

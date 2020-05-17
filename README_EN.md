@@ -1,11 +1,11 @@
-# Overall project progress：`9%`
+# Overall project progress：`10%`
 
 ![title_big]
 
 ----
 
 <div align="right">
-  <a href="https://github.com/Sendevia/AincradMix/releases/tag/alpha1.5_amix">
+  <a href="https://github.com/Sendevia/AincradMix/releases/tag/alpha1.6_amix">
     <img src="https://img.shields.io/github/release-pre/Sendevia/AincradMix.svg?color=%23FF721E&labelLatest&style=popout-square" alt="download now">
   </a>
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
@@ -20,7 +20,7 @@
 
 - Design Concept
 
-> Based on all the UIs that appear in the entire "Sword Art Online" series, the more modern design style is mixed with the osu! game style.
+> Based on all the UIs that appear in the entire Sword Art Online series, mixed with the osu! game style.
 
 - What are the benefits of AincradMix?
 
@@ -32,13 +32,13 @@
 > 6. Global replacement
 > 7. Certain customization options
 
-## Please read
+## Read It
 
- - ### **Current game patch is outdated, please wait for newer updates. You can also use dnSpy for manual modification.**
- - This skin is still in the early stages of design, and the details and feels have not been fully added and optimized;
- - Currently this skin supports the 16:9 aspect ratio best and only supports HD resolution (`@2x`);
- - When applying the global skin, please backup `osu!ui.dll` and `osu!gameplay.dll`;
- - When switching between other skins and AincradMix, you need to restart osu!, which will make the game run more stable.
+<!-- - **Current game patch is outdated, please wait for newer updates. You can also use dnSpy for manual modification.** -->
+- This skin is still in the early stages of design, and the details and feels have not been fully added and optimized;
+- Currently this skin supports the 16:9 aspect ratio best and only supports HD resolution (`@2x`);
+- When applying the global skin, please backup `osu!ui.dll` and `osu!gameplay.dll`;
+- When switching between other skins and AincradMix, you need to restart osu!, which will make the game run more stable.
 
 ## Screenshots
 
@@ -96,7 +96,7 @@
 
 - VOLUME
 
-> - [x] Ignore beatmap hitsounds
+> - [ ] Ignore beatmap hitsounds
 
 - SKIN
 
@@ -104,7 +104,7 @@
 > - [x] Use skin's sound samples
 > - [x] Always use skin cursor
 > - [x] Cursor size: _0.7x_
-> - [x] Automatic cursor size
+> - [ ] Automatic cursor size
 > - [ ] Use combo color as tint for slider ball
 
 - MOUSE
@@ -130,7 +130,7 @@
 - Fonts
 
 > [SAO-UI]  
-> [DS-Digital]  
+> [KD-Tramcar]  
 > [Aller]  
 > Century Gothic  
 
@@ -166,6 +166,7 @@
  3. Specifically, what kind of export method should be used, please pay attention to the comments after the special synthesis.
 
 ## Some resources from
+
 > style_lazer FROM osu!lazer  
 > color theme FROM The website of SAO official
 
@@ -193,5 +194,5 @@
 [Duik]:https://rainboxprod.coop/en/tools/duik/duik-download/
 [GridGuide]:https://aescripts.com/gridguide-for-after-effects/
 [SAO-UI]:https://fontmeme.com/fonts/sao-ui-font/
-[DS-Digital]:https://fontmeme.com/fonts/ds-digital-font/
+[KD-Tramcar]:https://fontmeme.com/fonts/kd-tramcar-font/
 [Aller]:https://fontmeme.com/fonts/aller-font/
