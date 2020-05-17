@@ -36,7 +36,7 @@
 
 <!-- - **Current game patch is outdated, please wait for newer updates. You can also use dnSpy for manual modification.** -->
 - This skin is still in the early stages of design, and the details and feels have not been fully added and optimized;
-- Currently this skin supports the 16:9 aspect ratio best and only supports HD resolution (`@2x`);
+- Currently this skin supports the 16:9 aspect ratio best;
 - When applying the global skin, please backup `osu!ui.dll` and `osu!gameplay.dll`;
 
 ## Screenshots
