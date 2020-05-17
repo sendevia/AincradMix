@@ -38,7 +38,6 @@
 - This skin is still in the early stages of design, and the details and feels have not been fully added and optimized;
 - Currently this skin supports the 16:9 aspect ratio best and only supports HD resolution (`@2x`);
 - When applying the global skin, please backup `osu!ui.dll` and `osu!gameplay.dll`;
-- When switching between other skins and AincradMix, you need to restart osu!, which will make the game run more stable.
 
 ## Screenshots
 
