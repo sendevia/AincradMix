@@ -12,7 +12,8 @@ res
 res_ignore
 *.bat
 *.cmd
-
+[Dd]esktop.ini
+._sync_*
 
 #Duik notes
 Duik*
