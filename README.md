@@ -1,6 +1,6 @@
 # 项目整体完成度：`10%`
 
-![title_big]
+![logo_amix_2]
 
 ----
 
@@ -34,12 +34,15 @@
 
 ## 你需要注意的
 
-<!-- - **当前的游戏补丁已经过时，请等待后续更新。你也可以下载dnSpy进行手动修改。** -->
 - 这个皮肤现在还处于早期设计阶段，细节和手感都还没有完全的添加和优化。
 - 目前这个皮肤对16:9的屏幕比例支持最佳。
 - 在应用全局皮肤时，要注意备份`osu!ui.dll`和`osu!gameplay.dll`。
 
+<!--
+
 ## 截图
+
+<details>
 
 ![AincradMix]
 ![menu_1]
@@ -59,6 +62,10 @@
 ![taiko_2]
 ![ctb_2]
 ![ctb_1]
+
+</details>
+
+-->
 
 ## 使得皮肤可以全局应用
 
@@ -110,7 +117,19 @@
 
 > - [x] 点击波纹  
 
+## 下载
+
+<div align="center">
+
+|AMix 1.6 (alpha)|
+|:--------------:|
+|[<img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/button_download_1.png" width="300">](https://github.com/Sendevia/AincradMix/releases/tag/alpha1.6_amix)|
+
+</div>
+
 ## `.aep` 的打开方式
+
+<details>
 
 - **说明：**
 
@@ -133,11 +152,13 @@
 > [Aller]  
 > Century Gothic  
 
-## 说明
-
-- 轻微地调整颜色的纯度和亮度是可以的。比如白色 `#EEEEEE` 可以变为 `#FFFFFF`，黑色 `#131313` 可以变为 `#000000`。
+</details>
 
 ## 主题颜色
+
+<details>
+
+- 轻微地调整颜色的纯度和亮度是可以的。比如白色 `#EEEEEE` 可以变为 `#FFFFFF`，黑色 `#131313` 可以变为 `#000000`。
 
 > 标题文本 #777777  
 > 通用文本 #D4D4D4  
@@ -157,12 +178,15 @@
 > 黑 #131313 #2F2F2F  
 > 白 #EEEEEE  
 > 阴影填充 #323232 #1C1C1C  
+</details>
 
 ## 图像导出说明
 
+<details>
  1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`。
  2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **。（注意一下哦，是`_[#]`而不是`-[#]`或`[#]`）**
  3. 具体该使用何种导出方式，请注意特殊合成后面的注释。
+</details>
 
 ## 部分素材来源
 
@@ -172,7 +196,7 @@
 > _在此，我非常感谢你们的努力和付出！_
 
 <!-- 链接索引 -->
-[AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/AincradMix.png
+[AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/logo_amix_1.png
 [menu_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_1.jpg
 [menu_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_2.jpg
 [menu_3]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_3.jpg
@@ -190,7 +214,7 @@
 [taiko_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/taiko_2.jpg
 [ctb_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_1.jpg
 [ctb_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_2.jpg
-[title_big]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/title_big.png
+[logo_amix_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/logo_amix_2.png
 [Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
 [Duik]:https://rainboxprod.coop/en/tools/duik/duik-download/
 [GridGuide]:https://aescripts.com/gridguide-for-after-effects/
