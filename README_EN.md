@@ -1,6 +1,6 @@
 # Overall project progress：`10%`
 
-![title_big]
+![logo_amix_2_en]
 
 ----
 
@@ -34,12 +34,15 @@
 
 ## Read It
 
-<!-- - **Current game patch is outdated, please wait for newer updates. You can also use dnSpy for manual modification.** -->
 - This skin is still in the early stages of design, and the details and feels have not been fully added and optimized;
 - Currently this skin supports the 16:9 aspect ratio best;
-- When applying the global skin, please backup `osu!ui.dll` and `osu!gameplay.dll`;
+- When applying the global skin, please backup `osu!ui.dll` and `osu!gameplay.dll`.
+
+<!--
 
 ## Screenshots
+
+<details>
 
 ![AincradMix]
 ![menu_1]
@@ -59,6 +62,10 @@
 ![taiko_2]
 ![ctb_2]
 ![ctb_1]
+
+</details>
+
+-->
 
 ## How to install
 
@@ -90,7 +97,7 @@
 
 > - [x] Background dim: _95%_
 > - [x] Progress display: Top-Right (Bar)
-> - Score meter type: Hit error
+> - [x] Score meter type: Hit error
 > - [x] Score meter size: _0.75x_
 
 - VOLUME
@@ -110,7 +117,19 @@
 
 > - [x] Cursor ripples
 
+## Download
+
+<div align="center">
+
+|AMix 1.6 (alpha)|
+|:--------------:|
+|[<img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/button_download_1.png" width="300">](https://github.com/Sendevia/AincradMix/releases/tag/alpha1.6_amix)|
+
+</div>
+
 ## How to open `.aep`
+
+<details>
 
 - **Description：**
 
@@ -133,11 +152,13 @@
 > [Aller]  
 > Century Gothic  
 
-## Notes
-
-- It is ok to adjust the purity and brightness of the color slightly. For example, white `#EEEEEE` can be changed to `#FFFFFF`, and black `#131313` can be changed to `#000000`.
+</details>
 
 ## Color themes
+
+<details>
+
+- It is ok to adjust the purity and brightness of the color slightly. For example, white `#EEEEEE` can be changed to `#FFFFFF`, and black `#131313` can be changed to `#000000`.
 
 > Title text #777777  
 > General text #D4D4D4  
@@ -158,11 +179,17 @@
 > White #EEEEEE  
 > Shadow Fill #323232 #1C1C1C
 
+</details>
+
 ## Image export
+
+<details>
 
  1. Image export format is .PNG, channel is RGB+Alpha, name set to composite name.
  2. Animation export format - `.PNG（sequence`, aisle `RGB+Alpha`, use the composite frame number, the name is set to `Synthetic name`, remove the file name **`_[#]`** suffix **.（Be careful, `_[#]`instead of`-[#]`or`[#]`）**
  3. Specifically, what kind of export method should be used, please pay attention to the comments after the special synthesis.
+
+</details>
 
 ## Some resources from
 
@@ -170,7 +197,7 @@
 > color theme FROM The website of SAO official
 
 <!-- links -->
-[AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/AincradMix.png
+[AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/logo_amix_1.png
 [menu_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_1.jpg
 [menu_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_2.jpg
 [menu_3]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_3.jpg
@@ -188,7 +215,7 @@
 [taiko_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/taiko_2.jpg
 [ctb_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_1.jpg
 [ctb_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_2.jpg
-[title_big]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/title_big.png
+[logo_amix_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/logo_amix_2_en.png
 [Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
 [Duik]:https://rainboxprod.coop/en/tools/duik/duik-download/
 [GridGuide]:https://aescripts.com/gridguide-for-after-effects/
