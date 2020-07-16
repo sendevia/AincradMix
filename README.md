@@ -1,6 +1,6 @@
 # 项目整体完成度：`10%`
 
-![logo_amix_2]
+![s0_logo_amix_2]
 
 ----
 
@@ -123,7 +123,7 @@
 
 |AMix 1.6 (alpha)|
 |:--------------:|
-|[<img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/button_download_1.png" width="300">](https://github.com/Sendevia/AincradMix/releases/tag/alpha1.6_amix)|
+|[<img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300">](https://github.com/Sendevia/AincradMix/releases/tag/alpha1.6_amix)|
 
 </div>
 
@@ -199,7 +199,7 @@
 > _在此，我非常感谢你们的努力和付出！_
 
 <!-- 链接索引 -->
-[AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/logo_amix_1.png
+[AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_logo_amix_1.png
 [menu_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_1.jpg
 [menu_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_2.jpg
 [menu_3]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_3.jpg
@@ -217,7 +217,7 @@
 [taiko_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/taiko_2.jpg
 [ctb_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_1.jpg
 [ctb_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_2.jpg
-[logo_amix_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/logo_amix_2.png
+[s0_logo_amix_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_logo_amix_2.png
 [Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
 [Duik]:https://rainboxprod.coop/en/tools/duik/duik-download/
 [GridGuide]:https://aescripts.com/gridguide-for-after-effects/
