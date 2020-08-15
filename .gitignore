@@ -10,8 +10,6 @@ S A O A N I M E
 *.clip
 res
 res_ignore
-*.bat
-*.cmd
 [Dd]esktop.ini
 ._sync_*
 
