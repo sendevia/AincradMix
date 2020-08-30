@@ -7,32 +7,20 @@ assignees: ''
 
 ---
 
-**这是一个bug** 
-在这里描述bug的~~种类~~。例如：设计问题、osu!崩溃、安装程序崩溃等等
+**这是一个程序错误/设计问题** 
 
-**这里是发生bug的过程**
+_在这详细描述一下产生问题的过程。_
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**复现率：大/中/小**
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**操作系统版本**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+_例如：Windows10 2004，Windows7..._
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**屏幕分辨率**
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+_例如：1920x1080，1280x720..._
 
-**Additional context**
-Add any other context about the problem here.
+**问题截图**
+
+_如果有的话，请提供一下。_
