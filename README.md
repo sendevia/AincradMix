@@ -1,13 +1,9 @@
-# 项目整体完成度：`10%`
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_logo_big.png" width="200" alt="project_logo">
+</div>
 
-![s0_logo_amix_2]
-
-----
-
-<div align="right">
-  <a href="https://github.com/Sendevia/AincradMix/releases/tag/alpha1.6_amix">
-    <img src="https://img.shields.io/github/release-pre/Sendevia/AincradMix.svg?color=%23FF721E&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=popout-square" alt="download now">
-  </a>
+<div align="center">
+  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-15%25-orange?style=flat-square" alt="progress">
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
@@ -16,168 +12,127 @@
   </a>
 </div>
 
+---
+
 ## 介绍
 
-- 设计理念  
+### 关于  
 
-> 基于整个《刀剑神域》系列番剧中出现的所有UI的基础，与osu!游戏风格相混合。  
+- `这是一个osu!皮肤，它以游戏补丁的方式实现了对osu!全部界面元素的覆盖。`
+- `设计风格延伸了《刀剑神域》第1和2季中操作界面的设计，结合更现代的设计理念，并将两者和谐相融。`
 
-- AincradMix的好处都有啥？  
+### 优点
 
-> 1. 延续了刀剑神域系列番剧中UI的风格
-> 2. 良好的打图手感
-> 3. 细腻平滑的动画效果
-> 4. 简洁而不失美观的视觉体验
-> 5. 拥有可视化的安装程序（这个还在做）
-> 6. 做到了全局覆盖
-> 7. 有一定的定制化选项
+1. 延伸了刀剑神域系列番剧中UI的设计风格
+2. 拥有良好的打图手感
+3. 丰富而不干扰打图的动画效果
+4. 简洁而不失美观的视觉体验
+5. 覆盖了 osu! 的所有界面元素
+6. 定制化选项较为丰富
 
 ## 你需要注意的
 
-- 这个皮肤现在还处于早期设计阶段，细节和手感都还没有完全的添加和优化。
-- 目前这个皮肤对16:9的屏幕比例支持最佳。
-- 在应用全局皮肤时，要注意备份`osu!ui.dll`和`osu!gameplay.dll`。
+- 这个皮肤现在还处于**早期设计阶段**，细节和手感都还没有完全的添加和优化。
+- 目前这个皮肤对 **16:9** 的屏幕比例支持最佳。
+- 在应用全局皮肤时，要注意备份 `osu!ui.dll` 和 `osu!gameplay.dll`。
 
 <!--
-
-## 截图
+## 皮肤预览
 
 <details>
 
-![AincradMix]
-![menu_1]
-![menu_2]
-![menu_3]
-![menu_4]
-![menu_5]
-![menu_6]
-![score]
-![editor_1]
-![editor_2]
-![std_1]
-![std_2]
-![mania_1]
-![mania_2]
-![taiko_1]
-![taiko_2]
-![ctb_2]
-![ctb_1]
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_0.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_100_k.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_300.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_300_g.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_300_k.gif" width="200">
+</div>
 
 </details>
-
 -->
-
-## 使得皮肤可以全局应用
-
- 1. 将`AincradMix.osk`和`AincradMixGamePatch.zip`一并下载下来；
- 2. 解压`AincradMixGamePatch.zip`把里面的两个`.dll`文件覆盖到游戏根目录；
- 3. 双击安装`AincradMix.osk`；
- 4. 在游戏内的Skins选项内选择`AincradMix`。
- 5. 如果不想要应用全局皮肤，只需下载`AincradMix.osk`并安装即可。
 
 ## 推荐设置
 
-- 详细设置
+### 详细设置
 
-> - [x] 渐出滑条  
-> - [ ] 连击提示图  
-> - [ ] 击打闪光  
-> - [x] 着色器效果  
-> - [x] 柔化滤镜  
+- [x] 渐出滑条  
+- [ ] 连击提示图  
+- [ ] 击打闪光  
+- [x] 着色器效果  
+- [ ] 柔化滤镜  
 
-- 主菜单
+### 主菜单
 
-> - [x] 飘雪效果  
+- [x] 飘雪效果  
 
-- 选歌页面
+### 选歌页面
 
-> - [x] 显示略缩图  
+- [x] 显示略缩图  
 
-- 常规
+### 常规
 
-> - [x] 背景暗化： _95%_  
-> - [x] 进度条位置： 右上角（条状）  
-> - [x] 分数计模式： 打击偏差  
-> - [x] 分数计大小： _0.75x_  
+- [x] 背景暗化： _95%_  
+- [x] 进度条位置： 右上角（条状）  
+- [x] 分数计模式： 打击偏差  
+- [x] 分数计大小： _0.75x_  
 
-- 音量
+### 音量
 
-> - [ ] 禁用谱面自带音效  
+- [ ] 禁用谱面自带音效  
 
-- 皮肤
+### 皮肤
 
-> - [x] 忽略所有谱面自带的皮肤  
-> - [x] 使用皮肤的音效  
-> - [x] 总是使用皮肤中的光标  
-> - [x] 光标大小： _0.7x_  
-> - [ ] 自动缩放光标  
-> - [ ] 拖球的颜色随滑条改变  
+- [x] 忽略所有谱面自带的皮肤  
+- [x] 使用皮肤的音效  
+- [x] 总是使用皮肤中的光标  
+- [x] 光标大小： _0.7x_  
+- [ ] 自动缩放光标  
+- [ ] 拖球的颜色随滑条改变  
 
-- 鼠标
+### 鼠标
 
-> - [x] 点击波纹  
+- [ ] 点击波纹  
 
-## 下载
+## 最新版下载
 
-<div align="center">
+[<img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300">](https://github.com/Sendevia/AincradMix/releases)
 
-|AMix 1.6 (alpha)|
-|:--------------:|
-|[<img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300">](https://github.com/Sendevia/AincradMix/releases/tag/alpha1.6_amix)|
-
-</div>
+---
 
 ## `.aep` 的打开方式
 
 <details>
 
-- **说明：**
+### **注意：**
 
-> 1. 推荐使用`Adobe After Effects CC2019 (16.0)`或者更高版本。
-> 2. 你**必须**拥有以下的插件、脚本和字体：
+1. 推荐使用`Adobe After Effects CC2019 (16.0)`或者更高版本。
+2. 你**必须**拥有以下的插件、脚本和字体：
 
-- 插件
+#### 插件
 
-> [Saber]  
+[Saber]  
+Trapcode Suite
 
-- 脚本
+#### 脚本
 
-> [Duik]  
-> [GridGuide]  
+[Duik]  
+[GridGuide]  
 
-- 字体
+#### 字体
 
-> [SAO-UI]  
-> [KD-Tramcar]  
-> [Aller]  
-> Century Gothic  
-
-</details>
-
-## 主题颜色
-
-<details>
-
-- 轻微地调整颜色的纯度和亮度是可以的。比如白色 `#EEEEEE` 可以变为 `#FFFFFF`，黑色 `#131313` 可以变为 `#000000`。
-
-> 标题文本 #777777  
-> 通用文本 #D4D4D4  
-> 提示文本 #E5E5E5  
-> 通用背景 #969696  
-> 红 #EC3434  
-> 桃红 #FF005A  
-> 黄 #FFC600  
-> 蓝 #0054FF  
-> 橙 #FF721E  
-> 紫 #9000FF  
-> 绿 #07B703  
-> 绿幕 #009129  
-> 紫 #7200FF  
-> 粉 #FF25E8  
-> 灰 #717171 #4D4D4D #C4C4C4  
-> 黑 #131313 #2F2F2F  
-> 白 #EEEEEE  
-> 阴影填充 #323232 #1C1C1C  
+[SAO-UI]  
+[KD-Tramcar]  
+[Aller]  
+Century Gothic  
 
 </details>
 
@@ -185,42 +140,31 @@
 
 <details>
 
- 1. 图片导出格式`.PNG`，通道`RGB+Alpha`，名称设置为`合成名称`。
- 2. 动画导出格式`.PNG（序列）`，通道`RGB+Alpha`，使用合成帧编号，名称设置为`合成名称`，去掉文件名的 **`_[#]`** 后缀 **。（注意一下哦，是`_[#]`而不是`-[#]`或`[#]`）**
- 3. 具体该使用何种导出方式，请注意特殊合成后面的注释。
- 
+1. 将图片导出格式设置为 `.PNG`，通道为 `RGB+Alpha`，名称为 `合成名称`。
+2. 将动画导出格式设置为 `.PNG（序列）`，通道为 `RGB+Alpha`，根据情况选择使用合成帧编号，名称为 `合成名称`，必须去掉文件名的 **`_[#]`** 后缀。**（注意一下哦，是 `_[#]` 而不是 `-[#]` 或 `[#]` ）**
+
 </details>
 
-## 部分素材来源
+## 引用素材来源
 
-> style_lazer 来自 osu!lazer  
-> color theme 来自 SAO official website
->
-> _在此，我非常感谢你们的努力和付出！_
+- `style_lazer` 来自 `osu!lazer`，感谢ppy团队。
+- 部分颜色取自Sword Art Online的官方网站。
+
+_无比感谢这些资源的制作者_
 
 <!-- 链接索引 -->
-[AincradMix]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_logo_amix_1.png
-[menu_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_1.jpg
-[menu_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_2.jpg
-[menu_3]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_3.jpg
-[menu_4]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_4.jpg
-[menu_5]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_5.jpg
-[menu_6]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/menu_6.jpg
-[score]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/score.jpg
-[editor_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/editor_1.jpg
-[editor_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/editor_2.jpg
-[std_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/std_1.jpg
-[std_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/std_2.jpg
-[mania_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/mania_1.jpg
-[mania_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/mania_2.jpg
-[taiko_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/taiko_1.jpg
-[taiko_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/taiko_2.jpg
-[ctb_1]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_1.jpg
-[ctb_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/screenshots/ctb_2.jpg
-[s0_logo_amix_2]:https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_logo_amix_2.png
 [Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
 [Duik]:https://rainboxprod.coop/en/tools/duik/duik-download/
 [GridGuide]:https://aescripts.com/gridguide-for-after-effects/
 [SAO-UI]:https://fontmeme.com/fonts/sao-ui-font/
 [KD-Tramcar]:https://fontmeme.com/fonts/kd-tramcar-font/
 [Aller]:https://fontmeme.com/fonts/aller-font/
+
+<!--
+    ___    _                           ____  ____     
+   /   |  (_)___  ______________ _____/ /  |/  (_)  __
+  / /| | / / __ \/ ___/ ___/ __ `/ __  / /|_/ / / |/_/
+ / ___ |/ / / / / /__/ /  / /_/ / /_/ / /  / / />  <  
+/_/  |_/_/_/ /_/\___/_/   \__,_/\__,_/_/  /_/_/_/|_|  
+
+-->
