@@ -147,10 +147,10 @@ Century Gothic
 
 ## 引用素材来源
 
-- `style_lazer` 来自 `osu!lazer`，感谢ppy团队。
-- 部分颜色取自Sword Art Online的官方网站。
+- `style_lazer` 来自 `osu!lazer`，感谢 ppy 团队。
+- 部分颜色取自 SwordArtOnline 的官方网站。
 
-_无比感谢这些资源的制作者_
+_非常感谢这些资源的制作者_
 
 <!-- 链接索引 -->
 [Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
