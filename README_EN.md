@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-15%25-orange?style=flat-square" alt="progress">
+  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-20%25-orange?style=flat-square" alt="progress">
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
@@ -36,10 +36,10 @@
 - Currently this skin supports the **16:9** aspect ratio best.
 - When applying the fully skin, please backup `osu!ui.dll` and `osu!gameplay.dll`.
 
-<!--
 ## Skin Preview
 
 <details>
+  <summary>Animation</summary>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_0.gif" width="200">
@@ -58,7 +58,6 @@
 </div>
 
 </details>
--->
 
 ## Settings Recommended
 
@@ -82,7 +81,6 @@
 
 - [x] Background dim: _95%_
 - [x] Progress display: Top-Right (Bar)
-- [x] Score meter type: Hit error
 - [x] Score meter size: _0.75x_
 
 ### VOLUME
@@ -148,7 +146,7 @@ Century Gothic
 ## Some resources from
 
 - style_lazer FROM osu!lazer  
-- color theme FROM The website of SAO official
+- Some colors are taken from the official website of SwordArtOnline.
 
 _Thanks to the creators of these resources_
 

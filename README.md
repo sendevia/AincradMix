@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-15%25-orange?style=flat-square" alt="progress">
+  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-20%25-orange?style=flat-square" alt="progress">
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
@@ -18,7 +18,7 @@
 
 ### 关于  
 
-- `这是一个osu!皮肤，它以游戏补丁的方式实现了对osu!全部界面元素的覆盖。`
+- `这是一个 osu! 皮肤，它以游戏补丁的方式实现了对 osu! 全部界面元素的覆盖。`
 - `设计风格延伸了《刀剑神域》第1和2季中操作界面的设计，结合更现代的设计理念，并将两者和谐相融。`
 
 ### 优点
@@ -36,10 +36,10 @@
 - 目前这个皮肤对 **16:9** 的屏幕比例支持最佳。
 - 在应用全局皮肤时，要注意备份 `osu!ui.dll` 和 `osu!gameplay.dll`。
 
-<!--
 ## 皮肤预览
 
 <details>
+  <summary>动画</summary>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_0.gif" width="200">
@@ -58,49 +58,47 @@
 </div>
 
 </details>
--->
 
 ## 推荐设置
 
 ### 详细设置
 
-- [x] 渐出滑条  
-- [ ] 连击提示图  
-- [ ] 击打闪光  
-- [x] 着色器效果  
-- [ ] 柔化滤镜  
+- [x] 渐出滑条
+- [ ] 连击提示图
+- [ ] 击打闪光
+- [x] 着色器效果
+- [ ] 柔化滤镜
 
 ### 主菜单
 
-- [x] 飘雪效果  
+- [x] 飘雪效果
 
 ### 选歌页面
 
-- [x] 显示略缩图  
+- [x] 显示略缩图
 
 ### 常规
 
-- [x] 背景暗化： _95%_  
-- [x] 进度条位置： 右上角（条状）  
-- [x] 分数计模式： 打击偏差  
-- [x] 分数计大小： _0.75x_  
+- [x] 背景暗化： _95%_
+- [x] 进度条位置： 右上角（条状）
+- [x] 分数计大小： _0.75x_
 
 ### 音量
 
-- [ ] 禁用谱面自带音效  
+- [ ] 禁用谱面自带音效
 
 ### 皮肤
 
-- [x] 忽略所有谱面自带的皮肤  
-- [x] 使用皮肤的音效  
-- [x] 总是使用皮肤中的光标  
-- [x] 光标大小： _0.7x_  
-- [ ] 自动缩放光标  
-- [ ] 拖球的颜色随滑条改变  
+- [x] 忽略所有谱面自带的皮肤
+- [x] 使用皮肤的音效
+- [x] 总是使用皮肤中的光标
+- [x] 光标大小： _0.7x_
+- [ ] 自动缩放光标
+- [ ] 拖球的颜色随滑条改变
 
 ### 鼠标
 
-- [ ] 点击波纹  
+- [ ] 点击波纹
 
 ## 最新版下载
 
@@ -140,8 +138,8 @@ Century Gothic
 
 <details>
 
-1. 将图片导出格式设置为 `.PNG`，通道为 `RGB+Alpha`，名称为 `合成名称`。
-2. 将动画导出格式设置为 `.PNG（序列）`，通道为 `RGB+Alpha`，根据情况选择使用合成帧编号，名称为 `合成名称`，必须去掉文件名的 **`_[#]`** 后缀。**（注意一下哦，是 `_[#]` 而不是 `-[#]` 或 `[#]` ）**
+1. 将图片导出格式设置为 `.PNG`，通道为 `RGB+Alpha`，名称为`合成名称`。
+2. 将动画导出格式设置为 `.PNG（序列）`，通道为 `RGB+Alpha`，根据情况选择使用合成帧编号，名称为`合成名称`，必须去掉文件名的 **`_[#]`** 后缀。**（注意一下哦，是 `_[#]` 而不是 `-[#]` 或 `[#]` ）**
 
 </details>
 
