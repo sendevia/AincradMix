@@ -42,19 +42,13 @@
   <summary>Animation</summary>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_0.gif" width="200">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_0.gif" width="220">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_100_k.gif" width="220">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_300.gif" width="220">
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_100_k.gif" width="200">
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_300.gif" width="200">
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_300_g.gif" width="200">
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_300_k.gif" width="200">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_300_g.gif" width="220">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_300_k.gif" width="220">
 </div>
 
 </details>
