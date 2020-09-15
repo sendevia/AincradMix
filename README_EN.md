@@ -137,12 +137,16 @@ Century Gothic
 
 </details>
 
-## Some resources from
+## Some Resources From
 
 - style_lazer FROM osu!lazer  
 - Some colors are taken from the official website of SwordArtOnline.
 
 _Thanks to the creators of these resources_
+
+## Fork Me On Gitee
+
+[![Fork me on Gitee](https://gitee.com/sendevia/AincradMix/widgets/widget_6.svg?color=ff711e)](https://gitee.com/sendevia/AincradMix)
 
 <!-- links -->
 [Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/

@@ -144,6 +144,10 @@ Century Gothic
 
 _非常感谢这些资源的制作者_
 
+## Gitee镜像
+
+[![Fork me on Gitee](https://gitee.com/sendevia/AincradMix/widgets/widget_6.svg?color=ff711e)](https://gitee.com/sendevia/AincradMix)
+
 <!-- 链接索引 -->
 [Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
 [Duik]:https://rainboxprod.coop/en/tools/duik/duik-download/
