@@ -1,6 +1,5 @@
 @echo off
 rem ²Ë¼¦½Å±¾
-set release_version=
 set /p release_version=°æ±¾: 
 if not exist release\%release_version% md release\%release_version%
 set part=core
