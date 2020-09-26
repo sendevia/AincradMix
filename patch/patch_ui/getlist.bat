@@ -2,18 +2,16 @@
 setlocal enabledelayedexpansion
 echo 请稍候...
 echo.
-set time=%date:~2,2%%date:~5,2%%date:~8,2%
-set listfiles=*%time%
 if exist res\achoo (
-    for /f %%l in ( ignorelist-%time% ) do ( move res\%%l res_ignore )
+    for /f %%l in ( ignorelist ) do ( move res\%%l res_ignore )
 ) else (
     echo 无需进行移动操作
     echo.
     )
 if exist res (
     title 生成中
-    if exist %listfiles% (
-        del /q %listfiles% && goto gen
+    if exist reslist (
+        del /q reslist && goto gen
     ) else (
         goto gen
     )
@@ -28,9 +26,9 @@ if exist res (
     pause && exit
 )
 :gen
-dir res /b /n >> reslist-%time%
-dir res_ignore /b /n >> ignorelist-%time%
+dir res /b /n >> reslist
+dir res_ignore /b /n >> ignorelist
 title 成功
-echo 完成，生成的文件是：reslist-!time! 和 ignorelist-!time!
+echo 完成，生成的文件是：reslist 和 ignorelist
 echo.
 pause
