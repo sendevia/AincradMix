@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 echo 请稍候...
 echo.
-if exist res\achoo (
+if exist res\combobreak (
     for /f %%l in ( ignorelist ) do ( move res\%%l res_ignore )
 ) else (
     echo 无需进行移动操作
