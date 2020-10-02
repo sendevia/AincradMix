@@ -84,7 +84,7 @@
 ### 皮肤
 
 - [x] 忽略所有谱面自带的皮肤
-- [x] 使用皮肤的音效
+- [ ] 使用皮肤的音效
 - [x] 总是使用皮肤中的光标
 - [x] 光标大小： _0.7x_
 - [ ] 自动缩放光标
@@ -147,6 +147,11 @@ _非常感谢这些资源的制作者_
 ## Gitee镜像
 
 [![Fork me on Gitee](https://gitee.com/sendevia/AincradMix/widgets/widget_6.svg?color=ff711e)](https://gitee.com/sendevia/AincradMix)
+
+## 尾语
+
+ **`如果您喜欢这个皮肤或者说它对您打图有帮助，无需您慷慨解囊，点亮一颗星足矣。`**   
+ **`您所点亮那颗星就是对我最大的鼓励！给予我动力来让这个皮肤变得更好！`**
 
 <!-- 链接索引 -->
 [Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/

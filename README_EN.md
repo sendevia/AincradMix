@@ -84,7 +84,7 @@
 ### SKIN
 
 - [x] Ignore all beatmap skins
-- [x] Use skin's sound samples
+- [ ] Use skin's sound samples
 - [x] Always use skin cursor
 - [x] Cursor size: _0.7x_
 - [ ] Automatic cursor size
@@ -147,6 +147,11 @@ _Thanks to the creators of these resources_
 ## Fork Me On Gitee
 
 [![Fork me on Gitee](https://gitee.com/sendevia/AincradMix/widgets/widget_6.svg?color=ff711e)](https://gitee.com/sendevia/AincradMix)
+
+## Ending
+
+  **`If you like this skin or it is helpful for play, you don't need to donate, it is enough to light up a star.`**   
+  **`The star you lit is your greatest encouragement! Give me motivation to make this skin better! `**
 
 <!-- links -->
 [Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
