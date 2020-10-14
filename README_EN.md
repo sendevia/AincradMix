@@ -96,7 +96,7 @@
 
 ## Download
 
-[<img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300">](https://github.com/Sendevia/AincradMix/releases/tag/alpha1.6_amix)
+[<img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300">](https://github.com/Sendevia/AincradMix/releases)
 
 ---
 
@@ -132,8 +132,8 @@ Century Gothic
 
 <details>
 
- 1. Image export format is .PNG, channel is RGB+Alpha, name set to composite name.
- 2. Animation export format - `.PNG（sequence`, aisle `RGB+Alpha`, use the composite frame number, the name is set to `Synthetic name`, remove the file name **`_[#]`** suffix **.（Be careful, `_[#]`instead of`-[#]`or`[#]`）**
+ 1. Image export format `PNG`, channel `RGB+Alpha`, name set to composite name.
+ 2. Animation export format `.PNG（sequence)`, aisle `RGB+Alpha`, use the composite frame number, the name is set to `Synthetic name`, remove the file name **`_[#]`** suffix **.（Be careful, `_[#]`instead of`-[#]`or`[#]`.）**
 
 </details>
 
