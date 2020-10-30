@@ -104,6 +104,7 @@
 
 <details>
   <summary>Info</summary>
+  
 ### **Notice：**
 
 1. Recommended using `Adobe After Effects CC2019 (16.0)` or newer.
