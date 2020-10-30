@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-20%25-orange?style=flat-square" alt="progress">
+  <img src="https://img.shields.io/badge/Progress-20%25-orange?style=flat-square" alt="progress">
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
-  <a href="https://github.com/Sendevia/AincradMix/blob/master/README_EN.MD">
-    <img src="https://img.shields.io/badge/Switch to-English-%23131313.svg?style=flat-square" alt="language switch">
+  <a href="https://github.com/Sendevia/AincradMix/blob/master/README.MD">
+    <img src="https://img.shields.io/badge/切换为-中文-%23131313.svg?style=flat-square" alt="language switch">
   </a>
 </div>
 
@@ -103,7 +103,7 @@
 ## How to open `.aep`
 
 <details>
-
+  <summary>Info</summary>
 ### **Notice：**
 
 1. Recommended using `Adobe After Effects CC2019 (16.0)` or newer.
@@ -131,6 +131,7 @@ Century Gothic
 ## Image Export
 
 <details>
+  <summary>Info</summary>
 
  1. Image export format `PNG`, channel `RGB+Alpha`, name set to composite name.
  2. Animation export format `.PNG（sequence)`, aisle `RGB+Alpha`, use the composite frame number, the name is set to `Synthetic name`, remove the file name **`_[#]`** suffix **.（Be careful, `_[#]`instead of`-[#]`or`[#]`.）**
@@ -140,7 +141,8 @@ Century Gothic
 ## Some Resources From
 
 - style_lazer FROM osu!lazer  
-- Some colors are taken from the official website of SwordArtOnline.
+- Some colors are taken from the [official website](https://www.swordart-online.net/) of SwordArtOnline.
+- 7zip FROM [7-zip.org](https://www.7-zip.org/)
 
 _Thanks to the creators of these resources_
 
