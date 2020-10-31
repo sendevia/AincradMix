@@ -142,6 +142,10 @@ Century Gothic
 - `style_lazer` 来自 `osu!lazer`，感谢 ppy 团队。
 - 部分颜色取自 SwordArtOnline 的[官方网站](https://www.swordart-online.net/)。
 - 7zip 来自 [7-zip.org](https://www.7-zip.org/)
+- libiconv2 来自 [gnuwin](http://gnuwin32.sourceforge.net/packages/libiconv.htm)
+- libintl3 来自 [gnuwin](http://gnuwin32.sourceforge.net/packages/libintl.htm)
+- regex2 来自 [gnuwin](http://gnuwin32.sourceforge.net/packages/regex.htm)
+- sed 来自 [gnuwin](http://gnuwin32.sourceforge.net/packages/sed.htm)
 
 _非常感谢这些资源的制作者_
 

@@ -142,8 +142,12 @@ Century Gothic
 ## Some Resources From
 
 - style_lazer FROM osu!lazer  
-- Some colors are taken from the [official website](https://www.swordart-online.net/) of SwordArtOnline.
+- Some colors are taken from the [official website](https://www.swordart-online.net/) of Sword Art Online.
 - 7zip FROM [7-zip.org](https://www.7-zip.org/)
+- libiconv2 FROM [gnuwin](http://gnuwin32.sourceforge.net/packages/libiconv.htm)
+- libintl3 FROM [gnuwin](http://gnuwin32.sourceforge.net/packages/libintl.htm)
+- regex2 FROM [gnuwin](http://gnuwin32.sourceforge.net/packages/regex.htm)
+- sed FROM [gnuwin](http://gnuwin32.sourceforge.net/packages/sed.htm)
 
 _Thanks to the creators of these resources_
 
