@@ -1,71 +1,110 @@
 @echo off
 rem 菜鸡脚本
-set /p release_version=版本: 
-if not exist release\%release_version% md release\%release_version%
+echo "     ___    _                           ____  ____      "
+echo "    /   |  (_)___  ______________ _____/ /  |/  (_)  __ "
+echo "   / /| | / / __ \/ ___/ ___/ __ `/ __  / /|_/ / / |/_/ "
+echo "  / ___ |/ / / / / /__/ /  / /_/ / /_/ / /  / / />  <   "
+echo " /_/  |_/_/_/ /_/\___/_/   \__,_/\__,_/_/  /_/_/_/|_|   "
+echo.
+if exist tmp rd /s /q tmp
+set /p r=设置版本: 
+if not exist release\%r% md release\%r%
+echo 目前已有音效: style_amix , style_lazer
+set /p sfx=设置默认音效: 
+set ap=8
 set part=core
-    cd %part%
-    title 生成%part%中（1/7）
-        ..\bin\7za.exe a -y AincradMix_%part%_%release_version%.zip *.png *.jpg *.ini
-    title 操作中
-        move AincradMix_* ..\release\%release_version%
-    title 完成%part%
-        cd ..
+    cd %~dp0\%part%
+    title 打包%part%中...（1/%ap%）
+        %~dp0\bin\7za.exe a -tzip -y AincradMix-%part%-%r%.zip *.png *.jpg *.ini
+    title 移动至发行文件夹...
+        move AincradMix-* %~dp0\release\%r%
+    title 成功
+        echo ------------------
+        echo %part%已打包完成
         echo ------------------
 set part=animation
-    cd %part%
-    title 生成%part%中（2/7）
-        ..\bin\7za.exe a -y AincradMix_%part%_%release_version%.zip *.png *.jpg
-    title 操作中
-        move AincradMix_* ..\release\%release_version%
-    title 完成%part%
-        cd ..
+    cd %~dp0\%part%
+    title 打包%part%中...（2/%ap%）
+        %~dp0\bin\7za.exe a -tzip -y AincradMix-%part%-%r%.zip *.png *.jpg
+    title 移动至发行文件夹...
+        move AincradMix-* %~dp0\release\%r%
+    title 成功
+        echo ------------------
+        echo %part%已打包完成
         echo ------------------
 set part=sfx
-    cd %part%
-    title 生成%part%中（3/7）
-        ..\bin\7za.exe a -y AincradMix_%part%_%release_version%.zip *
-    title 操作中
-        move AincradMix_* ..\release\%release_version%
-    title 完成%part%
-        cd ..
+    cd %~dp0\%part%
+    title 打包%part%中...（3/%ap%）
+        %~dp0\bin\7za.exe a -tzip -y AincradMix-%part%-%r%.zip *
+    title 移动至发行文件夹...
+        move AincradMix-* %~dp0\release\%r%
+    title 成功
+        echo ------------------
+        echo %part%已打包完成
         echo ------------------
 set part=patch
-    cd %part%
-    title 生成%part%中（4/7）
+    cd %~dp0\%part%
+    title 打包%part%中...（4/%ap%）
         copy /y patch_play\osu!gameplay.dll .
         copy /y patch_ui\osu!ui.dll .
-        ..\bin\7za.exe a -y AincradMix_%part%_%release_version%.zip osu!gameplay.dll osu!ui.dll
-    title 操作中
-        move AincradMix_* ..\release\%release_version%
+        %~dp0\bin\7za.exe a -tzip -y AincradMix-%part%-%r%.zip osu!gameplay.dll osu!ui.dll
+    title 移动至发行文件夹...
+        move AincradMix-* %~dp0\release\%r%
         del *.dll
-    title 完成%part%
-        cd ..
+    title 成功
+        echo ------------------
+        echo %part%已打包完成
         echo ------------------
 set part=extra
-    cd %part%
-    title 生成%part%中（5/7）
-        ..\bin\7za.exe a -y AincradMix_%part%_%release_version%.zip *
-    title 操作中
-        move AincradMix_* ..\release\%release_version%
-    title 完成%part%
-        cd ..
+    cd %~dp0\%part%
+    title 打包%part%中...（5/%ap%）
+        %~dp0\bin\7za.exe a -tzip -y AincradMix-%part%-%r%.zip *
+    title 移动至发行文件夹...
+        move AincradMix-* %~dp0\release\%r%
+    title 成功
+        echo ------------------
+        echo %part%已打包完成
         echo ------------------
 set part=optimize
-    cd %part%
-    title 生成%part%中（6/7）
-        ..\bin\7za.exe a -y AincradMix_%part%_%release_version%.zip *
-    title 操作中
-        move AincradMix_* ..\release\%release_version%
-    title 完成%part%
-        cd ..
+    cd %~dp0\%part%
+    title 打包%part%中...（6/%ap%）
+        %~dp0\bin\7za.exe a -tzip -y AincradMix-%part%-%r%.zip *
+    title 移动至发行文件夹...
+        move AincradMix-* ..\release\%r%
+    title 成功
         echo ------------------
-set part=source
+        echo %part%已打包完成
+        echo ------------------
+set part=皮肤安装包
+    title 打包%part%中...（7/%ap%）
+    mkdir %~dp0\tmp
+    cd %~dp0\core
+        copy * %~dp0\tmp
+    cd %~dp0\animation
+        copy /y * %~dp0\tmp
+    cd %~dp0\sfx\%sfx%
+        copy * %~dp0\tmp
+    cd %~dp0\tmp
+        %~dp0\bin\sed -i "2s/AincradMix/AincradMix-%r%/" skin.ini
+        del sed??????
+        %~dp0\bin\7za.exe a -tzip -y AincradMix-%r%.osk *
+    title 移动至发行文件夹...
+        move AincradMix-* %~dp0\release\%r%
+    title 删除临时文件
+        cd %~dp0
+        rd /s /q tmp
+    title 成功
+        echo ------------------
+        echo %part%已打包完成
+        echo ------------------
+set part=源文件
     cd project
-    title 整理源文件中（7/7）
-        ..\bin\7za.exe a -y AincradMix_%part%_%release_version%.zip *
-    title 操作中
-        move AincradMix_* ..\release\%release_version%
-    title 完成%part%
-        cd ..
+    title 打包%part%中...（8/%ap%）
+        %~dp0\bin\7za.exe a -tzip -y AincradMix-source-%r%.zip *
+    title 移动至发行文件夹...
+        move AincradMix-* %~dp0\release\%r%
+    title 成功
+        echo ------------------
+        echo %part%已打包完成
         echo ------------------
 pause
