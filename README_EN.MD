@@ -210,7 +210,7 @@ Century Gothic
     └─style_lazer
 ```
 
-<details>
+</details>
 
 ## Some Resources From
 

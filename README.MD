@@ -207,7 +207,7 @@ Century Gothic
     └─style_lazer
 ```
 
-<details>
+</details>
 
 ## 引用素材来源
 
