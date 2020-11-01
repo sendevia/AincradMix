@@ -146,18 +146,18 @@ Century Gothic
 <details>
 
 ```
-┌─animation───────────────────── 可选动画
+┌─animation───────────── 可选动画
 │
-├─bin─────────────────────────── 引用的第三方程序
+├─bin─────────────────── 引用的第三方程序
 │
-├─core────────────────────────── 主要部分
+├─core────────────────── 主要部分
 │
-├─extra───────────────────────── 扩展部分
+├─extra───────────────── 扩展部分
 │  ├─mcosu
 │  ├─osu
-│  │  ├─animation─────────────── 可选动画的替换选项
-│  │  ├─core──────────────────── 主要部分的替换选项
-│  │  └─cursor────────────────── 光标的替换选项
+│  │  ├─animation─────── 可选动画的替换选项
+│  │  ├─core──────────── 主要部分的替换选项
+│  │  └─cursor────────── 光标的替换选项
 │  │      ├─style_hollow
 │  │      │  ├─color_blue
 │  │      │  ├─color_green
@@ -179,17 +179,17 @@ Century Gothic
 │  │          └─color_red
 │  └─osulazer
 │
-├─optimize────────────────────── 主要部分的优化选项
+├─optimize────────────── 主要部分的优化选项
 │  ├─catch
 │  ├─mania
 │  ├─std
 │  └─taiko
 │
-├─patch───────────────────────── 可选资源补丁
+├─patch───────────────── 可选资源补丁
 │  ├─patch_play
 │  └─patch_ui
 │
-├─project─────────────────────── 皮肤源文件（工程文件）
+├─project─────────────── 皮肤源文件（工程文件）
 │  ├─animation
 │  ├─core
 │  ├─cursor
@@ -202,7 +202,7 @@ Century Gothic
 │  │  └─patch_ui
 │  └─psd
 │
-└─sfx─────────────────────────── 可选音效
+└─sfx─────────────────── 可选音效
     ├─style_amix
     └─style_lazer
 ```
@@ -212,18 +212,22 @@ Century Gothic
 ## 引用素材来源
 
 - `style_lazer` 来自 `osu!lazer`，感谢 ppy 团队。
-- 部分颜色取自 SwordArtOnline 的[官方网站](https://www.swordart-online.net/)。
-- 7zip 来自 [7-zip.org](https://www.7-zip.org/)
-- libiconv2 来自 [gnuwin](http://gnuwin32.sourceforge.net/packages/libiconv.htm)
-- libintl3 来自 [gnuwin](http://gnuwin32.sourceforge.net/packages/libintl.htm)
-- regex2 来自 [gnuwin](http://gnuwin32.sourceforge.net/packages/regex.htm)
-- sed 来自 [gnuwin](http://gnuwin32.sourceforge.net/packages/sed.htm)
+- 部分颜色取自 SwordArtOnline 的[官方网站]。
+- 7zip 来自 [7-zip.org]
+- libiconv2 来自 [gnuwin/libiconv]
+- libintl3 来自 [gnuwin/libintl]
+- regex2 来自 [gnuwin/regex]
+- sed 来自 [gnuwin/sed]
 
 _非常感谢这些资源的制作者_
 
 ## Gitee镜像
 
-[![Fork me on Gitee](https://gitee.com/sendevia/AincradMix/widgets/widget_6.svg?color=ff711e)](https://gitee.com/sendevia/AincradMix)
+<div align="center">
+  <a href="https://gitee.com/sendevia/AincradMix">
+    <img src="https://gitee.com/sendevia/AincradMix/widgets/widget_6.svg?color=ff711e" width="200" alt="Fork me on Gitee">
+  </a>
+</div>
 
 ## 尾语
 
@@ -237,6 +241,12 @@ _非常感谢这些资源的制作者_
 [SAO-UI]:https://fontmeme.com/fonts/sao-ui-font/
 [KD-Tramcar]:https://fontmeme.com/fonts/kd-tramcar-font/
 [Aller]:https://fontmeme.com/fonts/aller-font/
+[官方网站]:https://www.swordart-online.net/
+[7-zip.org]:https://www.7-zip.org/
+[gnuwin/libiconv]:http://gnuwin32.sourceforge.net/packages/libiconv.htm
+[gnuwin/libintl]:http://gnuwin32.sourceforge.net/packages/libintl.htm
+[gnuwin/regex]:http://gnuwin32.sourceforge.net/packages/regex.htm
+[gnuwin/sed]:http://gnuwin32.sourceforge.net/packages/sed.htm
 
 <!--
     ___    _                           ____  ____     

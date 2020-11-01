@@ -149,18 +149,18 @@ Century Gothic
   <summary>Info</summary>
 
 ```
-┌─animation───────────────────── Optional animation
+┌─animation───────────── Optional animation
 │
-├─bin─────────────────────────── Referenced third-party programs
+├─bin─────────────────── Referenced third-party programs
 │
-├─core────────────────────────── Main part
+├─core────────────────── Main part
 │
-├─extra───────────────────────── Extended part
+├─extra───────────────── Extended part
 │  ├─mcosu
 │  ├─osu
-│  │  ├─animation─────────────── Replacement options for animation
-│  │  ├─core──────────────────── Replacement options for main part
-│  │  └─cursor────────────────── Replacement options for cursor
+│  │  ├─animation─────── Replacement options for animation
+│  │  ├─core──────────── Replacement options for main part
+│  │  └─cursor────────── Replacement options for cursor
 │  │      ├─style_hollow
 │  │      │  ├─color_blue
 │  │      │  ├─color_green
@@ -182,17 +182,17 @@ Century Gothic
 │  │          └─color_red
 │  └─osulazer
 │
-├─optimize────────────────────── Optimization options for main part
+├─optimize────────────── Optimization options for main part
 │  ├─catch
 │  ├─mania
 │  ├─std
 │  └─taiko
 │
-├─patch───────────────────────── Optional resource patch
+├─patch───────────────── Optional resource patch
 │  ├─patch_play
 │  └─patch_ui
 │
-├─project─────────────────────── Skin source files
+├─project─────────────── Skin source files
 │  ├─animation
 │  ├─core
 │  ├─cursor
@@ -205,7 +205,7 @@ Century Gothic
 │  │  └─patch_ui
 │  └─psd
 │
-└─sfx─────────────────────────── Optional sound effects
+└─sfx─────────────────── Optional sound effects
     ├─style_amix
     └─style_lazer
 ```
@@ -215,18 +215,22 @@ Century Gothic
 ## Some Resources From
 
 - style_lazer FROM osu!lazer  
-- Some colors are taken from the [official website](https://www.swordart-online.net/) of Sword Art Online.
-- 7zip FROM [7-zip.org](https://www.7-zip.org/)
-- libiconv2 FROM [gnuwin](http://gnuwin32.sourceforge.net/packages/libiconv.htm)
-- libintl3 FROM [gnuwin](http://gnuwin32.sourceforge.net/packages/libintl.htm)
-- regex2 FROM [gnuwin](http://gnuwin32.sourceforge.net/packages/regex.htm)
-- sed FROM [gnuwin](http://gnuwin32.sourceforge.net/packages/sed.htm)
+- Some colors are taken from the [official] website of Sword Art Online.
+- 7zip FROM [7-zip.org]
+- libiconv2 FROM [gnuwin/libiconv]
+- libintl3 FROM [gnuwin/libintl]
+- regex2 FROM [gnuwin/regex]
+- sed FROM [gnuwin/sed]
 
 _Thanks to the creators of these resources_
 
 ## Fork Me On Gitee
 
-[![Fork me on Gitee](https://gitee.com/sendevia/AincradMix/widgets/widget_6.svg?color=ff711e)](https://gitee.com/sendevia/AincradMix)
+<div align="center">
+  <a href="https://gitee.com/sendevia/AincradMix">
+    <img src="https://gitee.com/sendevia/AincradMix/widgets/widget_6.svg?color=ff711e" width="200" alt="Fork me on Gitee">
+  </a>
+</div>
 
 ## Ending
 
@@ -240,6 +244,12 @@ _Thanks to the creators of these resources_
 [SAO-UI]:https://fontmeme.com/fonts/sao-ui-font/
 [KD-Tramcar]:https://fontmeme.com/fonts/kd-tramcar-font/
 [Aller]:https://fontmeme.com/fonts/aller-font/
+[official]:https://www.swordart-online.net/
+[7-zip.org]:https://www.7-zip.org/
+[gnuwin/libiconv]:http://gnuwin32.sourceforge.net/packages/libiconv.htm
+[gnuwin/libintl]:http://gnuwin32.sourceforge.net/packages/libintl.htm
+[gnuwin/regex]:http://gnuwin32.sourceforge.net/packages/regex.htm
+[gnuwin/sed]:http://gnuwin32.sourceforge.net/packages/sed.htm
 
 <!--
     ___    _                           ____  ____     
