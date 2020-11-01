@@ -96,7 +96,11 @@
 
 ## Download
 
-[<img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300">](https://github.com/Sendevia/AincradMix/releases)
+<div align="center">
+  <a href="https://github.com/Sendevia/AincradMix/releases">
+    <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300" alt="download">
+  </a>
+</div>
 
 ---
 
@@ -138,6 +142,75 @@ Century Gothic
  2. Animation export format `.PNG（sequence)`, aisle `RGB+Alpha`, use the composite frame number, the name is set to `Synthetic name`, remove the file name **`_[#]`** suffix **.（Be careful, `_[#]`instead of`-[#]`or`[#]`.）**
 
 </details>
+
+## Directory Description
+
+<details>
+  <summary>Info</summary>
+
+```
+┌─animation───────────────────── Optional animation
+│
+├─bin─────────────────────────── Referenced third-party programs
+│
+├─core────────────────────────── Main part
+│
+├─extra───────────────────────── Extended part
+│  ├─mcosu
+│  ├─osu
+│  │  ├─animation─────────────── Replacement options for animation
+│  │  ├─core──────────────────── Replacement options for main part
+│  │  └─cursor────────────────── Replacement options for cursor
+│  │      ├─style_hollow
+│  │      │  ├─color_blue
+│  │      │  ├─color_green
+│  │      │  ├─color_orange
+│  │      │  ├─color_pink
+│  │      │  ├─color_red
+│  │      │  └─color_white
+│  │      ├─style_point
+│  │      │  ├─color_blue
+│  │      │  ├─color_green
+│  │      │  ├─color_orange
+│  │      │  ├─color_pink
+│  │      │  └─color_red
+│  │      └─style_round
+│  │          ├─color_blue
+│  │          ├─color_green
+│  │          ├─color_orange
+│  │          ├─color_pink
+│  │          └─color_red
+│  └─osulazer
+│
+├─optimize────────────────────── Optimization options for main part
+│  ├─catch
+│  ├─mania
+│  ├─std
+│  └─taiko
+│
+├─patch───────────────────────── Optional resource patch
+│  ├─patch_play
+│  └─patch_ui
+│
+├─project─────────────────────── Skin source files
+│  ├─animation
+│  ├─core
+│  ├─cursor
+│  ├─optimize
+│  │  ├─catch
+│  │  └─std
+│  ├─other
+│  ├─patch
+│  │  ├─patch_play
+│  │  └─patch_ui
+│  └─psd
+│
+└─sfx─────────────────────────── Optional sound effects
+    ├─style_amix
+    └─style_lazer
+```
+
+<details>
 
 ## Some Resources From
 

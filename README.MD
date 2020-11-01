@@ -32,7 +32,7 @@
 
 ## 你需要注意的
 
-- 这个皮肤现在还处于**早期设计阶段**，细节和手感都还没有完全的添加和优化。
+- 这个皮肤现在处于**中期设计阶段**，细节和手感都还没有完全的添加和优化。
 - 目前这个皮肤对 **16:9** 的屏幕比例支持最佳。
 - 在应用全局皮肤时，要注意备份 `osu!ui.dll` 和 `osu!gameplay.dll`。
 
@@ -96,7 +96,11 @@
 
 ## 最新版下载
 
-[<img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300">](https://github.com/Sendevia/AincradMix/releases)
+<div align="center">
+  <a href="https://github.com/Sendevia/AincradMix/releases">
+    <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300" alt="download">
+  </a>
+</div>
 
 ---
 
@@ -137,6 +141,74 @@ Century Gothic
 
 </details>
 
+## 目录说明
+
+<details>
+
+```
+┌─animation───────────────────── 可选动画
+│
+├─bin─────────────────────────── 引用的第三方程序
+│
+├─core────────────────────────── 主要部分
+│
+├─extra───────────────────────── 扩展部分
+│  ├─mcosu
+│  ├─osu
+│  │  ├─animation─────────────── 可选动画的替换选项
+│  │  ├─core──────────────────── 主要部分的替换选项
+│  │  └─cursor────────────────── 光标的替换选项
+│  │      ├─style_hollow
+│  │      │  ├─color_blue
+│  │      │  ├─color_green
+│  │      │  ├─color_orange
+│  │      │  ├─color_pink
+│  │      │  ├─color_red
+│  │      │  └─color_white
+│  │      ├─style_point
+│  │      │  ├─color_blue
+│  │      │  ├─color_green
+│  │      │  ├─color_orange
+│  │      │  ├─color_pink
+│  │      │  └─color_red
+│  │      └─style_round
+│  │          ├─color_blue
+│  │          ├─color_green
+│  │          ├─color_orange
+│  │          ├─color_pink
+│  │          └─color_red
+│  └─osulazer
+│
+├─optimize────────────────────── 主要部分的优化选项
+│  ├─catch
+│  ├─mania
+│  ├─std
+│  └─taiko
+│
+├─patch───────────────────────── 可选资源补丁
+│  ├─patch_play
+│  └─patch_ui
+│
+├─project─────────────────────── 皮肤源文件（工程文件）
+│  ├─animation
+│  ├─core
+│  ├─cursor
+│  ├─optimize
+│  │  ├─catch
+│  │  └─std
+│  ├─other
+│  ├─patch
+│  │  ├─patch_play
+│  │  └─patch_ui
+│  └─psd
+│
+└─sfx─────────────────────────── 可选音效
+    ├─style_amix
+    └─style_lazer
+```
+
+<details>
+
 ## 引用素材来源
 
 - `style_lazer` 来自 `osu!lazer`，感谢 ppy 团队。
@@ -174,3 +246,4 @@ _非常感谢这些资源的制作者_
 /_/  |_/_/_/ /_/\___/_/   \__,_/\__,_/_/  /_/_/_/|_|  
 
 -->
+
