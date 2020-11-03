@@ -98,7 +98,7 @@
 
 <div align="center">
   <a href="https://github.com/Sendevia/AincradMix/releases">
-    <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300" alt="download">
+    <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1_en.png" width="300" alt="download">
   </a>
 </div>
 
