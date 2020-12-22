@@ -215,7 +215,7 @@ Century Gothic
 ## Some Resources From
 
 - style_lazer FROM osu!lazer  
-- Some colors are taken from the [official] website of Sword Art Online.
+- Some colors are taken from the [official] website of Sword Art Online
 - 7zip FROM [7-zip.org]
 - libiconv2 FROM [gnuwin/libiconv]
 - libintl3 FROM [gnuwin/libintl]

@@ -211,8 +211,8 @@ Century Gothic
 
 ## 引用素材来源
 
-- `style_lazer` 来自 `osu!lazer`，感谢 ppy 团队。
-- 部分颜色取自 SwordArtOnline 的[官方网站]。
+- `style_lazer` 来自 `osu!lazer`
+- 部分颜色取自 SwordArtOnline 的[官方网站]
 - 7zip 来自 [7-zip.org]
 - libiconv2 来自 [gnuwin/libiconv]
 - libintl3 来自 [gnuwin/libintl]
