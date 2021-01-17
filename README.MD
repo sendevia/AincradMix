@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_logo_big.png" width="200" alt="project_logo">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_logo.png" width="200" alt="project_logo">
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@
 
 <details>
   <summary>动画</summary>
-
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_0.gif" width="220">
   <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_100_k.gif" width="220">
@@ -50,7 +50,7 @@
   <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_300_g.gif" width="220">
   <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s1_hit_circle_300_k.gif" width="220">
 </div>
-
+-->
 </details>
 
 ## 推荐设置
