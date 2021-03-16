@@ -122,14 +122,14 @@ Trapcode Suite
 #### Scripts
 
 [Duik]  
-[GridGuide]  
+[GridGuide]
 
 #### Fonts
 
 [SAO-UI]  
 [KD-Tramcar]  
 [Aller]  
-Century Gothic  
+Century Gothic
 
 </details>
 
@@ -138,8 +138,8 @@ Century Gothic
 <details>
   <summary>Info</summary>
 
- 1. Image export format `PNG`, channel `RGB+Alpha`, name set to composite name.
- 2. Animation export format `.PNG（sequence)`, aisle `RGB+Alpha`, use the composite frame number, the name is set to `Synthetic name`, remove the file name **`_[#]`** suffix **.（Be careful, `_[#]`instead of`-[#]`or`[#]`.）**
+1.  Image export format `PNG`, channel `RGB+Alpha`, name set to composite name.
+2.  Animation export format `.PNG（sequence)`, aisle `RGB+Alpha`, use the composite frame number, the name is set to `Synthetic name`, remove the file name **`_[#]`** suffix **.（Be careful, `_[#]`instead of`-[#]`or`[#]`.）**
 
 </details>
 
@@ -214,7 +214,7 @@ Century Gothic
 
 ## Some Resources From
 
-- style_lazer FROM osu!lazer  
+- style_lazer FROM osu!lazer
 - Some colors are taken from the [official] website of Sword Art Online
 - 7zip FROM [7-zip.org]
 - libiconv2 FROM [gnuwin/libiconv]
@@ -234,28 +234,29 @@ _Thanks to the creators of these resources_
 
 ## Ending
 
-  **`If you like this skin or it is helpful for play, you don't need to donate, it is enough to light up a star.`**   
-  **`The star you lit is your greatest encouragement! Give me motivation to make this skin better! `**
+**`If you like this skin or it is helpful for play, you don't need to donate, it is enough to light up a star.`**  
+ **`The star you lit is your greatest encouragement! Give me motivation to make this skin better! `**
 
 <!-- links -->
-[Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
-[Duik]:https://rainboxprod.coop/en/tools/duik/duik-download/
-[GridGuide]:https://aescripts.com/gridguide-for-after-effects/
-[SAO-UI]:https://fontmeme.com/fonts/sao-ui-font/
-[KD-Tramcar]:https://fontmeme.com/fonts/kd-tramcar-font/
-[Aller]:https://fontmeme.com/fonts/aller-font/
-[official]:https://www.swordart-online.net/
-[7-zip.org]:https://www.7-zip.org/
-[gnuwin/libiconv]:http://gnuwin32.sourceforge.net/packages/libiconv.htm
-[gnuwin/libintl]:http://gnuwin32.sourceforge.net/packages/libintl.htm
-[gnuwin/regex]:http://gnuwin32.sourceforge.net/packages/regex.htm
-[gnuwin/sed]:http://gnuwin32.sourceforge.net/packages/sed.htm
+
+[saber]: https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
+[duik]: https://rainboxprod.coop/en/tools/duik/duik-download/
+[gridguide]: https://aescripts.com/gridguide-for-after-effects/
+[sao-ui]: https://fontmeme.com/fonts/sao-ui-font/
+[kd-tramcar]: https://fontmeme.com/fonts/kd-tramcar-font/
+[aller]: https://fontmeme.com/fonts/aller-font/
+[official]: https://www.swordart-online.net/
+[7-zip.org]: https://www.7-zip.org/
+[gnuwin/libiconv]: http://gnuwin32.sourceforge.net/packages/libiconv.htm
+[gnuwin/libintl]: http://gnuwin32.sourceforge.net/packages/libintl.htm
+[gnuwin/regex]: http://gnuwin32.sourceforge.net/packages/regex.htm
+[gnuwin/sed]: http://gnuwin32.sourceforge.net/packages/sed.htm
 
 <!--
-    ___    _                           ____  ____     
+    ___    _                           ____  ____
    /   |  (_)___  ______________ _____/ /  |/  (_)  __
   / /| | / / __ \/ ___/ ___/ __ `/ __  / /|_/ / / |/_/
- / ___ |/ / / / / /__/ /  / /_/ / /_/ / /  / / />  <  
-/_/  |_/_/_/ /_/\___/_/   \__,_/\__,_/_/  /_/_/_/|_|  
+ / ___ |/ / / / / /__/ /  / /_/ / /_/ / /  / / />  <
+/_/  |_/_/_/ /_/\___/_/   \__,_/\__,_/_/  /_/_/_/|_|
 
 -->

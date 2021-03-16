@@ -16,14 +16,14 @@
 
 ## 介绍
 
-### 关于  
+### 关于
 
 - `这是一个 osu! 皮肤，它以游戏补丁的方式实现了对 osu! 全部界面元素的覆盖。`
 - `本皮肤的设计风格扩展了《刀剑神域》第1、2季中操作界面的设计，结合更现代的设计风格，再将两者和谐相融。`
 
 ### 优点
 
-1. 扩展了刀剑神域系列番剧中UI的设计
+1. 扩展了刀剑神域系列番剧中 UI 的设计
 1. 拥有良好的打图手感
 1. 丰富而不干扰打图的动画效果
 1. 简洁而美观的视觉体验
@@ -33,7 +33,7 @@
 ## 你需要注意的
 
 - 当前的所有版本均**不完全**代表最终完成效果
-- 本皮肤的 *正常版本* 适用于 **6.5★** 及以下的谱面
+- 本皮肤的 _正常版本_ 适用于 **6.5★** 及以下的谱面
 - 部分元素仍在设计，将出现**风格不统一、覆盖不完全**的情况
 - 建议使用 **16:9** 的屏幕比例以获得最佳效果
 - 在应用全局皮肤时，要注意备份 `osu!ui.dll` 和 `osu!gameplay.dll`
@@ -167,14 +167,14 @@ Trapcode Suite
 #### 脚本
 
 [Duik]  
-[GridGuide]  
+[GridGuide]
 
 #### 字体
 
 [SAO-UI]  
 [KD-Tramcar]  
 [Aller]  
-Century Gothic  
+Century Gothic
 
 </details>
 
@@ -264,7 +264,7 @@ Century Gothic
 
 _非常感谢这些资源的制作者_
 
-## Gitee镜像
+## Gitee 镜像
 
 <div align="center">
   <a href="https://gitee.com/sendevia/AincradMix">
@@ -273,22 +273,22 @@ _非常感谢这些资源的制作者_
 </div>
 
 <!-- 链接索引 -->
-[Saber]:https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
-[Duik]:https://rainboxprod.coop/en/tools/duik/duik-download/
-[GridGuide]:https://aescripts.com/gridguide-for-after-effects/
-[SAO-UI]:https://fontmeme.com/fonts/sao-ui-font/
-[KD-Tramcar]:https://fontmeme.com/fonts/kd-tramcar-font/
-[Aller]:https://fontmeme.com/fonts/aller-font/
-[官方网站]:https://www.swordart-online.net/
-[7-zip.org]:https://www.7-zip.org/
-[gnuwin/sed]:http://gnuwin32.sourceforge.net/packages/sed.htm
+
+[saber]: https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
+[duik]: https://rainboxprod.coop/en/tools/duik/duik-download/
+[gridguide]: https://aescripts.com/gridguide-for-after-effects/
+[sao-ui]: https://fontmeme.com/fonts/sao-ui-font/
+[kd-tramcar]: https://fontmeme.com/fonts/kd-tramcar-font/
+[aller]: https://fontmeme.com/fonts/aller-font/
+[官方网站]: https://www.swordart-online.net/
+[7-zip.org]: https://www.7-zip.org/
+[gnuwin/sed]: http://gnuwin32.sourceforge.net/packages/sed.htm
 
 <!--
-    ___    _                           ____  ____     
+    ___    _                           ____  ____
    /   |  (_)___  ______________ _____/ /  |/  (_)  __
   / /| | / / __ \/ ___/ ___/ __ `/ __  / /|_/ / / |/_/
- / ___ |/ / / / / /__/ /  / /_/ / /_/ / /  / / />  <  
-/_/  |_/_/_/ /_/\___/_/   \__,_/\__,_/_/  /_/_/_/|_|  
+ / ___ |/ / / / / /__/ /  / /_/ / /_/ / /  / / />  <
+/_/  |_/_/_/ /_/\___/_/   \__,_/\__,_/_/  /_/_/_/|_|
 
 -->
-
