@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-20%25-orange?style=flat-square" alt="progress">
+  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-80%25-orange?style=flat-square" alt="progress">
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
@@ -19,7 +19,7 @@
 ### 关于
 
 - `这是一个 osu! 皮肤，它以游戏补丁的方式实现了对 osu! 全部界面元素的覆盖。`
-- `本皮肤的设计风格扩展了《刀剑神域》第1、2季中操作界面的设计，结合更现代的设计风格，再将两者和谐相融。`
+- `它的设计风格扩展了《刀剑神域》第1、2季中操作界面的设计，结合更现代的设计风格，再将两者和谐相融。`
 
 ### 优点
 
@@ -32,10 +32,8 @@
 
 ## 你需要注意的
 
-- 当前的所有版本均**不完全**代表最终完成效果
-- 本皮肤的 _正常版本_ 适用于 **6.5★** 及以下的谱面
-- 部分元素仍在设计，将出现**风格不统一、覆盖不完全**的情况
-- 建议使用 **16:9** 的屏幕比例以获得最佳效果
+- 本皮肤的 _正常版本_ 适用于 **★6.5** 及以下的大多数谱面
+- 建议使用 **16:9** 的屏幕比例游玩 osu! 以获得最佳效果
 - 在应用全局皮肤时，要注意备份 `osu!ui.dll` 和 `osu!gameplay.dll`
 
 <!--
@@ -143,7 +141,7 @@
 ## 最新版下载
 
 <div align="center">
-  <a href="https://github.com/Sendevia/AincradMix/releases">
+  <a href="https://github.com/Sendevia/AincradMix/releases/latest">
     <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300" alt="download">
   </a>
 </div>
@@ -156,13 +154,14 @@
 
 ### **注意：**
 
-1. 推荐使用`Adobe After Effects CC2019 (16.0)`或更高版本。
+1. 推荐使用`Adobe After Effects CC2021 (18.0)`或更高版本。
 2. 你**必须**拥有以下的插件、脚本和字体：
 
 #### 插件
 
 [Saber]  
-Trapcode Suite
+Trapcode Suite  
+Halftone
 
 #### 脚本
 
@@ -205,31 +204,11 @@ Century Gothic
 │  │  ├─core──────────── 主要部分的替换选项
 │  │  └─cursor────────── 光标的替换选项
 │  │      ├─style_hollow
-│  │      │  ├─color_blue
-│  │      │  ├─color_green
-│  │      │  ├─color_orange
-│  │      │  ├─color_pink
-│  │      │  ├─color_red
-│  │      │  └─color_white
 │  │      ├─style_point
-│  │      │  ├─color_blue
-│  │      │  ├─color_green
-│  │      │  ├─color_orange
-│  │      │  ├─color_pink
-│  │      │  └─color_red
 │  │      └─style_round
-│  │          ├─color_blue
-│  │          ├─color_green
-│  │          ├─color_orange
-│  │          ├─color_pink
-│  │          └─color_red
 │  └─osulazer
 │
 ├─optimize────────────── 主要部分的优化选项
-│  ├─catch
-│  ├─mania
-│  ├─std
-│  └─taiko
 │
 ├─patch───────────────── 可选资源补丁
 │  ├─patch_play
@@ -240,13 +219,10 @@ Century Gothic
 │  ├─core
 │  ├─cursor
 │  ├─optimize
-│  │  ├─catch
-│  │  └─std
 │  ├─other
-│  ├─patch
-│  │  ├─patch_play
-│  │  └─patch_ui
-│  └─psd
+│  └─patch
+│     ├─patch_play
+│     └─patch_ui
 │
 └─sfx─────────────────── 可选音效
     ├─style_amix
@@ -290,5 +266,4 @@ _非常感谢这些资源的制作者_
   / /| | / / __ \/ ___/ ___/ __ `/ __  / /|_/ / / |/_/
  / ___ |/ / / / / /__/ /  / /_/ / /_/ / /  / / />  <
 /_/  |_/_/_/ /_/\___/_/   \__,_/\__,_/_/  /_/_/_/|_|
-
 -->
