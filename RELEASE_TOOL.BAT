@@ -10,12 +10,13 @@
         if exist tmp rd /s /q tmp
     set /p r=设置版本: 
         if not exist release\%r% md release\%r%
-    echo 目前已有音效 style_amix(1) , style_lazer(2)
+    echo 目前已有音效 style_lazer_old(1) , style_lazer(2)
         choice /c 12 /m 设置默认音效: /n
             if errorlevel 2 set sfx=style_lazer && goto run
-            if errorlevel 1 set sfx=style_amix && goto run
+            if errorlevel 1 set sfx=style_lazer_old && goto run
 :run
     set ap=8
+    echo ------------------------------------
     set part=core
         cd %~dp0\%part%
         title 打包%part%中...（1/%ap%）
@@ -118,6 +119,8 @@
             echo ------------------
             echo %part%已打包完成
             echo ------------------
+            echo.
+            echo ------------------------------------
             echo.
 :end
     pause
