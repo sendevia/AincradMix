@@ -17,3 +17,9 @@ res_ignore
 
 # Duik notes
 Duik*
+
+# Python
+build/
+dist/
+__pycache__
+*.spec
