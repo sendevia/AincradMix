@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_logo.png" width="200" alt="project_logo">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_logo_only.png" width="200" alt="project_logo">
+  <h1>AincradMix</h1>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-80%25-orange?style=flat-square" alt="progress">
+  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-60%25-orange?style=flat-square" alt="progress">
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
@@ -27,8 +28,8 @@
 1. 拥有良好的打图手感
 1. 丰富而不干扰打图的动画效果
 1. 简洁而美观的视觉体验
-1. 覆盖了 osu! 的所有界面元素
-1. 定制化选项较为丰富
+1. 覆盖了 osu! 的所有界面元素（WIP）
+1. 定制化选项较为丰富（WIP）
 
 ## 你需要注意的
 
@@ -155,7 +156,8 @@
 ### **注意：**
 
 1. 推荐使用`Adobe After Effects CC2021 (18.0)`或更高版本。
-2. 你**必须**拥有以下的插件、脚本和字体：
+2. **注意要经常保存文件**
+3. 你**必须**拥有以下的插件、脚本和字体：
 
 #### 插件
 
@@ -173,6 +175,7 @@ Halftone
 [SAO-UI]  
 [KD-Tramcar]  
 [Aller]  
+Electrolize  
 Century Gothic
 
 </details>
@@ -233,7 +236,7 @@ Century Gothic
 
 ## 引用素材来源
 
-- `style_lazer` 来自 `osu!lazer`
+- `style_lazer/old` 来自 `ppy/osu`
 - 部分颜色取自 SwordArtOnline 的[官方网站]
 - 7zip 来自 [7-zip.org]
 - sed 以及一系列的库文件 来自 [gnuwin/sed]
