@@ -191,55 +191,27 @@ Century Gothic
 
 ## 目录说明
 
-<details>
-
 ```
-┌─animation───────────── 可选动画
+┌─addition────────────── 皮肤扩展
 │
-├─bin─────────────────── 引用的第三方程序
+├─animation───────────── 可选动画
 │
-├─core────────────────── 主要部分
+├─core────────────────── 皮肤主体
 │
-├─extra───────────────── 扩展部分
-│  ├─mcosu
-│  ├─osu
-│  │  ├─animation─────── 可选动画的替换选项
-│  │  ├─core──────────── 主要部分的替换选项
-│  │  └─cursor────────── 光标的替换选项
-│  │      ├─style_hollow
-│  │      ├─style_point
-│  │      └─style_round
-│  └─osulazer
+├─optimization────────── 优化选项
 │
-├─optimize────────────── 主要部分的优化选项
+├─patch───────────────── 可选补丁
 │
-├─patch───────────────── 可选资源补丁
-│  ├─patch_play
-│  └─patch_ui
+├─sound───────────────── 可选音效
 │
-├─project─────────────── 皮肤源文件（工程文件）
-│  ├─animation
-│  ├─core
-│  ├─cursor
-│  ├─optimize
-│  ├─other
-│  └─patch
-│     ├─patch_play
-│     └─patch_ui
-│
-└─sfx─────────────────── 可选音效
-    ├─style_amix
-    └─style_lazer
+└─source──────────────── 工程文件
 ```
-
-</details>
 
 ## 引用素材来源
 
 - `style_lazer/old` 来自 `ppy/osu`
 - 部分颜色取自 SwordArtOnline 的[官方网站]
 - 7zip 来自 [7-zip.org]
-- sed 以及一系列的库文件 来自 [gnuwin/sed]
 
 _非常感谢这些资源的制作者_
 
@@ -261,7 +233,6 @@ _非常感谢这些资源的制作者_
 [aller]: https://fontmeme.com/fonts/aller-font/
 [官方网站]: https://www.swordart-online.net/
 [7-zip.org]: https://www.7-zip.org/
-[gnuwin/sed]: http://gnuwin32.sourceforge.net/packages/sed.htm
 
 <!--
     ___    _                           ____  ____
