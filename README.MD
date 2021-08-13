@@ -25,11 +25,11 @@
 ### 优点
 
 1. 扩展了刀剑神域系列番剧中 UI 的设计
-1. 拥有良好的打图手感
+1. 拥有良好的打图手感 (大概
 1. 丰富而不干扰打图的动画效果
 1. 简洁而美观的视觉体验
-1. 覆盖了 osu! 的所有界面元素（WIP）
-1. 定制化选项较为丰富（WIP）
+1. 覆盖了 osu! 的所有界面元素 **`（WIP）`**
+1. 定制化选项较为丰富 **`（WIP）`**
 
 ## 你需要注意的
 
@@ -37,30 +37,24 @@
 - 建议使用 **16:9** 的屏幕比例游玩 osu! 以获得最佳效果
 - 在应用全局皮肤时，要注意备份 `osu!ui.dll` 和 `osu!gameplay.dll`
 
-<!--
 ## 皮肤预览
 
 <details>
   <summary>宣传图</summary>
-
     <div align="center">
       <img src="">
     </div>
-
 </details>
 
 <details>
   <summary>主界面</summary>
-
     <div align="center">
       <img src="">
     </div>
-
 </details>
 
 <details>
   <summary>std模式</summary>
-
     <div align="center">
       <img src="">
     </div>
@@ -68,7 +62,6 @@
 
 <details>
   <summary>mania模式</summary>
-
     <div align="center">
       <img src="">
     </div>
@@ -76,7 +69,6 @@
 
 <details>
   <summary>taiko模式</summary>
-
     <div align="center">
       <img src="">
     </div>
@@ -84,7 +76,6 @@
 
 <details>
   <summary>catch模式</summary>
-
     <div align="center">
       <img src="">
     </div>
@@ -92,52 +83,50 @@
 
 <details>
   <summary>细节动画</summary>
-
     <div align="center">
       <img src="">
     </div>
 </details>
 
--->
 
 ## 推荐设置
 
 ### 详细设置
 
-- [x] 渐出滑条
-- [x] 连击提示图
-- [ ] 击打闪光
-- [x] 着色器效果
-- [ ] 柔化滤镜
+- 🔴 渐出滑条
+- 🔴 连击提示图
+- ⭕ 击打闪光
+- 🔴 着色器效果
+- ⭕ 柔化滤镜
 
 ### 主菜单
 
-- [x] 飘雪效果
+- 🔴 飘雪效果
 
 ### 选歌页面
 
-- [x] 显示略缩图
+- 🔴 显示略缩图
 
 ### 常规
 
-- [x] 进度条位置： 右上角（条状）
+- 🔴 进度条位置： 右上角（条状）
 
 ### 音量
 
-- [ ] 禁用谱面自带音效
+- ⭕ 禁用谱面自带音效
 
 ### 皮肤
 
-- [x] 忽略所有谱面自带的皮肤
-- [ ] 使用皮肤的音效
-- [x] 总是使用皮肤中的光标
-- [x] 光标大小： _0.7x_
-- [ ] 自动缩放光标
-- [ ] 拖球的颜色随滑条改变
+- 🔴 忽略所有谱面自带的皮肤
+- ⭕ 使用皮肤的音效
+- 🔴 总是使用皮肤中的光标
+- 🔴 光标大小： _0.7x_
+- ⭕ 自动缩放光标
+- ⭕ 拖球的颜色随滑条改变
 
 ### 鼠标
 
-- [ ] 点击波纹
+- ⭕ 点击波纹
 
 ## 最新版下载
 
