@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Progress-20%25-orange?style=flat-square" alt="progress">
+  <img src="https://img.shields.io/badge/Progress-60%25-orange?style=flat-square" alt="progress">
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
   <a href="https://github.com/Sendevia/AincradMix/blob/master/README.MD">
-    <img src="https://img.shields.io/badge/切换为-中文-%23131313.svg?style=flat-square" alt="language switch">
+    <img src="https://img.shields.io/badge/中文-%2366ccff.svg?style=flat-square" alt="language switch">
   </a>
 </div>
 
@@ -57,42 +57,40 @@
 
 ### DETAIL SETTINGS
 
-- [x] Snaking sliders
-- [ ] Combo bursts
-- [ ] Hit lightning
-- [x] Shaders
-- [ ] Softening filter
+> 🔴 Snaking sliders
+> 🔴 Combo bursts
+> ⭕ Hit lightning
+> 🔴 Shaders
+> ⭕ Softening filter
 
 ### MAIN MENU
 
-- [x] Snow
+> 🔴 Snow
 
 ### SONG SELECT
 
-- [x] Show thumbnails
+> 🔴 Show thumbnails
 
 ### GENERAL
 
-- [x] Background dim: _95%_
-- [x] Progress display: Top-Right (Bar)
-- [x] Score meter size: _0.75x_
+> 🔴 Progress display: Top-Right (Bar)
 
 ### VOLUME
 
-- [ ] Ignore beatmap hitsounds
+> ⭕ Ignore beatmap hitsounds
 
 ### SKIN
 
-- [x] Ignore all beatmap skins
-- [ ] Use skin's sound samples
-- [x] Always use skin cursor
-- [x] Cursor size: _0.7x_
-- [ ] Automatic cursor size
-- [ ] Use combo color as tint for slider ball
+> 🔴 Ignore all beatmap skins
+> ⭕ Use skin's sound samples
+> 🔴 Always use skin cursor
+> 🔴 Cursor size: _0.7x_
+> ⭕ Automatic cursor size
+> ⭕ Use combo color as tint for slider ball
 
 ### MOUSE
 
-- [ ] Cursor ripples
+> ⭕ Cursor ripples
 
 ## Download
 
@@ -111,7 +109,7 @@
   
 ### **Notice：**
 
-1. Recommended using `Adobe After Effects CC2019 (16.0)` or newer.
+1. Recommended using `Adobe After Effects CC2021 (18.0)` or newer.
 2. You **must** have the following plugins, scripts and fonts:
 
 #### Plugins
@@ -129,6 +127,7 @@ Trapcode Suite
 [SAO-UI]  
 [KD-Tramcar]  
 [Aller]  
+Electrolize  
 Century Gothic
 
 </details>
@@ -149,78 +148,28 @@ Century Gothic
   <summary>Info</summary>
 
 ```
-┌─animation───────────── Optional animation
+┌─addition────────────── 皮肤扩展
 │
-├─bin─────────────────── Referenced third-party programs
+├─animation───────────── 可选动画
 │
-├─core────────────────── Main part
+├─core────────────────── 皮肤主体
 │
-├─extra───────────────── Extended part
-│  ├─mcosu
-│  ├─osu
-│  │  ├─animation─────── Replacement options for animation
-│  │  ├─core──────────── Replacement options for main part
-│  │  └─cursor────────── Replacement options for cursor
-│  │      ├─style_hollow
-│  │      │  ├─color_blue
-│  │      │  ├─color_green
-│  │      │  ├─color_orange
-│  │      │  ├─color_pink
-│  │      │  ├─color_red
-│  │      │  └─color_white
-│  │      ├─style_point
-│  │      │  ├─color_blue
-│  │      │  ├─color_green
-│  │      │  ├─color_orange
-│  │      │  ├─color_pink
-│  │      │  └─color_red
-│  │      └─style_round
-│  │          ├─color_blue
-│  │          ├─color_green
-│  │          ├─color_orange
-│  │          ├─color_pink
-│  │          └─color_red
-│  └─osulazer
+├─optimization────────── 优化选项
 │
-├─optimize────────────── Optimization options for main part
-│  ├─catch
-│  ├─mania
-│  ├─std
-│  └─taiko
+├─patch───────────────── 可选补丁
 │
-├─patch───────────────── Optional resource patch
-│  ├─patch_play
-│  └─patch_ui
+├─sound───────────────── 可选音效
 │
-├─project─────────────── Skin source files
-│  ├─animation
-│  ├─core
-│  ├─cursor
-│  ├─optimize
-│  │  ├─catch
-│  │  └─std
-│  ├─other
-│  ├─patch
-│  │  ├─patch_play
-│  │  └─patch_ui
-│  └─psd
-│
-└─sfx─────────────────── Optional sound effects
-    ├─style_amix
-    └─style_lazer
+└─source──────────────── 工程文件
 ```
 
 </details>
 
 ## Some Resources From
 
-- style_lazer FROM osu!lazer
-- Some colors are taken from the [official] website of Sword Art Online
-- 7zip FROM [7-zip.org]
-- libiconv2 FROM [gnuwin/libiconv]
-- libintl3 FROM [gnuwin/libintl]
-- regex2 FROM [gnuwin/regex]
-- sed FROM [gnuwin/sed]
+- `style_lazer/old` 来自 [`ppy/osu`]
+- 部分颜色取自 SAO 动画的[official]
+- 7zip 来自 [7-zip.org]
 
 _Thanks to the creators of these resources_
 
@@ -232,11 +181,6 @@ _Thanks to the creators of these resources_
   </a>
 </div>
 
-## Ending
-
-**`If you like this skin or it is helpful for play, you don't need to donate, it is enough to light up a star.`**  
- **`The star you lit is your greatest encouragement! Give me motivation to make this skin better! `**
-
 <!-- links -->
 
 [saber]: https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
@@ -247,10 +191,6 @@ _Thanks to the creators of these resources_
 [aller]: https://fontmeme.com/fonts/aller-font/
 [official]: https://www.swordart-online.net/
 [7-zip.org]: https://www.7-zip.org/
-[gnuwin/libiconv]: http://gnuwin32.sourceforge.net/packages/libiconv.htm
-[gnuwin/libintl]: http://gnuwin32.sourceforge.net/packages/libintl.htm
-[gnuwin/regex]: http://gnuwin32.sourceforge.net/packages/regex.htm
-[gnuwin/sed]: http://gnuwin32.sourceforge.net/packages/sed.htm
 
 <!--
     ___    _                           ____  ____

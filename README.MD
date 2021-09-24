@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_logo_only.png" width="200" alt="project_logo">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_logoB_only.png" width="200" alt="project_logo">
   <h1>AincradMix</h1>
 </div>
 
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
   <a href="https://github.com/Sendevia/AincradMix/blob/master/README_EN.MD">
-    <img src="https://img.shields.io/badge/Switch to-English-%23131313.svg?style=flat-square" alt="language switch">
+    <img src="https://img.shields.io/badge/English-%2366ccff.svg?style=flat-square" alt="language switch">
   </a>
 </div>
 
@@ -20,7 +20,7 @@
 ### 关于
 
 - `这是一个 osu! 皮肤，它以游戏补丁的方式实现了对 osu! 全部界面元素的覆盖。`
-- `它的设计风格扩展了《刀剑神域》第1、2季中操作界面的设计，结合更现代的设计风格，再将两者和谐相融。`
+- `它的设计风格扩展了《刀剑神域》第 1、2 季中操作界面的设计，结合更现代的设计风格，再将两者和谐相融。`
 
 ### 优点
 
@@ -54,28 +54,28 @@
 </details>
 
 <details>
-  <summary>std模式</summary>
+  <summary>std 模式</summary>
     <div align="center">
       <img src="">
     </div>
 </details>
 
 <details>
-  <summary>mania模式</summary>
+  <summary>mania 模式</summary>
     <div align="center">
       <img src="">
     </div>
 </details>
 
 <details>
-  <summary>taiko模式</summary>
+  <summary>taiko 模式</summary>
     <div align="center">
       <img src="">
     </div>
 </details>
 
 <details>
-  <summary>catch模式</summary>
+  <summary>catch 模式</summary>
     <div align="center">
       <img src="">
     </div>
@@ -93,40 +93,40 @@
 
 ### 详细设置
 
-- 🔴 渐出滑条
-- 🔴 连击提示图
-- ⭕ 击打闪光
-- 🔴 着色器效果
-- ⭕ 柔化滤镜
+> 🔴 渐出滑条  
+> 🔴 连击提示图  
+> ⭕ 击打闪光  
+> 🔴 着色器效果  
+> ⭕ 柔化滤镜  
 
 ### 主菜单
 
-- 🔴 飘雪效果
+> 🔴 飘雪效果  
 
 ### 选歌页面
 
-- 🔴 显示略缩图
+> 🔴 显示略缩图  
 
 ### 常规
 
-- 🔴 进度条位置： 右上角（条状）
+> 🔴 进度条位置： 右上角（条状）  
 
 ### 音量
 
-- ⭕ 禁用谱面自带音效
+> ⭕ 禁用谱面自带音效  
 
 ### 皮肤
 
-- 🔴 忽略所有谱面自带的皮肤
-- ⭕ 使用皮肤的音效
-- 🔴 总是使用皮肤中的光标
-- 🔴 光标大小： _0.7x_
-- ⭕ 自动缩放光标
-- ⭕ 拖球的颜色随滑条改变
+> 🔴 忽略所有谱面自带的皮肤  
+> ⭕ 使用皮肤的音效  
+> 🔴 总是使用皮肤中的光标  
+> 🔴 光标大小： _0.7x_  
+> ⭕ 自动缩放光标  
+> ⭕ 拖球的颜色随滑条改变  
 
 ### 鼠标
 
-- ⭕ 点击波纹
+> ⭕ 点击波纹  
 
 ## 最新版下载
 
@@ -174,7 +174,7 @@ Century Gothic
 <details>
 
 1. 将图片导出格式设置为 `.PNG`，通道为 `RGB+Alpha`，名称为`合成名称`
-2. 将动画导出格式设置为 `.PNG（序列）`，通道为 `RGB+Alpha`，根据情况选择使用合成帧编号，名称为`合成名称`，删去文件名的 **`_[#]`** 后缀 **（噔噔咚~是 `_[#]` ！不是 `-[#]` 或 `[#]` ！）**
+2. 将动画导出格式设置为 `.PNG（序列）`，通道为 `RGB+Alpha`，根据情况选择使用合成帧编号，名称为`合成名称`，删去文件名的 **`_[#]`** 后缀 **（噔噔咚~ 是 `_[#]` ！不是 `-[#]` 或 `[#]` ！）**
 
 </details>
 
@@ -198,8 +198,8 @@ Century Gothic
 
 ## 引用素材来源
 
-- `style_lazer/old` 来自 `ppy/osu`
-- 部分颜色取自 SwordArtOnline 的[官方网站]
+- `style_lazer/old` 来自 [`ppy/osu`]
+- 部分颜色取自 SAO 动画的[官方网站]
 - 7zip 来自 [7-zip.org]
 
 _非常感谢这些资源的制作者_
@@ -222,6 +222,7 @@ _非常感谢这些资源的制作者_
 [aller]: https://fontmeme.com/fonts/aller-font/
 [官方网站]: https://www.swordart-online.net/
 [7-zip.org]: https://www.7-zip.org/
+[`ppy/osu`]: https://github.com/ppy/osu-resources/
 
 <!--
     ___    _                           ____  ____
