@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_logoB_only.png" width="200" alt="project_logo">
-  <h1>AincradMix</h1>
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_aincradmix.png" width="400" alt="project_logo">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-60%25-orange?style=flat-square" alt="progress">
+  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-99%25-orange?style=flat-square" alt="progress">
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
-  </a>
-  <a href="https://github.com/Sendevia/AincradMix/blob/master/README_EN.MD">
-    <img src="https://img.shields.io/badge/English-%2366ccff.svg?style=flat-square" alt="language switch">
   </a>
 </div>
 
@@ -19,22 +15,21 @@
 
 ### 关于
 
-- `这是一个 osu! 皮肤，它以游戏补丁的方式实现了对 osu! 全部界面元素的覆盖。`
-- `它的设计风格扩展了《刀剑神域》第 1、2 季中操作界面的设计，结合更现代的设计风格，再将两者和谐相融。`
+>  #### 这是一个 osu! 皮肤，它以游戏补丁的方式实现了对 osu! 全部界面元素的覆盖。
+>  #### 它的设计风格扩展了《刀剑神域》第 1、2 季中操作界面的设计，结合更现代的设计风格，再将两者和谐相融。
+>  ~~是一块测试技术的大型试验田~~
 
 ### 优点
 
 1. 扩展了刀剑神域系列番剧中 UI 的设计
-1. 拥有良好的打图手感 (大概
-1. 丰富而不干扰打图的动画效果
-1. 简洁而美观的视觉体验
-1. 覆盖了 osu! 的所有界面元素 **`（WIP）`**
-1. 定制化选项较为丰富 **`（WIP）`**
+2. 拥有较好的打图手感
+3. 简洁而美观的视觉体验
+4. 覆盖了 osu! 的所有界面元素 **`（WIP）`**
+5. 定制化选项较为丰富 **`（WIP）`**
 
 ## 你需要注意的
 
-- 在 std 模式中，本皮肤的 _正常版本_ 适用于 **★6.5** 及以下的大多数谱面（此为估计得出）
-- 建议使用 **16:9** 的屏幕比例游玩 osu! 以获得最佳效果
+- 在 std 模式中，本皮肤的 _**正常版本**_ 适用于 **★6.5** 及以下的大多数谱面（此为估计得出）
 - 在应用全局皮肤时，要注意备份 `osu!ui.dll` 和 `osu!gameplay.dll`
 
 ## 皮肤预览
@@ -134,6 +129,9 @@
   <a href="https://github.com/Sendevia/AincradMix/releases/latest">
     <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300" alt="download">
   </a>
+  <p align="right">
+    Release 1.0 / 2021.12.30
+  </p>
 </div>
 
 ---
@@ -152,7 +150,7 @@
 
 [Saber]  
 Trapcode Suite  
-Halftone
+AESweets Halftone
 
 #### 脚本
 
@@ -175,34 +173,42 @@ Century Gothic
 
 1. 将图片导出格式设置为 `.PNG`，通道为 `RGB+Alpha`，名称为`合成名称`
 2. 将动画导出格式设置为 `.PNG（序列）`，通道为 `RGB+Alpha`，根据情况选择使用合成帧编号，名称为`合成名称`，删去文件名的 **`_[#]`** 后缀 **（噔噔咚~ 是 `_[#]` ！不是 `-[#]` 或 `[#]` ！）**
+3. 你也可以导入本项目提供的 `AOM` 和 `ARS` 文件，具体导入方法恕请另行搜索
+   - `AOM` After Effects 的输出模块模板
+   - `ARS` After Effects 的渲染模块模板
 
 </details>
 
 ## 目录说明
 
+<details>
+
 ```
-┌─addition────────────── 皮肤扩展
+AincradMix
 │
-├─animation───────────── 可选动画
+├─ additions ─────── 皮肤扩展
 │
-├─core────────────────── 皮肤主体
+├─ animations ────── 可选动画
 │
-├─optimization────────── 优化选项
+├─ core ──────────── 皮肤主体
 │
-├─patch───────────────── 可选补丁
+├─ optimizations ─── 优化选项
 │
-├─sound───────────────── 可选音效
+├─ patches ───────── 可选补丁
 │
-└─source──────────────── 工程文件
+├─ sounds ────────── 可选音效
+│
+└─ sources ───────── 工程文件
 ```
+
+</details>
 
 ## 引用素材来源
 
-- `style_lazer/old` 来自 [`ppy/osu`]
+- `style_lazer/old` 来自 [`ppy/osu-resources`]
 - 部分颜色取自 SAO 动画的[官方网站]
-- 7zip 来自 [7-zip.org]
 
-_非常感谢这些资源的制作者_
+_非常感谢这些资源的贡献者_
 
 ## Gitee 镜像
 
@@ -230,4 +236,5 @@ _非常感谢这些资源的制作者_
   / /| | / / __ \/ ___/ ___/ __ `/ __  / /|_/ / / |/_/
  / ___ |/ / / / / /__/ /  / /_/ / /_/ / /  / / />  <
 /_/  |_/_/_/ /_/\___/_/   \__,_/\__,_/_/  /_/_/_/|_|
+redesigned at 2021
 -->
