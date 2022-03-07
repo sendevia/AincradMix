@@ -24,27 +24,28 @@
 1. 扩展了刀剑神域系列番剧中 UI 的设计
 2. 拥有较好的打图手感
 3. 简洁而美观的视觉体验
-4. 覆盖了 osu! 的所有界面元素 **`（WIP）`**
+4. 覆盖了 osu! 的绝大部分的界面元素（通过修改 osu! 的资源 dll）
 5. 定制化选项较为丰富 **`（WIP）`**
 
 ## 你需要注意的
 
 - 在 std 模式中，本皮肤的 _**正常版本**_ 适用于 **★6.5** 及以下的大多数谱面（此为估计得出）
 - 在应用全局皮肤时，要注意备份 `osu!ui.dll` 和 `osu!gameplay.dll`
+- 本皮肤所提供的 dll 文件仅修改了图像资源文件，未做其他修改。如果不放心，你可以使用 dnSpy 非常容易地自行修改
 
 ## 皮肤预览
 
 <details>
-  <summary>宣传图</summary>
+  <summary>主界面</summary>
     <div align="center">
-      <img src="">
+      <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/screenshot01.jpg">
     </div>
 </details>
 
 <details>
-  <summary>主界面</summary>
+  <summary>选歌界面</summary>
     <div align="center">
-      <img src="">
+      <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/screenshot02.jpg">
     </div>
 </details>
 
@@ -130,7 +131,7 @@
     <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300" alt="download">
   </a>
   <p align="right">
-    Release 1.0 / 2021.12.30
+    Release 1.0 / 2022.3.31
   </p>
 </div>
 
