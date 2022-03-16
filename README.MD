@@ -35,6 +35,10 @@
 
 ## 皮肤预览
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_amix_vision.png">
+</div>
+
 <details>
   <summary>主界面</summary>
     <div align="center">
@@ -182,8 +186,6 @@ Century Gothic
 
 ## 目录说明
 
-<details>
-
 ```
 AincradMix
 │
@@ -201,8 +203,6 @@ AincradMix
 │
 └─ sources ───────── 工程文件
 ```
-
-</details>
 
 ## 引用素材来源
 
@@ -228,7 +228,6 @@ _非常感谢这些资源的贡献者_
 [kd-tramcar]: https://fontmeme.com/fonts/kd-tramcar-font/
 [aller]: https://fontmeme.com/fonts/aller-font/
 [官方网站]: https://www.swordart-online.net/
-[7-zip.org]: https://www.7-zip.org/
 [`ppy/osu`]: https://github.com/ppy/osu-resources/
 
 <!--
@@ -237,5 +236,5 @@ _非常感谢这些资源的贡献者_
   / /| | / / __ \/ ___/ ___/ __ `/ __  / /|_/ / / |/_/
  / ___ |/ / / / / /__/ /  / /_/ / /_/ / /  / / />  <
 /_/  |_/_/_/ /_/\___/_/   \__,_/\__,_/_/  /_/_/_/|_|
-redesigned at 2021
+designed by sendevia, 2022
 -->
