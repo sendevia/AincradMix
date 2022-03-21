@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-99%25-orange?style=flat-square" alt="progress">
+  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-100%25-orange?style=flat-square" alt="progress">
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
@@ -25,7 +25,7 @@
 2. 拥有较好的打图手感
 3. 简洁而美观的视觉体验
 4. 覆盖了 osu! 的绝大部分的界面元素（通过修改 osu! 的资源 dll）
-5. 定制化选项较为丰富 **`（WIP）`**
+5. 可进行简单的个性化搭配
 
 ## 你需要注意的
 
@@ -135,7 +135,7 @@
     <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300" alt="download">
   </a>
   <p align="right">
-    Release 1.0 / 2022.3.31
+    Release 1.0 / 2022.3.21
   </p>
 </div>
 
@@ -186,23 +186,15 @@ Century Gothic
 
 ## 目录说明
 
-```
-AincradMix
-│
-├─ additions ─────── 皮肤扩展
-│
-├─ animations ────── 可选动画
-│
-├─ core ──────────── 皮肤主体
-│
-├─ optimizations ─── 优化选项
-│
-├─ patches ───────── 可选补丁
-│
-├─ sounds ────────── 可选音效
-│
-└─ sources ───────── 工程文件
-```
+| 名称 | 说明 |
+| ------------- | ------------- |
+| additions | 皮肤扩展 |
+| animations | 可选动画 |
+| core | 皮肤主体 |
+| optimizations | 优化选项 |
+| patches | 可选补丁 |
+| sounds | 可选音效 |
+| sources | 工程文件 |
 
 ## 引用素材来源
 
@@ -228,7 +220,7 @@ _非常感谢这些资源的贡献者_
 [kd-tramcar]: https://fontmeme.com/fonts/kd-tramcar-font/
 [aller]: https://fontmeme.com/fonts/aller-font/
 [官方网站]: https://www.swordart-online.net/
-[`ppy/osu`]: https://github.com/ppy/osu-resources/
+[`ppy/osu-resources`]: https://github.com/ppy/osu-resources/
 
 <!--
     ___    _                           ____  ____
