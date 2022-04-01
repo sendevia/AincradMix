@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_aincradmix.png" width="400" alt="project_logo">
+  <img src="https://drive.sendevia.top/%E5%9B%BE%E7%89%87/webimg/s0_aincradmix.png" width="400" alt="project_logo">
 </div>
 
 <div align="center">
@@ -31,25 +31,25 @@
 
 - 在 std 模式中，本皮肤的 _**正常版本**_ 适用于 **★6.5** 及以下的大多数谱面（此为估计得出）
 - 在应用全局皮肤时，要注意备份 `osu!ui.dll` 和 `osu!gameplay.dll`
-- 本皮肤所提供的 dll 文件仅修改了图像资源文件，未做其他修改。如果不放心，你可以使用 dnSpy 非常容易地自行修改
+- 本皮肤所提供的 dll 文件仅修改了图像资源，未做其他修改。如果不放心，你可以自己使用 dnSpy 自行修改
 
 ## 皮肤预览
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_amix_vision.png">
+  <img src="https://drive.sendevia.top/%E5%9B%BE%E7%89%87/webimg/s0_amix_vision.png">
 </div>
 
 <details>
   <summary>主界面</summary>
     <div align="center">
-      <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/screenshot01.jpg">
+      <img src="https://drive.sendevia.top/%E5%9B%BE%E7%89%87/webimg/screenshot01.jpg">
     </div>
 </details>
 
 <details>
   <summary>选歌界面</summary>
     <div align="center">
-      <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/screenshot02.jpg">
+      <img src="https://drive.sendevia.top/%E5%9B%BE%E7%89%87/webimg/screenshot02.jpg">
     </div>
 </details>
 
@@ -132,7 +132,7 @@
 
 <div align="center">
   <a href="https://github.com/Sendevia/AincradMix/releases/latest">
-    <img src="https://raw.githubusercontent.com/Sendevia/sendevia.github.io/master/assets/images/s0_button_download_1.png" width="300" alt="download">
+    <img src="https://drive.sendevia.top/%E5%9B%BE%E7%89%87/webimg/s0_button_download_1.png" width="300" alt="download">
   </a>
   <p align="right">
     Release 1.0 / 2022.3.21
