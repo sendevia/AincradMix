@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/s0_aincradmix.png" width="400" alt="project_logo">
+  <img src="https://sendevia.top/assets/images/22/06/11/s0_aincradmix.png" width="400" alt="project_logo">
 </div>
 
 <div align="center">
@@ -36,61 +36,61 @@
 ## 皮肤预览
 
 <div align="center">
-  <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/s0_amix_vision.png">
+  <img src="https://sendevia.top/assets/images/22/06/11/s0_amix_vision.png">
 </div>
 
 <details>
   <summary>主界面</summary>
     <div align="center">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot01.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot01.jpg">
     </div>
 </details>
 
 <details>
   <summary>选歌界面</summary>
     <div align="center">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot02.jpg">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot06.jpg">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot07.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot02.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot06.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot07.jpg">
     </div>
 </details>
 
 <details>
   <summary>std 模式</summary>
     <div align="center">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot03.jpg">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot04.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot03.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot04.jpg">
     </div>
 </details>
 
 <details>
   <summary>mania 模式</summary>
     <div align="center">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot09.jpg">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot08.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot09.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot08.jpg">
     </div>
 </details>
 
 <details>
   <summary>taiko 模式</summary>
     <div align="center">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot10.jpg">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot11.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot10.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot11.jpg">
     </div>
 </details>
 
 <details>
   <summary>catch 模式</summary>
     <div align="center">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot12.jpg">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot13.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot12.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot13.jpg">
     </div>
 </details>
 
 <details>
   <summary>成绩结算</summary>
     <div align="center">
-      <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/screenshot05.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot05.jpg">
     </div>
 </details>
 
@@ -137,7 +137,7 @@
 
 <div align="center">
   <a href="https://github.com/Sendevia/AincradMix/releases/latest">
-    <img src="https://via-alist.herokuapp.com/d/onedrive/webimg/s0_button_download_1.png" width="300" alt="download">
+    <img src="https://sendevia.top/assets/images/22/06/11/s0_button_download_1.png" width="300" alt="download">
   </a>
   <p align="right">
     Release 1.0 / 2022.3.21
