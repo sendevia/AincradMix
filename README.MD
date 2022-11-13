@@ -11,6 +11,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://sendevia.top/assets/images/22/06/11/s0_amix_vision.webp">
+</div>
+
 ## 介绍
 
 ### 关于
@@ -34,10 +38,6 @@
 - 本皮肤所提供的 dll 文件仅替换了图像资源，未做其他修改。如果不放心，你可以使用 dnSpy 自行替换文件
 
 ## 皮肤预览
-
-<div align="center">
-  <img src="https://sendevia.top/assets/images/22/06/11/s0_amix_vision.png">
-</div>
 
 <details>
   <summary>主界面</summary>
@@ -204,7 +204,6 @@ Century Gothic
 ## 引用素材来源
 
 - `style_lazer/old` 来自 [`ppy/osu-resources`]
-- 部分颜色取自 SAO 动画的[官方网站]
 
 _非常感谢这些资源的贡献者_
 
@@ -224,7 +223,6 @@ _非常感谢这些资源的贡献者_
 [sao-ui]: https://fontmeme.com/fonts/sao-ui-font/
 [kd-tramcar]: https://fontmeme.com/fonts/kd-tramcar-font/
 [aller]: https://fontmeme.com/fonts/aller-font/
-[官方网站]: https://www.swordart-online.net/
 [`ppy/osu-resources`]: https://github.com/ppy/osu-resources/
 
 <!--
