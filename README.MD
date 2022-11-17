@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://sendevia.top/assets/images/22/06/11/s0_aincradmix.png" width="400" alt="project_logo">
+  <img src="https://sendevia.top/assets/images/22/06/11/s0_aincradmix.webp" width="400" alt="project_logo">
 </div>
 
 <div align="center">
@@ -42,55 +42,55 @@
 <details>
   <summary>主界面</summary>
     <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot01.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot01.webp">
     </div>
 </details>
 
 <details>
   <summary>选歌界面</summary>
     <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot02.jpg">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot06.jpg">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot07.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot02.webp">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot06.webp">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot07.webp">
     </div>
 </details>
 
 <details>
   <summary>std 模式</summary>
     <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot03.jpg">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot04.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot03.webp">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot04.webp">
     </div>
 </details>
 
 <details>
   <summary>mania 模式</summary>
     <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot09.jpg">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot08.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot09.webp">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot08.webp">
     </div>
 </details>
 
 <details>
   <summary>taiko 模式</summary>
     <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot10.jpg">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot11.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot10.webp">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot11.webp">
     </div>
 </details>
 
 <details>
   <summary>catch 模式</summary>
     <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot12.jpg">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot13.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot12.webp">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot13.webp">
     </div>
 </details>
 
 <details>
   <summary>成绩结算</summary>
     <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot05.jpg">
+      <img src="https://sendevia.top/assets/images/22/06/11/screenshot05.webp">
     </div>
 </details>
 
@@ -137,7 +137,7 @@
 
 <div align="center">
   <a href="https://github.com/Sendevia/AincradMix/releases/latest">
-    <img src="https://sendevia.top/assets/images/22/06/11/s0_button_download_1.png" width="300" alt="download">
+    <img src="https://sendevia.top/assets/images/22/06/11/s0_button_download_1.webp" width="300" alt="download">
   </a>
   <p align="right">
     Release 1.0 / 2022.3.21
