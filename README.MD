@@ -1,9 +1,6 @@
-<div align="center">
-  <img src="https://sendevia.top/assets/images/22/06/11/s0_aincradmix.webp" width="400" alt="project_logo">
-</div>
+![LOGO](https://sendevia.top/assets/images/22/s0_aincradmix.webp)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-100%25-orange?style=flat-square" alt="progress">
   <a href="https://github.com/Sendevia/AincradMix/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Sendevia/AincradMix.svg?color=%23FF005A&style=popout-square" alt="license">
   </a>
@@ -11,88 +8,62 @@
 
 ---
 
-<div align="center">
-  <img src="https://sendevia.top/assets/images/22/06/11/s0_amix_vision.webp">
-</div>
+![宣传图](https://sendevia.top/assets/images/22/s0_amix_vision.webp)
 
 ## 介绍
 
 ### 关于
 
->  #### 这是一个 osu! 皮肤，它以游戏补丁的方式实现了对 osu! 全部界面元素的覆盖。
->  #### 它的设计风格扩展了《刀剑神域》第 1、2 季中操作界面的设计，结合更现代的设计风格，再将两者和谐相融。
->  ~~是一块测试技术的大型试验田~~
+> 1. 通过游戏补丁的方式，做到了几乎全部的 osu! 的界面元素覆盖。
+> 2. 结合更现代的设计，扩展了《刀剑神域》第 1、2 季中出现的操作界面的设计。
 
-### 优点
+## 优点
 
-1. 扩展了刀剑神域系列番剧中 UI 的设计
-2. 拥有较好的打图手感
-3. 简洁而美观的视觉体验
-4. 覆盖了 osu! 的绝大部分的界面元素（通过修改 osu! 的资源 dll）
+1. 使用了类 sao ui 的设计风格
+2. 有较好的打图手感
+3. 简而美的视觉体验
+4. 覆盖了 osu! 的绝大部分的界面元素[^1]
 5. 可进行简单的个性化搭配
 
 ## 你需要注意的
 
-- 在 std 模式中，本皮肤的 _**正常版本**_ 适用于 **★6.5** 及以下的大多数谱面（此为估计得出）
+- 在 std 模式中，本皮肤的 _**正常版本**_ 适用于 **★6.5** 及以下的大多数谱面[^2]
 - 在应用全局皮肤时，要注意备份 `osu!ui.dll` 和 `osu!gameplay.dll`
 - 本皮肤所提供的 dll 文件仅替换了图像资源，未做其他修改。如果不放心，你可以使用 dnSpy 自行替换文件
 
+[^1]: 通过修改 osu! 的资源 dll。
+[^2]: 此为估计得出。
+
 ## 皮肤预览
+# 皮肤预览
 
-<details>
-  <summary>主界面</summary>
-    <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot01.webp">
-    </div>
-</details>
+![主界面](https://sendevia.top/assets/images/22/screenshot01.webp)
 
-<details>
-  <summary>选歌界面</summary>
-    <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot02.webp">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot06.webp">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot07.webp">
-    </div>
-</details>
+![选歌界面1](https://sendevia.top/assets/images/22/screenshot02.webp)
+![选歌界面2](https://sendevia.top/assets/images/22/screenshot06.webp)
+![选歌界面3](https://sendevia.top/assets/images/22/screenshot07.webp)
 
-<details>
-  <summary>std 模式</summary>
-    <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot03.webp">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot04.webp">
-    </div>
-</details>
+## std 模式
 
-<details>
-  <summary>mania 模式</summary>
-    <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot09.webp">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot08.webp">
-    </div>
-</details>
+![std 模式1](https://sendevia.top/assets/images/22/screenshot03.webp)
+![std 模式2](https://sendevia.top/assets/images/22/screenshot04.webp)
 
-<details>
-  <summary>taiko 模式</summary>
-    <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot10.webp">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot11.webp">
-    </div>
-</details>
+## mania 模式
 
-<details>
-  <summary>catch 模式</summary>
-    <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot12.webp">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot13.webp">
-    </div>
-</details>
+![mania 模式1](https://sendevia.top/assets/images/22/screenshot09.webp)
+![mania 模式2](https://sendevia.top/assets/images/22/screenshot08.webp)
 
-<details>
-  <summary>成绩结算</summary>
-    <div align="center">
-      <img src="https://sendevia.top/assets/images/22/06/11/screenshot05.webp">
-    </div>
-</details>
+## taiko 模式
+
+![taiko 模式1](https://sendevia.top/assets/images/22/screenshot10.webp)
+![taiko 模式2](https://sendevia.top/assets/images/22/screenshot11.webp)
+
+## catch 模式
+
+![catch 模式1](https://sendevia.top/assets/images/22/screenshot12.webp)
+![catch 模式2](https://sendevia.top/assets/images/22/screenshot13.webp)
+
+![成绩结算](https://sendevia.top/assets/images/22/screenshot05.webp)
 
 ## 推荐设置
 
@@ -137,7 +108,7 @@
 
 <div align="center">
   <a href="https://github.com/Sendevia/AincradMix/releases/latest">
-    <img src="https://sendevia.top/assets/images/22/06/11/s0_button_download_1.webp" width="300" alt="download">
+    <img src="https://sendevia.top/assets/images/22/s0_button_download_1.webp" width="300" alt="download">
   </a>
   <p align="right">
     Release 1.0 / 2022.3.21
