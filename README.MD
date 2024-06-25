@@ -24,6 +24,7 @@
 3. 简而美的视觉体验
 4. 覆盖了 osu! 的绝大部分的界面元素[^1]
 5. 可进行简单的个性化搭配
+6. 兼容 osu!lazer
 
 ## 你需要注意的
 
@@ -35,6 +36,7 @@
 [^2]: 此为估计得出。
 
 ## 皮肤预览
+
 # 皮肤预览
 
 ![主界面](https://sendevia.top/assets/images/22/screenshot01.webp)
@@ -111,7 +113,7 @@
     <img src="https://sendevia.top/assets/images/22/s0_button_download_1.webp" width="300" alt="download">
   </a>
   <p align="right">
-    Release 1.0 / 2022.3.21
+    Release 1.1 / 2024.6.25
   </p>
 </div>
 
@@ -178,14 +180,6 @@ Century Gothic
 
 _非常感谢这些资源的贡献者_
 
-## Gitee 镜像
-
-<div align="center">
-  <a href="https://gitee.com/sendevia/AincradMix">
-    <img src="https://gitee.com/sendevia/AincradMix/widgets/widget_6.svg?color=ff711e" width="200" alt="Fork me on Gitee">
-  </a>
-</div>
-
 <!-- 链接索引 -->
 
 [saber]: https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
@@ -202,5 +196,5 @@ _非常感谢这些资源的贡献者_
   / /| | / / __ \/ ___/ ___/ __ `/ __  / /|_/ / / |/_/
  / ___ |/ / / / / /__/ /  / /_/ / /_/ / /  / / />  <
 /_/  |_/_/_/ /_/\___/_/   \__,_/\__,_/_/  /_/_/_/|_|
-designed by sendevia, 2022
+copyright 2024 sendevia
 -->
